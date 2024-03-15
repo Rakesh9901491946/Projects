@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+</head>
+<body>
+    <div class="dashboard-container">
+ 
+        <h1>Hush Hush</h1>
+     <div class="menu">
+            <h3><a href="{{ url_for('overview') }}">Overview</a></h3>
+            <h3>Interviews</h3>
+            <h3><a href="mailto:njrakesh75@gmail.com?subject=Feedback%20for%20Hush%20Hush&body=Please%20write%20your%20feedback%20here.">Feedback</a></h3>
+
+            <h3><a href="{{ url_for('candidate_requirements') }}">Candidate Requirements List</a></h3>
+    
+    </div>
+    <div class="view_candidate">
+        <button type="view">view candidate</button>
+           
+        </div>
+       
+    </div>
+</body>
+</html>

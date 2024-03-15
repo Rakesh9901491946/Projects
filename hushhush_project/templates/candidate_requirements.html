@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Candidate Requirements</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='candidate_requirements.css') }}">
+</head>
+<body>
+    <div class="requirement-container">
+        <h1>Candidate Requirements</h1>
+         <form action="/submit-candidate-requirements" method="post"> 
+          
+            <label for="job-roles" id = 'JR'>Job Roles:</label>
+            <select id="job-roles" name="job_roles">
+                <option value="Data Scientist">Data Scientist</option>
+                <option value="Python Web Developer">Python Web Developer</option>
+                <option value="Java Developer">Java Developer</option>
+                <option value="C++ Developer">C++ Developer</option>
+                <option value="Solutions Architect">Solutions Architect</option>
+                <option value="AI Engineer">AI Engineer</option>
+            </select>
+            <div class="yoe">
+                <label for="years-of-experience">Years of Experience:</label>
+                <select id="years-of-experience" name="years_of_experience">
+
+                    <option value="Fresher">Fresher</option>
+                    <option value="1-3 years">1-3 years</option>
+                    <option value="3-5 years">3-5 years</option>
+                    <option value="5-7 years">5-7 years</option>
+                    <option value="7-9 years">7-9 years</option>
+                    <option value="10+ years">10+ years</option>
+                </select>
+            </div>
+            <div class="number_of_candidates">
+                <label for="number_of_candidates">Number of Candidates:</label>
+                <input type="number" id="number_of_candidates" name="number_of_candidates" min="1" required placeholder="Number of candidates">
+                <button type="submit" id="buttons">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

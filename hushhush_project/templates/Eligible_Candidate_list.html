@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eligible Candidate Lists</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <h1>Eligible Candidate Lists</h1>
+    {% if candidates %}
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Reputation</th>
+                    <th>Location</th>
+                    <th>Action</th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                {% for candidate in candidates %}
+                <tr>
+                    <td>{{ candidate.user_id }}</td>
+                    <td>{{ candidate.name }}</td>
+                    <td>{{ candidate.reputation }}</td>
+                    <td>{{ candidate.location }}</td>
+                    <td><button onclick="sendEmailToCandidate({{ candidate.user_id }})" class="btn btn-primary">Send Email</button></td>
+
+                    
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endif %}
+</body>
+
+<script>
+    function sendEmailToCandidate(userId) {
+        
+        console.log('Sending email to user with id: ' + userId);
+        var emailSubject = encodeURIComponent("Invitation for Interview");
+        var codingLink = "http://127.0.0.1:5003/coding/" + userId;
+        var emailBody = encodeURIComponent("Dear Candidate ,\n\nCongratulations you have been invited to attend coding test for doodle.\n\n Here is your coding test link: "+codingLink+ "\n\n Note: This link is valid for only next 48 hours.\n\nBest Regards,\n[Doodle]");
+        
+        fetch('/add_selected_candidate?user_id=' + userId)
+        .then(response => response.json())
+        .then(data => {
+            if (data.status === 'success') {
+                alert('Email sent successfully');
+            } else {
+                alert('Failed to send email');
+            }
+        });
+
+        window.location.href = 'mailto:' + userId + '@yopmail.com?subject=' + emailSubject + '&body=' + emailBody;
+    }
+</script>
+
+</html>

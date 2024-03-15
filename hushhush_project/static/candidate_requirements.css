@@ -1,0 +1,28 @@
+.yoe{
+    margin-left: 300px;
+    margin-top: -20px;
+    font-weight: bold;
+    
+}
+.number_of_candidates {
+   
+    margin-left: 600px;
+    margin-top: -20px;  
+    position:absolute;
+    font-weight: bold;
+ 
+   
+}
+#JR{
+    font-weight: bold;
+}
+
+
+#buttons {
+    background-color: rgb(29, 29, 157);
+    color: white;
+    width: 100px;
+    margin-left: 40px;
+    /* height: 40px; */
+}
+

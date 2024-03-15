@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest Job Requirement</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+</head>
+<body>
+    <div class="dashboard-container">
+        <h1>Latest Job Requirement</h1>
+        {% if latest_job_requirement %}
+            <div>
+                <p><strong>Job Role:</strong> <span id="job_role">{{ latest_job_requirement.job_role }}</span></p>
+                <p><strong>Years of Experience:</strong> <span id="yoe">{{ latest_job_requirement.years_of_experience }}</span></p>
+                <p><strong>Number of Candidates:</strong> <span id="num_candidates">{{ latest_job_requirement.number_of_candidates }}</span></p>
+                <p><button id="eligible-candidates-list">Eligible Candidates List</button></p>
+            </div>
+        {% else %}
+            <p>No job requirements found.</p>
+        {% endif %}
+    </div>
+</body>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+<script>
+    $(document).ready(function() {
+        $('#eligible-candidates-list').click(function() {
+            var job_role = $('#job_role').text();
+            var num_candidates = $('#num_candidates').text();
+            
+            var encoded_job_role = encodeURIComponent(job_role);
+
+            window.location.href = window.location.origin + '/Eligible_Candidate_list?role=' + encoded_job_role + '&num=' + num_candidates;
+        });
+    });
+</script>
+
+</html>

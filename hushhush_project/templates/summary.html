@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overview</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <h1>Overview</h1>
+    {% for fb in feedback['feedback'] %}
+        <div style='background: white; padding: 3px; border-radius: 15px;'>
+            <p>Question: {{ fb.question }}</p>
+            <p>Feedback: {{ fb.feedback }}</p>
+            <p>Time Complexity: {{ fb.time_complexity }}</p>
+            <p>Space Complexity: {{ fb.space_complexity }}</p>
+        </div>
+        <hr>
+    {% endfor %}
+    <a href="/set_result/{{ feedback['user_id'] }}/No" class="btn btn-danger">Reject</a>
+    <a href="/set_result/{{ feedback['user_id'] }}/Yes" class="btn btn-success">Success</a>
+</body>
+</html>

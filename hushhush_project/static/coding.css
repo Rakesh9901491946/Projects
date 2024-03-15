@@ -1,0 +1,40 @@
+#CodeSubmit{
+    background-color: rgb(71, 71, 147);
+    max-width: max-content;
+    font-weight:bold;
+    color:white;
+    position: absolute;
+    top: 300px;
+    left: 560px;
+    align-items: center;
+    display: flex;
+}
+#textarea{
+    align-items: center;
+    position: absolute;
+    left: 400px;
+    top:100px;
+    margin-top:30px;
+}
+#question{
+    position: absolute;
+    left: 477px;
+    font-size: 20px;
+} 
+
+#buttons {
+    background-color: rgb(29, 29, 157);
+    color: white;
+    width: 100px;
+    margin-left: 40px;
+    /* height: 40px; */
+}
+#codeSolution1{
+    margin-left: 15px;
+}
+#codeSolution2{
+    margin-left: 15px;
+}
+#codeSolution3{
+    margin-left: 15px;
+}

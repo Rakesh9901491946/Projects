@@ -1,0 +1,48 @@
+<!-- overview.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Overview</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+  
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
+    <h1>Overview</h1>
+    <table class="table table-bordered" id = "overviewTable">
+        <thead>
+            <tr>
+                <th>User Id</th>
+                <th>Attempted Exam</th>
+                <th>Evaluated</th>
+                <th>Selected</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for sc in selected_candidates %}
+            <tr>
+                <td>{{ sc.user_id }}</td>
+                <td>{{ sc.attempted }}</td>
+                <td>{{ sc.evaluated }}</td>
+                <td>{{ sc.selected }}</td>
+                <td>
+                    {% if sc.attempted == 'Yes' %}
+                        {% if sc.selected == 'Yes' %}
+                            <h3><a href="mailto:{{ sc.user_id }}@yopmail.com?subject=%20Test Results%20{{sc.user_id }}&body=Congratulations,%20you%20have%20been%20selected%20for%20the%20next%20round.%20We%20will%20reach%20out%20to%20you%20shortly%20for%20the%20next%20process." class="btn btn-success">Yes Mail</a></h3>
+                        {% else %}
+                            <h3><a href="mailto:{{ sc.user_id }}@yopmail.com?subject=%20Test Results%20{{sc.user_id }}&body=We%20regret%20to%20inform%20you%20that%20you%20have%20not%20been%20selected%20for%20the%20next%20round.%20All%20the%20best%20for%20future%20endeavours." class="btn btn-danger">No Mail</a></h3>
+                        {% endif %}
+                    {% else %}
+                        <p>No Action Required</p>
+                    {% endif %}
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!-- overview.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overview</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+   
+  
+
+</head>
+<body>
+    <h1>Overview</h1>
+    <table class="table table-bordered" style="color:black;" id = "overviewTable"> 
+        <thead>
+            <tr>
+                <th>User Id</th>
+                <th>Attempted Exam</th>
+                <th>Evaluated</th>
+                <th>Selected</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for sc in selected_candidates %}
+            <tr>
+                <td>{{ sc.user_id }}</td>
+                <td>{{ sc.attempted }}</td>
+                <td>{{ sc.evaluated }}</td>
+                <td>{{ sc.selected }}</td>
+                <td>
+                    <a href="/summary/{{ sc.user_id }}" class="btn btn-primary">Summary</a>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
