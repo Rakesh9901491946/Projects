@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "OTLP_EXPORTER_ENDPOINT": "http://localhost:14317",
+    "OPENAI_ENDPOINT": "",
+    "OPENAI_COMPLETION_DEPLOYMENT": "gpt-4o",
+    "MANAGED_IDENTITY_CLIENT_ID": "",
+    "INVOICES_STORAGE_ACCOUNT_NAME": "UseDevelopmentStorage=true",
+    "INVOICES_QUEUE_CONNECTION": "UseDevelopmentStorage=true"
+  }
+}
