@@ -133,4 +133,4 @@ For questions or suggestions, please contact [your-email@example.com](mailto:you
 
 ---
 
-### Made with ❤️ by [Your Name]
+### Made with ❤️ by Rak
