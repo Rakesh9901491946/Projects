@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Classification</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <style>
+    /* Custom styles for prediction result */
+    #predictionResult {
+      top: 0;
+      background-color: black;
+      border-radius: 5px;
+      width: 100%;
+      z-index: 9999;
+    }
+    .prediction-alert {
+      font-size: 24px;
+      color: #007bff;
+      background-color: #f8f9fa;
+      border-color: #332c9e;
+      border-radius: 5px;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div id="predictionResult"></div>
+    <h1 class="mt-5">Image Classification</h1>
+    <div class="form-group mt-4">
+      <input type="file" id="imageUpload" accept=".jpg, .jpeg, .png" onchange="previewImage(event)">
+      <label for="imageUpload" id="uploadLabel" class="btn btn-primary">Upload an image (jpg, jpeg, png)</label>
+    </div>
+    <div id="imagePreview" class="mt-4"></div>
+    <button id="predictButton" class="btn btn-success mt-3" onclick="predictImage()">Predict</button>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
