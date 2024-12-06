@@ -1,0 +1,1045 @@
+medal_type,medal_code,medal_date,name,gender,discipline,event,event_type,url_event,code,country_code,country,country_long
+Gold Medal,1,2024-07-27,Remco EVENEPOEL,M,Cycling Road,Men's Individual Time Trial,ATH,/en/paris-2024/results/cycling-road/men-s-individual-time-trial/fnl-000100--,1903136,BEL,Belgium,Belgium
+Silver Medal,2,2024-07-27,Filippo GANNA,M,Cycling Road,Men's Individual Time Trial,ATH,/en/paris-2024/results/cycling-road/men-s-individual-time-trial/fnl-000100--,1923520,ITA,Italy,Italy
+Bronze Medal,3,2024-07-27,Wout van AERT,M,Cycling Road,Men's Individual Time Trial,ATH,/en/paris-2024/results/cycling-road/men-s-individual-time-trial/fnl-000100--,1903147,BEL,Belgium,Belgium
+Gold Medal,1,2024-07-27,Grace BROWN,W,Cycling Road,Women's Individual Time Trial,ATH,/en/paris-2024/results/cycling-road/women-s-individual-time-trial/fnl-000100--,1940173,AUS,Australia,Australia
+Silver Medal,2,2024-07-27,Anna HENDERSON,W,Cycling Road,Women's Individual Time Trial,ATH,/en/paris-2024/results/cycling-road/women-s-individual-time-trial/fnl-000100--,1912525,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-07-27,Chloe DYGERT,W,Cycling Road,Women's Individual Time Trial,ATH,/en/paris-2024/results/cycling-road/women-s-individual-time-trial/fnl-000100--,1955079,USA,United States,United States of America
+Gold Medal,1,2024-07-27,China,W,Diving,Women's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/women-s-synchronised-3m-springboard/fnl-000100--,DIVW3MTEAM2-CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-27,United States,W,Diving,Women's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/women-s-synchronised-3m-springboard/fnl-000100--,DIVW3MTEAM2-USA01,USA,United States,United States of America
+Bronze Medal,3,2024-07-27,Great Britain,W,Diving,Women's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/women-s-synchronised-3m-springboard/fnl-000100--,DIVW3MTEAM2-GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-07-27,OH Sanguk,M,Fencing,Men's Sabre Individual,HATH,/en/paris-2024/results/fencing/men-s-sabre-individual/fnl-000100--,1927149,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-07-27,Fares FERJANI,M,Fencing,Men's Sabre Individual,HATH,/en/paris-2024/results/fencing/men-s-sabre-individual/fnl-000100--,1937783,TUN,Tunisia,Tunisia
+Bronze Medal,3,2024-07-27,Luigi SAMELE,M,Fencing,Men's Sabre Individual,HATH,/en/paris-2024/results/fencing/men-s-sabre-individual/fnl-000200--,1924595,ITA,Italy,Italy
+Gold Medal,1,2024-07-27,KONG Man Wai Vivian,W,Fencing,Women's Épée Individual,HATH,/en/paris-2024/results/fencing/women-s-epee-individual/fnl-000100--,1963262,HKG,"Hong Kong, China","Hong Kong, China"
+Silver Medal,2,2024-07-27,Auriane MALLO-BRETON,W,Fencing,Women's Épée Individual,HATH,/en/paris-2024/results/fencing/women-s-epee-individual/fnl-000100--,1916183,FRA,France,France
+Bronze Medal,3,2024-07-27,Eszter MUHARI,W,Fencing,Women's Épée Individual,HATH,/en/paris-2024/results/fencing/women-s-epee-individual/fnl-000200--,1946375,HUN,Hungary,Hungary
+Gold Medal,1,2024-07-27,Yeldos SMETOV,M,Judo,Men -60 kg,HATH,/en/paris-2024/results/judo/men--60-kg/fnl-000100--,1935408,KAZ,Kazakhstan,Kazakhstan
+Silver Medal,2,2024-07-27,Luka MKHEIDZE,M,Judo,Men -60 kg,HATH,/en/paris-2024/results/judo/men--60-kg/fnl-000100--,1891304,FRA,France,France
+Bronze Medal,3,2024-07-27,NAGAYAMA Ryuju,M,Judo,Men -60 kg,HATH,/en/paris-2024/results/judo/men--60-kg/repf000100--,1896752,JPN,Japan,Japan
+Bronze Medal,3,2024-07-27,Francisco GARRIGOS,M,Judo,Men -60 kg,HATH,/en/paris-2024/results/judo/men--60-kg/repf000200--,1563544,ESP,Spain,Spain
+Gold Medal,1,2024-07-27,TSUNODA Natsumi,W,Judo,Women -48 kg,HATH,/en/paris-2024/results/judo/women--48-kg/fnl-000100--,1896735,JPN,Japan,Japan
+Silver Medal,2,2024-07-27,Baasankhuu BAVUUDORJ,W,Judo,Women -48 kg,HATH,/en/paris-2024/results/judo/women--48-kg/fnl-000100--,1914467,MGL,Mongolia,Mongolia
+Bronze Medal,3,2024-07-27,Shirine BOUKLI,W,Judo,Women -48 kg,HATH,/en/paris-2024/results/judo/women--48-kg/repf000100--,1891280,FRA,France,France
+Bronze Medal,3,2024-07-27,Tara BABULFATH,W,Judo,Women -48 kg,HATH,/en/paris-2024/results/judo/women--48-kg/repf000200--,1571911,SWE,Sweden,Sweden
+Gold Medal,1,2024-07-27,France,M,Rugby Sevens,Men,HTEAM,/en/paris-2024/results/rugby-sevens/men/fnl-000100--,RU7MTEAM7---FRA01,FRA,France,France
+Silver Medal,2,2024-07-27,Fiji,M,Rugby Sevens,Men,HTEAM,/en/paris-2024/results/rugby-sevens/men/fnl-000100--,RU7MTEAM7---FIJ01,FIJ,Fiji,Fiji
+Bronze Medal,3,2024-07-27,South Africa,M,Rugby Sevens,Men,HTEAM,/en/paris-2024/results/rugby-sevens/men/fnl-000200--,RU7MTEAM7---RSA01,RSA,South Africa,South Africa
+Gold Medal,1,2024-07-27,China 1,X,Shooting,10m Air Rifle Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-rifle-mixed-team/fnl-000100--,SHOXARMT----CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-27,Korea 1,X,Shooting,10m Air Rifle Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-rifle-mixed-team/fnl-000100--,SHOXARMT----KOR01,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-07-27,Kazakhstan 1,X,Shooting,10m Air Rifle Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-rifle-mixed-team/fnl-000200--,SHOXARMT----KAZ01,KAZ,Kazakhstan,Kazakhstan
+Gold Medal,1,2024-07-27,United States,M,Swimming,Men's 4 x 100m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-100m-freestyle-relay/fnl-000100--,SWMM4X100MFRUSA01,USA,United States,United States of America
+Silver Medal,2,2024-07-27,Australia,M,Swimming,Men's 4 x 100m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-100m-freestyle-relay/fnl-000100--,SWMM4X100MFRAUS01,AUS,Australia,Australia
+Bronze Medal,3,2024-07-27,Italy,M,Swimming,Men's 4 x 100m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-100m-freestyle-relay/fnl-000100--,SWMM4X100MFRITA01,ITA,Italy,Italy
+Gold Medal,1,2024-07-27,Lukas MAERTENS,M,Swimming,Men's 400m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-400m-freestyle/fnl-000100--,1907192,GER,Germany,Germany
+Silver Medal,2,2024-07-27,Elijah WINNINGTON,M,Swimming,Men's 400m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-400m-freestyle/fnl-000100--,1946172,AUS,Australia,Australia
+Bronze Medal,3,2024-07-27,KIM Woomin,M,Swimming,Men's 400m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-400m-freestyle/fnl-000100--,4654306,KOR,Korea,Republic of Korea
+Gold Medal,1,2024-07-27,Australia,W,Swimming,Women's 4 x 100m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-100m-freestyle-relay/fnl-000100--,SWMW4X100MFRAUS01,AUS,Australia,Australia
+Silver Medal,2,2024-07-27,United States,W,Swimming,Women's 4 x 100m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-100m-freestyle-relay/fnl-000100--,SWMW4X100MFRUSA01,USA,United States,United States of America
+Bronze Medal,3,2024-07-27,China,W,Swimming,Women's 4 x 100m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-100m-freestyle-relay/fnl-000100--,SWMW4X100MFRCHN01,CHN,China,People's Republic of China
+Gold Medal,1,2024-07-27,Ariarne TITMUS,W,Swimming,Women's 400m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-400m-freestyle/fnl-000100--,1946150,AUS,Australia,Australia
+Silver Medal,2,2024-07-27,Summer McINTOSH,W,Swimming,Women's 400m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-400m-freestyle/fnl-000100--,1967140,CAN,Canada,Canada
+Bronze Medal,3,2024-07-27,Katie LEDECKY,W,Swimming,Women's 400m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-400m-freestyle/fnl-000100--,1935938,USA,United States,United States of America
+Gold Medal,1,2024-07-28,Korea,W,Archery,Women's Team,HTEAM,/en/paris-2024/results/archery/women-s-team/fnl-000100--,ARCWTEAM3---KOR01,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-07-28,China,W,Archery,Women's Team,HTEAM,/en/paris-2024/results/archery/women-s-team/fnl-000100--,ARCWTEAM3---CHN01,CHN,China,People's Republic of China
+Bronze Medal,3,2024-07-28,Mexico,W,Archery,Women's Team,HTEAM,/en/paris-2024/results/archery/women-s-team/fnl-000200--,ARCWTEAM3---MEX01,MEX,Mexico,Mexico
+Gold Medal,1,2024-07-28,Jessica FOX,W,Canoe Slalom,Women's Kayak Single,ATH,/en/paris-2024/results/canoe-slalom/women-s-kayak-single/fnl-000100--,1940205,AUS,Australia,Australia
+Silver Medal,2,2024-07-28,Klaudia ZWOLINSKA,W,Canoe Slalom,Women's Kayak Single,ATH,/en/paris-2024/results/canoe-slalom/women-s-kayak-single/fnl-000100--,1942126,POL,Poland,Poland
+Bronze Medal,3,2024-07-28,Kimberley WOODS,W,Canoe Slalom,Women's Kayak Single,ATH,/en/paris-2024/results/canoe-slalom/women-s-kayak-single/fnl-000100--,1896045,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-07-28,Pauline FERRAND PREVOT,W,Cycling Mountain Bike,Women's Cross-country,ATH,/en/paris-2024/results/cycling-mountain-bike/women-s-cross-country/fnl-000100--,1895672,FRA,France,France
+Silver Medal,2,2024-07-28,Haley BATTEN,W,Cycling Mountain Bike,Women's Cross-country,ATH,/en/paris-2024/results/cycling-mountain-bike/women-s-cross-country/fnl-000100--,1955070,USA,United States,United States of America
+Bronze Medal,3,2024-07-28,Jenny RISSVEDS,W,Cycling Mountain Bike,Women's Cross-country,ATH,/en/paris-2024/results/cycling-mountain-bike/women-s-cross-country/fnl-000100--,1564023,SWE,Sweden,Sweden
+Gold Medal,1,2024-07-28,KANO Koki,M,Fencing,Men's Épée Individual,HATH,/en/paris-2024/results/fencing/men-s-epee-individual/fnl-000100--,1896548,JPN,Japan,Japan
+Silver Medal,2,2024-07-28,Yannick BOREL,M,Fencing,Men's Épée Individual,HATH,/en/paris-2024/results/fencing/men-s-epee-individual/fnl-000100--,1916194,FRA,France,France
+Bronze Medal,3,2024-07-28,Mohamed ELSAYED,M,Fencing,Men's Épée Individual,HATH,/en/paris-2024/results/fencing/men-s-epee-individual/fnl-000200--,1936462,EGY,Egypt,Egypt
+Gold Medal,1,2024-07-28,Lee KIEFER,W,Fencing,Women's Foil Individual,HATH,/en/paris-2024/results/fencing/women-s-foil-individual/fnl-000100--,1950611,USA,United States,United States of America
+Silver Medal,2,2024-07-28,Lauren SCRUGGS,W,Fencing,Women's Foil Individual,HATH,/en/paris-2024/results/fencing/women-s-foil-individual/fnl-000100--,1950643,USA,United States,United States of America
+Bronze Medal,3,2024-07-28,Eleanor HARVEY,W,Fencing,Women's Foil Individual,HATH,/en/paris-2024/results/fencing/women-s-foil-individual/fnl-000200--,1973213,CAN,Canada,Canada
+Gold Medal,1,2024-07-28,ABE Hifumi,M,Judo,Men -66 kg,HATH,/en/paris-2024/results/judo/men--66-kg/fnl-000100--,1896763,JPN,Japan,Japan
+Silver Medal,2,2024-07-28,Willian LIMA,M,Judo,Men -66 kg,HATH,/en/paris-2024/results/judo/men--66-kg/fnl-000100--,1953840,BRA,Brazil,Brazil
+Bronze Medal,3,2024-07-28,Gusman KYRGYZBAYEV,M,Judo,Men -66 kg,HATH,/en/paris-2024/results/judo/men--66-kg/repf000100--,1935410,KAZ,Kazakhstan,Kazakhstan
+Bronze Medal,3,2024-07-28,Denis VIERU,M,Judo,Men -66 kg,HATH,/en/paris-2024/results/judo/men--66-kg/repf000200--,1561138,MDA,Republic of Moldova,Republic of Moldova
+Gold Medal,1,2024-07-28,Diyora KELDIYOROVA,W,Judo,Women -52 kg,HATH,/en/paris-2024/results/judo/women--52-kg/fnl-000100--,1566997,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-07-28,Distria KRASNIQI,W,Judo,Women -52 kg,HATH,/en/paris-2024/results/judo/women--52-kg/fnl-000100--,1550162,KOS,Kosovo,Kosovo
+Bronze Medal,3,2024-07-28,Larissa PIMENTA,W,Judo,Women -52 kg,HATH,/en/paris-2024/results/judo/women--52-kg/repf000100--,1953817,BRA,Brazil,Brazil
+Bronze Medal,3,2024-07-28,Amandine BUCHARD,W,Judo,Women -52 kg,HATH,/en/paris-2024/results/judo/women--52-kg/repf000200--,1891283,FRA,France,France
+Gold Medal,1,2024-07-28,XIE Yu,M,Shooting,10m Air Pistol Men,ATH,/en/paris-2024/results/shooting/10m-air-pistol-men/fnl-000100--,1913907,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-28,Federico Nilo MALDINI,M,Shooting,10m Air Pistol Men,ATH,/en/paris-2024/results/shooting/10m-air-pistol-men/fnl-000100--,1551388,ITA,Italy,Italy
+Bronze Medal,3,2024-07-28,Paolo MONNA,M,Shooting,10m Air Pistol Men,ATH,/en/paris-2024/results/shooting/10m-air-pistol-men/fnl-000100--,1551387,ITA,Italy,Italy
+Gold Medal,1,2024-07-28,OH Ye Jin,W,Shooting,10m Air Pistol Women,ATH,/en/paris-2024/results/shooting/10m-air-pistol-women/fnl-000100--,1893972,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-07-28,KIM Yeji,W,Shooting,10m Air Pistol Women,ATH,/en/paris-2024/results/shooting/10m-air-pistol-women/fnl-000100--,1893930,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-07-28,Manu BHAKER,W,Shooting,10m Air Pistol Women,ATH,/en/paris-2024/results/shooting/10m-air-pistol-women/fnl-000100--,1538159,IND,India,India
+Gold Medal,1,2024-07-28,YOSHIZAWA Coco,W,Skateboarding,Women's Street,ATH,/en/paris-2024/results/skateboarding/women-s-street/fnl-000100--,1902055,JPN,Japan,Japan
+Silver Medal,2,2024-07-28,AKAMA Liz,W,Skateboarding,Women's Street,ATH,/en/paris-2024/results/skateboarding/women-s-street/fnl-000100--,1902069,JPN,Japan,Japan
+Bronze Medal,3,2024-07-28,Rayssa LEAL,W,Skateboarding,Women's Street,ATH,/en/paris-2024/results/skateboarding/women-s-street/fnl-000100--,1955689,BRA,Brazil,Brazil
+Gold Medal,1,2024-07-28,Nicolo MARTINENGHI,M,Swimming,Men's 100m Breaststroke,ATH,/en/paris-2024/results/swimming/men-s-100m-breaststroke/fnl-000100--,1925633,ITA,Italy,Italy
+Silver Medal,2,2024-07-28,Adam PEATY,M,Swimming,Men's 100m Breaststroke,ATH,/en/paris-2024/results/swimming/men-s-100m-breaststroke/fnl-000100--,1956469,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-07-28,Nic FINK,M,Swimming,Men's 100m Breaststroke,ATH,/en/paris-2024/results/swimming/men-s-100m-breaststroke/fnl-000100--,1935901,USA,United States,United States of America
+Gold Medal,1,2024-07-28,Leon MARCHAND,M,Swimming,Men's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/men-s-400m-individual-medley/fnl-000100--,1909294,FRA,France,France
+Silver Medal,2,2024-07-28,MATSUSHITA Tomoyuki,M,Swimming,Men's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/men-s-400m-individual-medley/fnl-000100--,1963635,JPN,Japan,Japan
+Bronze Medal,3,2024-07-28,Carson FOSTER,M,Swimming,Men's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/men-s-400m-individual-medley/fnl-000100--,1935903,USA,United States,United States of America
+Gold Medal,1,2024-07-28,Torri HUSKE,W,Swimming,Women's 100m Butterfly,ATH,/en/paris-2024/results/swimming/women-s-100m-butterfly/fnl-000100--,1935923,USA,United States,United States of America
+Silver Medal,2,2024-07-28,Gretchen WALSH,W,Swimming,Women's 100m Butterfly,ATH,/en/paris-2024/results/swimming/women-s-100m-butterfly/fnl-000100--,1935998,USA,United States,United States of America
+Bronze Medal,3,2024-07-28,ZHANG Yufei,W,Swimming,Women's 100m Butterfly,ATH,/en/paris-2024/results/swimming/women-s-100m-butterfly/fnl-000100--,1945125,CHN,China,People's Republic of China
+Gold Medal,1,2024-07-29,Korea,M,Archery,Men's Team,HTEAM,/en/paris-2024/results/archery/men-s-team/fnl-000100--,ARCMTEAM3---KOR01,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-07-29,France,M,Archery,Men's Team,HTEAM,/en/paris-2024/results/archery/men-s-team/fnl-000100--,ARCMTEAM3---FRA01,FRA,France,France
+Bronze Medal,3,2024-07-29,Türkiye,M,Archery,Men's Team,HTEAM,/en/paris-2024/results/archery/men-s-team/fnl-000200--,ARCMTEAM3---TUR01,TUR,Türkiye,Türkiye
+Gold Medal,1,2024-07-29,Japan,M,Artistic Gymnastics,Men's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/men-s-team/fnl-000001--,GARMTEAM----JPN01,JPN,Japan,Japan
+Silver Medal,2,2024-07-29,China,M,Artistic Gymnastics,Men's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/men-s-team/fnl-000001--,GARMTEAM----CHN01,CHN,China,People's Republic of China
+Bronze Medal,3,2024-07-29,United States,M,Artistic Gymnastics,Men's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/men-s-team/fnl-000001--,GARMTEAM----USA01,USA,United States,United States of America
+Gold Medal,1,2024-07-29,Nicolas GESTIN,M,Canoe Slalom,Men's Canoe Single,ATH,/en/paris-2024/results/canoe-slalom/men-s-canoe-single/fnl-000100--,1880479,FRA,France,France
+Silver Medal,2,2024-07-29,Adam BURGESS,M,Canoe Slalom,Men's Canoe Single,ATH,/en/paris-2024/results/canoe-slalom/men-s-canoe-single/fnl-000100--,1896030,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-07-29,Matej BENUS,M,Canoe Slalom,Men's Canoe Single,ATH,/en/paris-2024/results/canoe-slalom/men-s-canoe-single/fnl-000100--,1961080,SVK,Slovakia,Slovakia
+Gold Medal,1,2024-07-29,Thomas PIDCOCK,M,Cycling Mountain Bike,Men's Cross-country,ATH,/en/paris-2024/results/cycling-mountain-bike/men-s-cross-country/fnl-000100--,1912546,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-07-29,Victor KORETZKY,M,Cycling Mountain Bike,Men's Cross-country,ATH,/en/paris-2024/results/cycling-mountain-bike/men-s-cross-country/fnl-000100--,1895687,FRA,France,France
+Bronze Medal,3,2024-07-29,Alan HATHERLY,M,Cycling Mountain Bike,Men's Cross-country,ATH,/en/paris-2024/results/cycling-mountain-bike/men-s-cross-country/fnl-000100--,1943604,RSA,South Africa,South Africa
+Gold Medal,1,2024-07-29,China,M,Diving,Men's Synchronised 10m Platform,TEAM,/en/paris-2024/results/diving/men-s-synchronised-10m-platform/fnl-000100--,DIVM10MTEAM2CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-29,Great Britain,M,Diving,Men's Synchronised 10m Platform,TEAM,/en/paris-2024/results/diving/men-s-synchronised-10m-platform/fnl-000100--,DIVM10MTEAM2GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-07-29,Canada,M,Diving,Men's Synchronised 10m Platform,TEAM,/en/paris-2024/results/diving/men-s-synchronised-10m-platform/fnl-000100--,DIVM10MTEAM2CAN01,CAN,Canada,Canada
+Gold Medal,1,2024-07-29,Michael JUNG,O,Equestrian,Eventing Individual,ATH,/en/paris-2024/results/equestrian/eventing-individual/jump000100--,1914921,GER,Germany,Germany
+Silver Medal,2,2024-07-29,Christopher BURTON,O,Equestrian,Eventing Individual,ATH,/en/paris-2024/results/equestrian/eventing-individual/jump000100--,1940438,AUS,Australia,Australia
+Bronze Medal,3,2024-07-29,Laura COLLETT,O,Equestrian,Eventing Individual,ATH,/en/paris-2024/results/equestrian/eventing-individual/jump000100--,1970898,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-07-29,Great Britain,O,Equestrian,Eventing Team,TEAM,/en/paris-2024/results/equestrian/eventing/jump000100--,EQUOEVENTEAMGBR01,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-07-29,France,O,Equestrian,Eventing Team,TEAM,/en/paris-2024/results/equestrian/eventing/jump000100--,EQUOEVENTEAMFRA01,FRA,France,France
+Bronze Medal,3,2024-07-29,Japan,O,Equestrian,Eventing Team,TEAM,/en/paris-2024/results/equestrian/eventing/jump000100--,EQUOEVENTEAMJPN01,JPN,Japan,Japan
+Gold Medal,1,2024-07-29,CHEUNG Ka Long,M,Fencing,Men's Foil Individual,HATH,/en/paris-2024/results/fencing/men-s-foil-individual/fnl-000100--,1963245,HKG,"Hong Kong, China","Hong Kong, China"
+Silver Medal,2,2024-07-29,Filippo MACCHI,M,Fencing,Men's Foil Individual,HATH,/en/paris-2024/results/fencing/men-s-foil-individual/fnl-000100--,1924289,ITA,Italy,Italy
+Bronze Medal,3,2024-07-29,Nick ITKIN,M,Fencing,Men's Foil Individual,HATH,/en/paris-2024/results/fencing/men-s-foil-individual/fnl-000200--,1950602,USA,United States,United States of America
+Gold Medal,1,2024-07-29,Manon APITHY-BRUNET,W,Fencing,Women's Sabre Individual,HATH,/en/paris-2024/results/fencing/women-s-sabre-individual/fnl-000100--,1916223,FRA,France,France
+Silver Medal,2,2024-07-29,Sara BALZER,W,Fencing,Women's Sabre Individual,HATH,/en/paris-2024/results/fencing/women-s-sabre-individual/fnl-000100--,1916222,FRA,France,France
+Bronze Medal,3,2024-07-29,Olga KHARLAN,W,Fencing,Women's Sabre Individual,HATH,/en/paris-2024/results/fencing/women-s-sabre-individual/fnl-000200--,1897644,UKR,Ukraine,Ukraine
+Gold Medal,1,2024-07-29,Hidayat HEYDAROV,M,Judo,Men -73 kg,HATH,/en/paris-2024/results/judo/men--73-kg/fnl-000100--,1972337,AZE,Azerbaijan,Azerbaijan
+Silver Medal,2,2024-07-29,Joan-Benjamin GABA,M,Judo,Men -73 kg,HATH,/en/paris-2024/results/judo/men--73-kg/fnl-000100--,1891311,FRA,France,France
+Bronze Medal,3,2024-07-29,Adil OSMANOV,M,Judo,Men -73 kg,HATH,/en/paris-2024/results/judo/men--73-kg/repf000100--,1563437,MDA,Republic of Moldova,Republic of Moldova
+Bronze Medal,3,2024-07-29,HASHIMOTO Soichi,M,Judo,Men -73 kg,HATH,/en/paris-2024/results/judo/men--73-kg/repf000200--,1896740,JPN,Japan,Japan
+Gold Medal,1,2024-07-29,Christa DEGUCHI,W,Judo,Women -57 kg,HATH,/en/paris-2024/results/judo/women--57-kg/fnl-000100--,1955526,CAN,Canada,Canada
+Silver Medal,2,2024-07-29,HUH Mimi,W,Judo,Women -57 kg,HATH,/en/paris-2024/results/judo/women--57-kg/fnl-000100--,1928067,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-07-29,FUNAKUBO Haruka,W,Judo,Women -57 kg,HATH,/en/paris-2024/results/judo/women--57-kg/repf000100--,1896733,JPN,Japan,Japan
+Bronze Medal,3,2024-07-29,Sarah Leonie CYSIQUE,W,Judo,Women -57 kg,HATH,/en/paris-2024/results/judo/women--57-kg/repf000200--,1891286,FRA,France,France
+Gold Medal,1,2024-07-29,SHENG Lihao,M,Shooting,10m Air Rifle Men,ATH,/en/paris-2024/results/shooting/10m-air-rifle-men/fnl-000100--,1913899,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-29,Victor LINDGREN,M,Shooting,10m Air Rifle Men,ATH,/en/paris-2024/results/shooting/10m-air-rifle-men/fnl-000100--,1572919,SWE,Sweden,Sweden
+Bronze Medal,3,2024-07-29,Miran MARICIC,M,Shooting,10m Air Rifle Men,ATH,/en/paris-2024/results/shooting/10m-air-rifle-men/fnl-000100--,1888047,CRO,Croatia,Croatia
+Gold Medal,1,2024-07-29,BAN Hyojin,W,Shooting,10m Air Rifle Women,ATH,/en/paris-2024/results/shooting/10m-air-rifle-women/fnl-000100--,1893845,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-07-29,HUANG Yuting,W,Shooting,10m Air Rifle Women,ATH,/en/paris-2024/results/shooting/10m-air-rifle-women/fnl-000100--,1913945,CHN,China,People's Republic of China
+Bronze Medal,3,2024-07-29,Audrey GOGNIAT,W,Shooting,10m Air Rifle Women,ATH,/en/paris-2024/results/shooting/10m-air-rifle-women/fnl-000100--,1976545,SUI,Switzerland,Switzerland
+Gold Medal,1,2024-07-29,HORIGOME Yuto,M,Skateboarding,Men's Street,ATH,/en/paris-2024/results/skateboarding/men-s-street/fnl-000100--,1902081,JPN,Japan,Japan
+Silver Medal,2,2024-07-29,Jagger EATON,M,Skateboarding,Men's Street,ATH,/en/paris-2024/results/skateboarding/men-s-street/fnl-000100--,1944226,USA,United States,United States of America
+Bronze Medal,3,2024-07-29,Nyjah HUSTON,M,Skateboarding,Men's Street,ATH,/en/paris-2024/results/skateboarding/men-s-street/fnl-000100--,1944232,USA,United States,United States of America
+Gold Medal,1,2024-07-29,Thomas CECCON,M,Swimming,Men's 100m Backstroke,ATH,/en/paris-2024/results/swimming/men-s-100m-backstroke/fnl-000100--,1925635,ITA,Italy,Italy
+Silver Medal,2,2024-07-29,XU Jiayu,M,Swimming,Men's 100m Backstroke,ATH,/en/paris-2024/results/swimming/men-s-100m-backstroke/fnl-000100--,1945132,CHN,China,People's Republic of China
+Bronze Medal,3,2024-07-29,Ryan MURPHY,M,Swimming,Men's 100m Backstroke,ATH,/en/paris-2024/results/swimming/men-s-100m-backstroke/fnl-000100--,1935957,USA,United States,United States of America
+Gold Medal,1,2024-07-29,David POPOVICI,M,Swimming,Men's 200m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-200m-freestyle/fnl-000100--,1543549,ROU,Romania,Romania
+Silver Medal,2,2024-07-29,Matthew RICHARDS,M,Swimming,Men's 200m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-200m-freestyle/fnl-000100--,1903617,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-07-29,Luke HOBSON,M,Swimming,Men's 200m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-200m-freestyle/fnl-000100--,1935918,USA,United States,United States of America
+Gold Medal,1,2024-07-29,Tatjana SMITH,W,Swimming,Women's 100m Breaststroke,ATH,/en/paris-2024/results/swimming/women-s-100m-breaststroke/fnl-000100--,1962589,RSA,South Africa,South Africa
+Silver Medal,2,2024-07-29,TANG Qianting,W,Swimming,Women's 100m Breaststroke,ATH,/en/paris-2024/results/swimming/women-s-100m-breaststroke/fnl-000100--,1945200,CHN,China,People's Republic of China
+Bronze Medal,3,2024-07-29,Mona Mc SHARRY,W,Swimming,Women's 100m Breaststroke,ATH,/en/paris-2024/results/swimming/women-s-100m-breaststroke/fnl-000100--,1543304,IRL,Ireland,Ireland
+Gold Medal,1,2024-07-29,Mollie O'CALLAGHAN,W,Swimming,Women's 200m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-200m-freestyle/fnl-000100--,1946218,AUS,Australia,Australia
+Silver Medal,2,2024-07-29,Ariarne TITMUS,W,Swimming,Women's 200m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-200m-freestyle/fnl-000100--,1946150,AUS,Australia,Australia
+Bronze Medal,3,2024-07-29,HAUGHEY Siobhan Bernadette,W,Swimming,Women's 200m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-200m-freestyle/fnl-000100--,1925125,HKG,"Hong Kong, China","Hong Kong, China"
+Gold Medal,1,2024-07-29,Summer McINTOSH,W,Swimming,Women's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-400m-individual-medley/fnl-000100--,1967140,CAN,Canada,Canada
+Silver Medal,2,2024-07-29,Katie GRIMES,W,Swimming,Women's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-400m-individual-medley/fnl-000100--,1935909,USA,United States,United States of America
+Bronze Medal,3,2024-07-29,Emma WEYANT,W,Swimming,Women's 400m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-400m-individual-medley/fnl-000100--,1936001,USA,United States,United States of America
+Gold Medal,1,2024-07-30,United States,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,GARWTEAM----USA01,USA,United States,United States of America
+Silver Medal,2,2024-07-30,Italy,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,GARWTEAM----ITA01,ITA,Italy,Italy
+Bronze Medal,3,2024-07-30,Brazil,W,Artistic Gymnastics,Women's Team,TEAM,/en/paris-2024/results/artistic-gymnastics/women-s-team/fnl-000001--,GARWTEAM----BRA01,BRA,Brazil,Brazil
+Gold Medal,1,2024-07-30,Italy,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,FENWTEAMEPEEITA01,ITA,Italy,Italy
+Silver Medal,2,2024-07-30,France,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000100--,FENWTEAMEPEEFRA01,FRA,France,France
+Bronze Medal,3,2024-07-30,Poland,W,Fencing,Women's Épée Team,HTEAM,/en/paris-2024/results/fencing/women-s-epee-team/fnl-000200--,FENWTEAMEPEEPOL01,POL,Poland,Poland
+Gold Medal,1,2024-07-30,NAGASE Takanori,M,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/fnl-000100--,1896765,JPN,Japan,Japan
+Silver Medal,2,2024-07-30,Tato GRIGALASHVILI,M,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/fnl-000100--,1546651,GEO,Georgia,Georgia
+Bronze Medal,3,2024-07-30,LEE Joonhwan,M,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/repf000100--,1928079,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-07-30,Somon MAKHMADBEKOV,M,Judo,Men -81 kg,HATH,/en/paris-2024/results/judo/men--81-kg/repf000200--,1570561,TJK,Tajikistan,Tajikistan
+Gold Medal,1,2024-07-30,Andreja LESKI,W,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/fnl-000100--,1980833,SLO,Slovenia,Slovenia
+Silver Medal,2,2024-07-30,Prisca AWITI ALCARAZ,W,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/fnl-000100--,1537287,MEX,Mexico,Mexico
+Bronze Medal,3,2024-07-30,Clarisse AGBEGNENOU,W,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/repf000100--,1891289,FRA,France,France
+Bronze Medal,3,2024-07-30,Laura FAZLIU,W,Judo,Women -63 kg,HATH,/en/paris-2024/results/judo/women--63-kg/repf000200--,1550167,KOS,Kosovo,Kosovo
+Gold Medal,1,2024-07-30,New Zealand,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,RU7WTEAM7---NZL01,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-07-30,Canada,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000100--,RU7WTEAM7---CAN01,CAN,Canada,Canada
+Bronze Medal,3,2024-07-30,United States,W,Rugby Sevens,Women,HTEAM,/en/paris-2024/results/rugby-sevens/women/fnl-000200--,RU7WTEAM7---USA01,USA,United States,United States of America
+Gold Medal,1,2024-07-30,Serbia,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000100--,SHOXAPMT----SRB01,SRB,Serbia,Serbia
+Silver Medal,2,2024-07-30,Türkiye 2,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000100--,SHOXAPMT----TUR02,TUR,Türkiye,Türkiye
+Bronze Medal,3,2024-07-30,India 1,X,Shooting,10m Air Pistol Mixed Team,HTEAM,/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000200--,SHOXAPMT----IND01,IND,India,India
+Gold Medal,1,2024-07-30,Nathan HALES,M,Shooting,Trap Men,ATH,/en/paris-2024/results/shooting/trap-men/fnl-000100--,1904430,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-07-30,QI Ying,M,Shooting,Trap Men,ATH,/en/paris-2024/results/shooting/trap-men/fnl-000100--,1913928,CHN,China,People's Republic of China
+Bronze Medal,3,2024-07-30,Jean Pierre BROL CARDENAS,M,Shooting,Trap Men,ATH,/en/paris-2024/results/shooting/trap-men/fnl-000100--,1958970,GUA,Guatemala,Guatemala
+Gold Medal,1,2024-07-30,Great Britain,M,Swimming,Men's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-200m-freestyle-relay/fnl-000100--,SWMM4X200MFRGBR01,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-07-30,United States,M,Swimming,Men's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-200m-freestyle-relay/fnl-000100--,SWMM4X200MFRUSA01,USA,United States,United States of America
+Bronze Medal,3,2024-07-30,Australia,M,Swimming,Men's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-200m-freestyle-relay/fnl-000100--,SWMM4X200MFRAUS01,AUS,Australia,Australia
+Gold Medal,1,2024-07-30,Daniel WIFFEN,M,Swimming,Men's 800m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-800m-freestyle/fnl-000100--,1539969,IRL,Ireland,Ireland
+Silver Medal,2,2024-07-30,Bobby FINKE,M,Swimming,Men's 800m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-800m-freestyle/fnl-000100--,1935902,USA,United States,United States of America
+Bronze Medal,3,2024-07-30,Gregorio PALTRINIERI,M,Swimming,Men's 800m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-800m-freestyle/fnl-000100--,1925630,ITA,Italy,Italy
+Gold Medal,1,2024-07-30,Kaylee McKEOWN,W,Swimming,Women's 100m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-100m-backstroke/fnl-000100--,1946198,AUS,Australia,Australia
+Silver Medal,2,2024-07-30,Regan SMITH,W,Swimming,Women's 100m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-100m-backstroke/fnl-000100--,1935984,USA,United States,United States of America
+Bronze Medal,3,2024-07-30,Katharine BERKOFF,W,Swimming,Women's 100m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-100m-backstroke/fnl-000100--,1935873,USA,United States,United States of America
+Gold Medal,1,2024-07-30,WANG/SUN,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000100--,TTEXDOUBLES-CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-30,RI/KIM,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000100--,TTEXDOUBLES-PRK01,PRK,DPR Korea,Democratic People's Republic of Korea
+Bronze Medal,3,2024-07-30,LIM/SHIN,X,Table Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/table-tennis/mixed-doubles/fnl-000200--,TTEXDOUBLES-KOR01,KOR,Korea,Republic of Korea
+Gold Medal,1,2024-07-31,OKA Shinnosuke,M,Artistic Gymnastics,Men's All-Around,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-all-around/fnl-000001--,1919480,JPN,Japan,Japan
+Silver Medal,2,2024-07-31,ZHANG Boheng,M,Artistic Gymnastics,Men's All-Around,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-all-around/fnl-000001--,1918864,CHN,China,People's Republic of China
+Bronze Medal,3,2024-07-31,XIAO Ruoteng,M,Artistic Gymnastics,Men's All-Around,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-all-around/fnl-000001--,1918860,CHN,China,People's Republic of China
+Gold Medal,1,2024-07-31,Jessica FOX,W,Canoe Slalom,Women's Canoe Single,ATH,/en/paris-2024/results/canoe-slalom/women-s-canoe-single/fnl-000100--,1940205,AUS,Australia,Australia
+Silver Medal,2,2024-07-31,Elena LILIK,W,Canoe Slalom,Women's Canoe Single,ATH,/en/paris-2024/results/canoe-slalom/women-s-canoe-single/fnl-000100--,1913770,GER,Germany,Germany
+Bronze Medal,3,2024-07-31,Evy LEIBFARTH,W,Canoe Slalom,Women's Canoe Single,ATH,/en/paris-2024/results/canoe-slalom/women-s-canoe-single/fnl-000100--,1955132,USA,United States,United States of America
+Gold Medal,1,2024-07-31,Jose TORRES GIL,M,Cycling BMX Freestyle,Men's Park,ATH,/en/paris-2024/results/cycling-bmx-freestyle/men-s-park/fnl-000100--,1916809,ARG,Argentina,Argentina
+Silver Medal,2,2024-07-31,Kieran Darren David REILLY,M,Cycling BMX Freestyle,Men's Park,ATH,/en/paris-2024/results/cycling-bmx-freestyle/men-s-park/fnl-000100--,1912548,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-07-31,Anthony JEANJEAN,M,Cycling BMX Freestyle,Men's Park,ATH,/en/paris-2024/results/cycling-bmx-freestyle/men-s-park/fnl-000100--,1895685,FRA,France,France
+Gold Medal,1,2024-07-31,DENG Yawen,W,Cycling BMX Freestyle,Women's Park,ATH,/en/paris-2024/results/cycling-bmx-freestyle/women-s-park/fnl-000100--,1920569,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-31,Perris BENEGAS,W,Cycling BMX Freestyle,Women's Park,ATH,/en/paris-2024/results/cycling-bmx-freestyle/women-s-park/fnl-000100--,1955071,USA,United States,United States of America
+Bronze Medal,3,2024-07-31,Natalya DIEHM,W,Cycling BMX Freestyle,Women's Park,ATH,/en/paris-2024/results/cycling-bmx-freestyle/women-s-park/fnl-000100--,1940118,AUS,Australia,Australia
+Gold Medal,1,2024-07-31,China,W,Diving,Women's Synchronised 10m Platform,TEAM,/en/paris-2024/results/diving/women-s-synchronised-10m-platform/fnl-000100--,DIVW10MTEAM2CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-31,DPR Korea,W,Diving,Women's Synchronised 10m Platform,TEAM,/en/paris-2024/results/diving/women-s-synchronised-10m-platform/fnl-000100--,DIVW10MTEAM2PRK01,PRK,DPR Korea,Democratic People's Republic of Korea
+Bronze Medal,3,2024-07-31,Great Britain,W,Diving,Women's Synchronised 10m Platform,TEAM,/en/paris-2024/results/diving/women-s-synchronised-10m-platform/fnl-000100--,DIVW10MTEAM2GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-07-31,Korea,M,Fencing,Men's Sabre Team,HTEAM,/en/paris-2024/results/fencing/men-s-sabre-team/fnl-000100--,FENMTEAMSABRKOR01,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-07-31,Hungary,M,Fencing,Men's Sabre Team,HTEAM,/en/paris-2024/results/fencing/men-s-sabre-team/fnl-000100--,FENMTEAMSABRHUN01,HUN,Hungary,Hungary
+Bronze Medal,3,2024-07-31,France,M,Fencing,Men's Sabre Team,HTEAM,/en/paris-2024/results/fencing/men-s-sabre-team/fnl-000200--,FENMTEAMSABRFRA01,FRA,France,France
+Gold Medal,1,2024-07-31,Lasha BEKAURI,M,Judo,Men -90 kg,HATH,/en/paris-2024/results/judo/men--90-kg/fnl-000100--,1548817,GEO,Georgia,Georgia
+Silver Medal,2,2024-07-31,MURAO Sanshiro,M,Judo,Men -90 kg,HATH,/en/paris-2024/results/judo/men--90-kg/fnl-000100--,1896750,JPN,Japan,Japan
+Bronze Medal,3,2024-07-31,Maxime-Gael NGAYAP HAMBOU,M,Judo,Men -90 kg,HATH,/en/paris-2024/results/judo/men--90-kg/repf000100--,1891318,FRA,France,France
+Bronze Medal,3,2024-07-31,Theodoros TSELIDIS,M,Judo,Men -90 kg,HATH,/en/paris-2024/results/judo/men--90-kg/repf000200--,1961318,GRE,Greece,Greece
+Gold Medal,1,2024-07-31,Barbara MATIC,W,Judo,Women -70 kg,HATH,/en/paris-2024/results/judo/women--70-kg/fnl-000100--,1898499,CRO,Croatia,Croatia
+Silver Medal,2,2024-07-31,Miriam BUTKEREIT,W,Judo,Women -70 kg,HATH,/en/paris-2024/results/judo/women--70-kg/fnl-000100--,1563082,GER,Germany,Germany
+Bronze Medal,3,2024-07-31,Michaela POLLERES,W,Judo,Women -70 kg,HATH,/en/paris-2024/results/judo/women--70-kg/repf000100--,1566421,AUT,Austria,Austria
+Bronze Medal,3,2024-07-31,Gabriella WILLEMS,W,Judo,Women -70 kg,HATH,/en/paris-2024/results/judo/women--70-kg/repf000200--,1903248,BEL,Belgium,Belgium
+Gold Medal,1,2024-07-31,Netherlands,M,Rowing,Men's Quadruple Sculls,TEAM,/en/paris-2024/results/rowing/men-s-quadruple-sculls/fnl---------,ROWMSCULL4--NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-07-31,Italy,M,Rowing,Men's Quadruple Sculls,TEAM,/en/paris-2024/results/rowing/men-s-quadruple-sculls/fnl---------,ROWMSCULL4--ITA01,ITA,Italy,Italy
+Bronze Medal,3,2024-07-31,Poland,M,Rowing,Men's Quadruple Sculls,TEAM,/en/paris-2024/results/rowing/men-s-quadruple-sculls/fnl---------,ROWMSCULL4--POL01,POL,Poland,Poland
+Gold Medal,1,2024-07-31,Great Britain,W,Rowing,Women's Quadruple Sculls,TEAM,/en/paris-2024/results/rowing/women-s-quadruple-sculls/fnl---------,ROWWSCULL4--GBR01,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-07-31,Netherlands,W,Rowing,Women's Quadruple Sculls,TEAM,/en/paris-2024/results/rowing/women-s-quadruple-sculls/fnl---------,ROWWSCULL4--NED01,NED,Netherlands,Netherlands
+Bronze Medal,3,2024-07-31,Germany,W,Rowing,Women's Quadruple Sculls,TEAM,/en/paris-2024/results/rowing/women-s-quadruple-sculls/fnl---------,ROWWSCULL4--GER01,GER,Germany,Germany
+Gold Medal,1,2024-07-31,Adriana RUANO OLIVA,W,Shooting,Trap Women,ATH,/en/paris-2024/results/shooting/trap-women/fnl-000100--,1958899,GUA,Guatemala,Guatemala
+Silver Medal,2,2024-07-31,Silvana Maria STANCO,W,Shooting,Trap Women,ATH,/en/paris-2024/results/shooting/trap-women/fnl-000100--,1915317,ITA,Italy,Italy
+Bronze Medal,3,2024-07-31,Penny SMITH,W,Shooting,Trap Women,ATH,/en/paris-2024/results/shooting/trap-women/fnl-000100--,1967454,AUS,Australia,Australia
+Gold Medal,1,2024-07-31,PAN Zhanle,M,Swimming,Men's 100m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-100m-freestyle/fnl-000100--,1945148,CHN,China,People's Republic of China
+Silver Medal,2,2024-07-31,Kyle CHALMERS,M,Swimming,Men's 100m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-100m-freestyle/fnl-000100--,1946200,AUS,Australia,Australia
+Bronze Medal,3,2024-07-31,David POPOVICI,M,Swimming,Men's 100m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-100m-freestyle/fnl-000100--,1543549,ROU,Romania,Romania
+Gold Medal,1,2024-07-31,Leon MARCHAND,M,Swimming,Men's 200m Breaststroke,ATH,/en/paris-2024/results/swimming/men-s-200m-breaststroke/fnl-000100--,1909294,FRA,France,France
+Silver Medal,2,2024-07-31,Zac STUBBLETY-COOK,M,Swimming,Men's 200m Breaststroke,ATH,/en/paris-2024/results/swimming/men-s-200m-breaststroke/fnl-000100--,1946185,AUS,Australia,Australia
+Bronze Medal,3,2024-07-31,Caspar CORBEAU,M,Swimming,Men's 200m Breaststroke,ATH,/en/paris-2024/results/swimming/men-s-200m-breaststroke/fnl-000100--,1972545,NED,Netherlands,Netherlands
+Gold Medal,1,2024-07-31,Leon MARCHAND,M,Swimming,Men's 200m Butterfly,ATH,/en/paris-2024/results/swimming/men-s-200m-butterfly/fnl-000100--,1909294,FRA,France,France
+Silver Medal,2,2024-07-31,Kristof MILAK,M,Swimming,Men's 200m Butterfly,ATH,/en/paris-2024/results/swimming/men-s-200m-butterfly/fnl-000100--,1905860,HUN,Hungary,Hungary
+Bronze Medal,3,2024-07-31,Ilya KHARUN,M,Swimming,Men's 200m Butterfly,ATH,/en/paris-2024/results/swimming/men-s-200m-butterfly/fnl-000100--,1967058,CAN,Canada,Canada
+Gold Medal,1,2024-07-31,Sarah SJOESTROEM,W,Swimming,Women's 100m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-100m-freestyle/fnl-000100--,1572557,SWE,Sweden,Sweden
+Silver Medal,2,2024-07-31,Torri HUSKE,W,Swimming,Women's 100m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-100m-freestyle/fnl-000100--,1935923,USA,United States,United States of America
+Bronze Medal,3,2024-07-31,HAUGHEY Siobhan Bernadette,W,Swimming,Women's 100m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-100m-freestyle/fnl-000100--,1925125,HKG,"Hong Kong, China","Hong Kong, China"
+Gold Medal,1,2024-07-31,Katie LEDECKY,W,Swimming,Women's 1500m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-1500m-freestyle/fnl-000100--,1935938,USA,United States,United States of America
+Silver Medal,2,2024-07-31,Anastasiia KIRPICHNIKOVA,W,Swimming,Women's 1500m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-1500m-freestyle/fnl-000100--,1909209,FRA,France,France
+Bronze Medal,3,2024-07-31,Isabel GOSE,W,Swimming,Women's 1500m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-1500m-freestyle/fnl-000100--,1907171,GER,Germany,Germany
+Gold Medal,1,2024-07-31,Alex YEE,M,Triathlon,Men's Individual,ATH,/en/paris-2024/results/triathlon/men-s-individual/fnl-000100--,1904251,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-07-31,Hayden WILDE,M,Triathlon,Men's Individual,ATH,/en/paris-2024/results/triathlon/men-s-individual/fnl-000100--,1926549,NZL,New Zealand,New Zealand
+Bronze Medal,3,2024-07-31,Leo BERGERE,M,Triathlon,Men's Individual,ATH,/en/paris-2024/results/triathlon/men-s-individual/fnl-000100--,1543967,FRA,France,France
+Gold Medal,1,2024-07-31,Cassandre BEAUGRAND,W,Triathlon,Women's Individual,ATH,/en/paris-2024/results/triathlon/women-s-individual/fnl-000100--,1543963,FRA,France,France
+Silver Medal,2,2024-07-31,Julie DERRON,W,Triathlon,Women's Individual,ATH,/en/paris-2024/results/triathlon/women-s-individual/fnl-000100--,1976489,SUI,Switzerland,Switzerland
+Bronze Medal,3,2024-07-31,Beth POTTER,W,Triathlon,Women's Individual,ATH,/en/paris-2024/results/triathlon/women-s-individual/fnl-000100--,1904244,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-01,Simone BILES,W,Artistic Gymnastics,Women's All-Around,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-all-around/fnl-000001--,1959861,USA,United States,United States of America
+Silver Medal,2,2024-08-01,Rebeca ANDRADE,W,Artistic Gymnastics,Women's All-Around,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-all-around/fnl-000001--,1953634,BRA,Brazil,Brazil
+Bronze Medal,3,2024-08-01,Sunisa LEE,W,Artistic Gymnastics,Women's All-Around,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-all-around/fnl-000001--,1959866,USA,United States,United States of America
+Gold Medal,1,2024-08-01,Brian Daniel PINTADO,M,Athletics,Men's 20km Race Walk,ATH,/en/paris-2024/results/athletics/men-s-20km-race-walk/fnl-000100--,1929767,ECU,Ecuador,Ecuador
+Silver Medal,2,2024-08-01,Caio BONFIM,M,Athletics,Men's 20km Race Walk,ATH,/en/paris-2024/results/athletics/men-s-20km-race-walk/fnl-000100--,1951928,BRA,Brazil,Brazil
+Bronze Medal,3,2024-08-01,Alvaro MARTIN,M,Athletics,Men's 20km Race Walk,ATH,/en/paris-2024/results/athletics/men-s-20km-race-walk/fnl-000100--,1904165,ESP,Spain,Spain
+Gold Medal,1,2024-08-01,YANG Jiayu,W,Athletics,Women's 20km Race Walk,ATH,/en/paris-2024/results/athletics/women-s-20km-race-walk/fnl-000100--,1919002,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-01,Maria PEREZ,W,Athletics,Women's 20km Race Walk,ATH,/en/paris-2024/results/athletics/women-s-20km-race-walk/fnl-000100--,1905369,ESP,Spain,Spain
+Bronze Medal,3,2024-08-01,Jemima MONTAG,W,Athletics,Women's 20km Race Walk,ATH,/en/paris-2024/results/athletics/women-s-20km-race-walk/fnl-000100--,1939791,AUS,Australia,Australia
+Gold Medal,1,2024-08-01,Giovanni de GENNARO,M,Canoe Slalom,Men's Kayak Single,ATH,/en/paris-2024/results/canoe-slalom/men-s-kayak-single/fnl-000100--,1550975,ITA,Italy,Italy
+Silver Medal,2,2024-08-01,Titouan CASTRYCK,M,Canoe Slalom,Men's Kayak Single,ATH,/en/paris-2024/results/canoe-slalom/men-s-kayak-single/fnl-000100--,1880464,FRA,France,France
+Bronze Medal,3,2024-08-01,Pau ECHANIZ,M,Canoe Slalom,Men's Kayak Single,ATH,/en/paris-2024/results/canoe-slalom/men-s-kayak-single/fnl-000100--,1953935,ESP,Spain,Spain
+Gold Medal,1,2024-08-01,United States,W,Fencing,Women's Foil Team,HTEAM,/en/paris-2024/results/fencing/women-s-foil-team/fnl-000100--,FENWTEAMFOILUSA01,USA,United States,United States of America
+Silver Medal,2,2024-08-01,Italy,W,Fencing,Women's Foil Team,HTEAM,/en/paris-2024/results/fencing/women-s-foil-team/fnl-000100--,FENWTEAMFOILITA01,ITA,Italy,Italy
+Bronze Medal,3,2024-08-01,Japan,W,Fencing,Women's Foil Team,HTEAM,/en/paris-2024/results/fencing/women-s-foil-team/fnl-000200--,FENWTEAMFOILJPN01,JPN,Japan,Japan
+Gold Medal,1,2024-08-01,Zelym KOTSOIEV,M,Judo,Men -100 kg,HATH,/en/paris-2024/results/judo/men--100-kg/fnl-000100--,1972367,AZE,Azerbaijan,Azerbaijan
+Silver Medal,2,2024-08-01,Ilia SULAMANIDZE,M,Judo,Men -100 kg,HATH,/en/paris-2024/results/judo/men--100-kg/fnl-000100--,1552370,GEO,Georgia,Georgia
+Bronze Medal,3,2024-08-01,Peter PALTCHIK,M,Judo,Men -100 kg,HATH,/en/paris-2024/results/judo/men--100-kg/repf000100--,1892957,ISR,Israel,Israel
+Bronze Medal,3,2024-08-01,Muzaffarbek TUROBOYEV,M,Judo,Men -100 kg,HATH,/en/paris-2024/results/judo/men--100-kg/repf000200--,1565754,UZB,Uzbekistan,Uzbekistan
+Gold Medal,1,2024-08-01,Alice BELLANDI,W,Judo,Women -78 kg,HATH,/en/paris-2024/results/judo/women--78-kg/fnl-000100--,1925349,ITA,Italy,Italy
+Silver Medal,2,2024-08-01,Inbar LANIR,W,Judo,Women -78 kg,HATH,/en/paris-2024/results/judo/women--78-kg/fnl-000100--,1892794,ISR,Israel,Israel
+Bronze Medal,3,2024-08-01,MA Zhenzhao,W,Judo,Women -78 kg,HATH,/en/paris-2024/results/judo/women--78-kg/repf000100--,1891067,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-01,Patricia SAMPAIO,W,Judo,Women -78 kg,HATH,/en/paris-2024/results/judo/women--78-kg/repf000200--,1943504,POR,Portugal,Portugal
+Gold Medal,1,2024-08-01,Romania,M,Rowing,Men's Double Sculls,TEAM,/en/paris-2024/results/rowing/men-s-double-sculls/fnl---------,ROWMSCULL2--ROU01,ROU,Romania,Romania
+Silver Medal,2,2024-08-01,Netherlands,M,Rowing,Men's Double Sculls,TEAM,/en/paris-2024/results/rowing/men-s-double-sculls/fnl---------,ROWMSCULL2--NED01,NED,Netherlands,Netherlands
+Bronze Medal,3,2024-08-01,Ireland,M,Rowing,Men's Double Sculls,TEAM,/en/paris-2024/results/rowing/men-s-double-sculls/fnl---------,ROWMSCULL2--IRL01,IRL,Ireland,Ireland
+Gold Medal,1,2024-08-01,United States,M,Rowing,Men's Four,TEAM,/en/paris-2024/results/rowing/men-s-four/fnl---------,ROWMNOCOX4--USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-01,New Zealand,M,Rowing,Men's Four,TEAM,/en/paris-2024/results/rowing/men-s-four/fnl---------,ROWMNOCOX4--NZL01,NZL,New Zealand,New Zealand
+Bronze Medal,3,2024-08-01,Great Britain,M,Rowing,Men's Four,TEAM,/en/paris-2024/results/rowing/men-s-four/fnl---------,ROWMNOCOX4--GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-01,New Zealand,W,Rowing,Women's Double Sculls,TEAM,/en/paris-2024/results/rowing/women-s-double-sculls/fnl---------,ROWWSCULL2--NZL01,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-01,Romania,W,Rowing,Women's Double Sculls,TEAM,/en/paris-2024/results/rowing/women-s-double-sculls/fnl---------,ROWWSCULL2--ROU01,ROU,Romania,Romania
+Bronze Medal,3,2024-08-01,Great Britain,W,Rowing,Women's Double Sculls,TEAM,/en/paris-2024/results/rowing/women-s-double-sculls/fnl---------,ROWWSCULL2--GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-01,Netherlands,W,Rowing,Women's Four,TEAM,/en/paris-2024/results/rowing/women-s-four/fnl---------,ROWWNOCOX4--NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-01,Great Britain,W,Rowing,Women's Four,TEAM,/en/paris-2024/results/rowing/women-s-four/fnl---------,ROWWNOCOX4--GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-01,New Zealand,W,Rowing,Women's Four,TEAM,/en/paris-2024/results/rowing/women-s-four/fnl---------,ROWWNOCOX4--NZL01,NZL,New Zealand,New Zealand
+Gold Medal,1,2024-08-01,LIU Yukun,M,Shooting,50m Rifle 3 Positions Men,ATH,/en/paris-2024/results/shooting/50m-rifle-3-positions-men/fnl-000100--,1913922,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-01,Serhiy KULISH,M,Shooting,50m Rifle 3 Positions Men,ATH,/en/paris-2024/results/shooting/50m-rifle-3-positions-men/fnl-000100--,1555976,UKR,Ukraine,Ukraine
+Bronze Medal,3,2024-08-01,Swapnil KUSALE,M,Shooting,50m Rifle 3 Positions Men,ATH,/en/paris-2024/results/shooting/50m-rifle-3-positions-men/fnl-000100--,1538084,IND,India,India
+Gold Medal,1,2024-08-01,Hubert KOS,M,Swimming,Men's 200m Backstroke,ATH,/en/paris-2024/results/swimming/men-s-200m-backstroke/fnl-000100--,1904977,HUN,Hungary,Hungary
+Silver Medal,2,2024-08-01,Apostolos CHRISTOU,M,Swimming,Men's 200m Backstroke,ATH,/en/paris-2024/results/swimming/men-s-200m-backstroke/fnl-000100--,1954557,GRE,Greece,Greece
+Bronze Medal,3,2024-08-01,Roman MITYUKOV,M,Swimming,Men's 200m Backstroke,ATH,/en/paris-2024/results/swimming/men-s-200m-backstroke/fnl-000100--,1977754,SUI,Switzerland,Switzerland
+Gold Medal,1,2024-08-01,Kate DOUGLASS,W,Swimming,Women's 200m Breaststroke,ATH,/en/paris-2024/results/swimming/women-s-200m-breaststroke/fnl-000100--,1935895,USA,United States,United States of America
+Silver Medal,2,2024-08-01,Tatjana SMITH,W,Swimming,Women's 200m Breaststroke,ATH,/en/paris-2024/results/swimming/women-s-200m-breaststroke/fnl-000100--,1962589,RSA,South Africa,South Africa
+Bronze Medal,3,2024-08-01,Tes SCHOUTEN,W,Swimming,Women's 200m Breaststroke,ATH,/en/paris-2024/results/swimming/women-s-200m-breaststroke/fnl-000100--,1972525,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-01,Summer McINTOSH,W,Swimming,Women's 200m Butterfly,ATH,/en/paris-2024/results/swimming/women-s-200m-butterfly/fnl-000100--,1967140,CAN,Canada,Canada
+Silver Medal,2,2024-08-01,Regan SMITH,W,Swimming,Women's 200m Butterfly,ATH,/en/paris-2024/results/swimming/women-s-200m-butterfly/fnl-000100--,1935984,USA,United States,United States of America
+Bronze Medal,3,2024-08-01,ZHANG Yufei,W,Swimming,Women's 200m Butterfly,ATH,/en/paris-2024/results/swimming/women-s-200m-butterfly/fnl-000100--,1945125,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-01,Australia,W,Swimming,Women's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-200m-freestyle-relay/fnl-000100--,SWMW4X200MFRAUS01,AUS,Australia,Australia
+Silver Medal,2,2024-08-01,United States,W,Swimming,Women's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-200m-freestyle-relay/fnl-000100--,SWMW4X200MFRUSA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-01,China,W,Swimming,Women's 4 x 200m Freestyle Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-200m-freestyle-relay/fnl-000100--,SWMW4X200MFRCHN01,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-02,Korea,X,Archery,Mixed Team,HTEAM,/en/paris-2024/results/archery/mixed-team/fnl-000100--,ARCXTEAM2---KOR01,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-08-02,Germany,X,Archery,Mixed Team,HTEAM,/en/paris-2024/results/archery/mixed-team/fnl-000100--,ARCXTEAM2---GER01,GER,Germany,Germany
+Bronze Medal,3,2024-08-02,United States,X,Archery,Mixed Team,HTEAM,/en/paris-2024/results/archery/mixed-team/fnl-000200--,ARCXTEAM2---USA01,USA,United States,United States of America
+Gold Medal,1,2024-08-02,Joshua CHEPTEGEI,M,Athletics,"Men's 10,000m",ATH,/en/paris-2024/results/athletics/men-s-10-000m/fnl-000100--,1970827,UGA,Uganda,Uganda
+Silver Medal,2,2024-08-02,Berihu AREGAWI,M,Athletics,"Men's 10,000m",ATH,/en/paris-2024/results/athletics/men-s-10-000m/fnl-000100--,1536998,ETH,Ethiopia,Ethiopia
+Bronze Medal,3,2024-08-02,Grant FISHER,M,Athletics,"Men's 10,000m",ATH,/en/paris-2024/results/athletics/men-s-10-000m/fnl-000100--,1960959,USA,United States,United States of America
+Gold Medal,1,2024-08-02,ZHENG/HUANG,X,Badminton,Mixed Doubles,HCOUP,/en/paris-2024/results/badminton/mixed-doubles/fnl-000100--,BDMXDOUBLES-CHN02,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-02,KIM/JEONG,X,Badminton,Mixed Doubles,HCOUP,/en/paris-2024/results/badminton/mixed-doubles/fnl-000100--,BDMXDOUBLES-KOR02,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-02,WATANABE/HIGASHINO,X,Badminton,Mixed Doubles,HCOUP,/en/paris-2024/results/badminton/mixed-doubles/fnl-000200--,BDMXDOUBLES-JPN01,JPN,Japan,Japan
+Gold Medal,1,2024-08-02,Joris DAUDET,M,Cycling BMX Racing,Men,ATH,/en/paris-2024/results/cycling-bmx-racing/men/fnl-000100--,1895661,FRA,France,France
+Silver Medal,2,2024-08-02,Sylvain ANDRE,M,Cycling BMX Racing,Men,ATH,/en/paris-2024/results/cycling-bmx-racing/men/fnl-000100--,1895640,FRA,France,France
+Bronze Medal,3,2024-08-02,Romain MAHIEU,M,Cycling BMX Racing,Men,ATH,/en/paris-2024/results/cycling-bmx-racing/men/fnl-000100--,1895700,FRA,France,France
+Gold Medal,1,2024-08-02,Saya SAKAKIBARA,W,Cycling BMX Racing,Women,ATH,/en/paris-2024/results/cycling-bmx-racing/women/fnl-000100--,1940127,AUS,Australia,Australia
+Silver Medal,2,2024-08-02,Manon VEENSTRA,W,Cycling BMX Racing,Women,ATH,/en/paris-2024/results/cycling-bmx-racing/women/fnl-000100--,1969181,NED,Netherlands,Netherlands
+Bronze Medal,3,2024-08-02,Zoe CLAESSENS,W,Cycling BMX Racing,Women,ATH,/en/paris-2024/results/cycling-bmx-racing/women/fnl-000100--,1976480,SUI,Switzerland,Switzerland
+Gold Medal,1,2024-08-02,China,M,Diving,Men's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/men-s-synchronised-3m-springboard/fnl-000100--,DIVM3MTEAM2-CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-02,Mexico,M,Diving,Men's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/men-s-synchronised-3m-springboard/fnl-000100--,DIVM3MTEAM2-MEX01,MEX,Mexico,Mexico
+Bronze Medal,3,2024-08-02,Great Britain,M,Diving,Men's Synchronised 3m Springboard,TEAM,/en/paris-2024/results/diving/men-s-synchronised-3m-springboard/fnl-000100--,DIVM3MTEAM2-GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-02,Great Britain,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,EQUOJUMPTEAMGBR01,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-02,United States,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,EQUOJUMPTEAMUSA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-02,France,O,Equestrian,Jumping Team,TEAM,/en/paris-2024/results/equestrian/jumping-team/fnl-000100--,EQUOJUMPTEAMFRA01,FRA,France,France
+Gold Medal,1,2024-08-02,Hungary,M,Fencing,Men's Épée Team,HTEAM,/en/paris-2024/results/fencing/men-s-epee-team/fnl-000100--,FENMTEAMEPEEHUN01,HUN,Hungary,Hungary
+Silver Medal,2,2024-08-02,Japan,M,Fencing,Men's Épée Team,HTEAM,/en/paris-2024/results/fencing/men-s-epee-team/fnl-000100--,FENMTEAMEPEEJPN01,JPN,Japan,Japan
+Bronze Medal,3,2024-08-02,Czechia,M,Fencing,Men's Épée Team,HTEAM,/en/paris-2024/results/fencing/men-s-epee-team/fnl-000200--,FENMTEAMEPEECZE01,CZE,Czechia,Czechia
+Gold Medal,1,2024-08-02,Teddy RINER,M,Judo,Men +100 kg,HATH,/en/paris-2024/results/judo/men--plus-100-kg/fnl-000100--,1891323,FRA,France,France
+Silver Medal,2,2024-08-02,KIM Minjong,M,Judo,Men +100 kg,HATH,/en/paris-2024/results/judo/men--plus-100-kg/fnl-000100--,1928072,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-02,Temur RAKHIMOV,M,Judo,Men +100 kg,HATH,/en/paris-2024/results/judo/men--plus-100-kg/repf000100--,1567512,TJK,Tajikistan,Tajikistan
+Bronze Medal,3,2024-08-02,Alisher YUSUPOV,M,Judo,Men +100 kg,HATH,/en/paris-2024/results/judo/men--plus-100-kg/repf000200--,1566931,UZB,Uzbekistan,Uzbekistan
+Gold Medal,1,2024-08-02,Beatriz SOUZA,W,Judo,Women +78 kg,HATH,/en/paris-2024/results/judo/women--plus-78-kg/fnl-000100--,1953777,BRA,Brazil,Brazil
+Silver Medal,2,2024-08-02,Raz HERSHKO,W,Judo,Women +78 kg,HATH,/en/paris-2024/results/judo/women--plus-78-kg/fnl-000100--,1892796,ISR,Israel,Israel
+Bronze Medal,3,2024-08-02,KIM Hayun,W,Judo,Women +78 kg,HATH,/en/paris-2024/results/judo/women--plus-78-kg/repf000100--,1928070,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-02,Romane DICKO,W,Judo,Women +78 kg,HATH,/en/paris-2024/results/judo/women--plus-78-kg/repf000200--,1891300,FRA,France,France
+Gold Medal,1,2024-08-02,Ireland,M,Rowing,Lightweight Men's Double Sculls,TEAM,/en/paris-2024/results/rowing/lightweight-men-s-double-sculls/fnl---------,ROWMSCULL2-LIRL01,IRL,Ireland,Ireland
+Silver Medal,2,2024-08-02,Italy,M,Rowing,Lightweight Men's Double Sculls,TEAM,/en/paris-2024/results/rowing/lightweight-men-s-double-sculls/fnl---------,ROWMSCULL2-LITA01,ITA,Italy,Italy
+Bronze Medal,3,2024-08-02,Greece,M,Rowing,Lightweight Men's Double Sculls,TEAM,/en/paris-2024/results/rowing/lightweight-men-s-double-sculls/fnl---------,ROWMSCULL2-LGRE01,GRE,Greece,Greece
+Gold Medal,1,2024-08-02,Great Britain,W,Rowing,Lightweight Women's Double Sculls,TEAM,/en/paris-2024/results/rowing/lightweight-women-s-double-sculls/fnl---------,ROWWSCULL2-LGBR01,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-02,Romania,W,Rowing,Lightweight Women's Double Sculls,TEAM,/en/paris-2024/results/rowing/lightweight-women-s-double-sculls/fnl---------,ROWWSCULL2-LROU01,ROU,Romania,Romania
+Bronze Medal,3,2024-08-02,Greece,W,Rowing,Lightweight Women's Double Sculls,TEAM,/en/paris-2024/results/rowing/lightweight-women-s-double-sculls/fnl---------,ROWWSCULL2-LGRE01,GRE,Greece,Greece
+Gold Medal,1,2024-08-02,Croatia,M,Rowing,Men's Pair,TEAM,/en/paris-2024/results/rowing/men-s-pair/fnl---------,ROWMNOCOX2--CRO01,CRO,Croatia,Croatia
+Silver Medal,2,2024-08-02,Great Britain,M,Rowing,Men's Pair,TEAM,/en/paris-2024/results/rowing/men-s-pair/fnl---------,ROWMNOCOX2--GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-02,Switzerland,M,Rowing,Men's Pair,TEAM,/en/paris-2024/results/rowing/men-s-pair/fnl---------,ROWMNOCOX2--SUI01,SUI,Switzerland,Switzerland
+Gold Medal,1,2024-08-02,Netherlands,W,Rowing,Women's Pair,TEAM,/en/paris-2024/results/rowing/women-s-pair/fnl---------,ROWWNOCOX2--NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-02,Romania,W,Rowing,Women's Pair,TEAM,/en/paris-2024/results/rowing/women-s-pair/fnl---------,ROWWNOCOX2--ROU01,ROU,Romania,Romania
+Bronze Medal,3,2024-08-02,Australia,W,Rowing,Women's Pair,TEAM,/en/paris-2024/results/rowing/women-s-pair/fnl---------,ROWWNOCOX2--AUS01,AUS,Australia,Australia
+Gold Medal,1,2024-08-02,BOTIN/TRITTEL,M,Sailing,Men's Skiff,TEAM,/en/paris-2024/results/sailing/men-s-skiff/fnl-000100--,SALM49ER----ESP01,ESP,Spain,Spain
+Silver Medal,2,2024-08-02,McHARDIE/McKENZIE,M,Sailing,Men's Skiff,TEAM,/en/paris-2024/results/sailing/men-s-skiff/fnl-000100--,SALM49ER----NZL01,NZL,New Zealand,New Zealand
+Bronze Medal,3,2024-08-02,BARROWS/HENKEN,M,Sailing,Men's Skiff,TEAM,/en/paris-2024/results/sailing/men-s-skiff/fnl-000100--,SALM49ER----USA01,USA,United States,United States of America
+Gold Medal,1,2024-08-02,AANHOLT/DUETZ,W,Sailing,Women's Skiff,TEAM,/en/paris-2024/results/sailing/women-s-skiff/fnl-000100--,SALW49ERFX--NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-02,BOBECK/NETZLER,W,Sailing,Women's Skiff,TEAM,/en/paris-2024/results/sailing/women-s-skiff/fnl-000100--,SALW49ERFX--SWE01,SWE,Sweden,Sweden
+Bronze Medal,3,2024-08-02,STEYAERT/PICON,W,Sailing,Women's Skiff,TEAM,/en/paris-2024/results/sailing/women-s-skiff/fnl-000100--,SALW49ERFX--FRA01,FRA,France,France
+Gold Medal,1,2024-08-02,Chiara LEONE,W,Shooting,50m Rifle 3 Positions Women,ATH,/en/paris-2024/results/shooting/50m-rifle-3-positions-women/fnl-000100--,1977709,SUI,Switzerland,Switzerland
+Silver Medal,2,2024-08-02,Sagen MADDALENA,W,Shooting,50m Rifle 3 Positions Women,ATH,/en/paris-2024/results/shooting/50m-rifle-3-positions-women/fnl-000100--,1944373,USA,United States,United States of America
+Bronze Medal,3,2024-08-02,ZHANG Qiongyue,W,Shooting,50m Rifle 3 Positions Women,ATH,/en/paris-2024/results/shooting/50m-rifle-3-positions-women/fnl-000100--,1913972,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-02,Leon MARCHAND,M,Swimming,Men's 200m Individual Medley,ATH,/en/paris-2024/results/swimming/men-s-200m-individual-medley/fnl-000100--,1909294,FRA,France,France
+Silver Medal,2,2024-08-02,Duncan SCOTT,M,Swimming,Men's 200m Individual Medley,ATH,/en/paris-2024/results/swimming/men-s-200m-individual-medley/fnl-000100--,1903621,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-02,WANG Shun,M,Swimming,Men's 200m Individual Medley,ATH,/en/paris-2024/results/swimming/men-s-200m-individual-medley/fnl-000100--,1945186,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-02,Cameron McEVOY,M,Swimming,Men's 50m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-50m-freestyle/fnl-000100--,1946161,AUS,Australia,Australia
+Silver Medal,2,2024-08-02,Benjamin PROUD,M,Swimming,Men's 50m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-50m-freestyle/fnl-000100--,1903616,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-02,Florent MANAUDOU,M,Swimming,Men's 50m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-50m-freestyle/fnl-000100--,1909292,FRA,France,France
+Gold Medal,1,2024-08-02,Kaylee McKEOWN,W,Swimming,Women's 200m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-200m-backstroke/fnl-000100--,1946198,AUS,Australia,Australia
+Silver Medal,2,2024-08-02,Regan SMITH,W,Swimming,Women's 200m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-200m-backstroke/fnl-000100--,1935984,USA,United States,United States of America
+Bronze Medal,3,2024-08-02,Kylie MASSE,W,Swimming,Women's 200m Backstroke,ATH,/en/paris-2024/results/swimming/women-s-200m-backstroke/fnl-000100--,1967104,CAN,Canada,Canada
+Gold Medal,1,2024-08-02,SINIAKOVA/MACHAC,X,Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/tennis/mixed-doubles/fnl-000100--,TENXDOUBLES-CZE01,CZE,Czechia,Czechia
+Silver Medal,2,2024-08-02,WANG/ZHANG,X,Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/tennis/mixed-doubles/fnl-000100--,TENXDOUBLES-CHN01,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-02,DABROWSKI/AUGER-ALIAS,X,Tennis,Mixed Doubles,HCOUP,/en/paris-2024/results/tennis/mixed-doubles/fnl-000200--,TENXDOUBLES-CAN01,CAN,Canada,Canada
+Bronze Medal,3,2024-08-02,Iga SWIATEK,W,Tennis,Women's Singles,HATH,/en/paris-2024/results/tennis/women-s-singles/fnl-000200--,1931815,POL,Poland,Poland
+Gold Medal,1,2024-08-02,Ivan LITVINOVICH,M,Trampoline Gymnastics,Men,ATH,/en/paris-2024/results/trampoline-gymnastics/men/fnl-000001--,1937347,AIN,AIN,AIN
+Silver Medal,2,2024-08-02,WANG Zisai,M,Trampoline Gymnastics,Men,ATH,/en/paris-2024/results/trampoline-gymnastics/men/fnl-000001--,1918790,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-02,YAN Langyu,M,Trampoline Gymnastics,Men,ATH,/en/paris-2024/results/trampoline-gymnastics/men/fnl-000001--,1918789,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-02,Bryony PAGE,W,Trampoline Gymnastics,Women,ATH,/en/paris-2024/results/trampoline-gymnastics/women/fnl-000001--,1904745,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-02,Viyaleta BARDZILOUSKAYA,W,Trampoline Gymnastics,Women,ATH,/en/paris-2024/results/trampoline-gymnastics/women/fnl-000001--,1938437,AIN,AIN,AIN
+Bronze Medal,3,2024-08-02,Sophiane METHOT,W,Trampoline Gymnastics,Women,ATH,/en/paris-2024/results/trampoline-gymnastics/women/fnl-000001--,1973102,CAN,Canada,Canada
+Gold Medal,1,2024-08-03,LIM Sihyeon,W,Archery,Women's Individual,HATH,/en/paris-2024/results/archery/women-s-individual/fnl-000100--,1902147,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-08-03,NAM Suhyeon,W,Archery,Women's Individual,HATH,/en/paris-2024/results/archery/women-s-individual/fnl-000100--,1902148,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-03,Lisa BARBELIN,W,Archery,Women's Individual,HATH,/en/paris-2024/results/archery/women-s-individual/fnl-000200--,1541265,FRA,France,France
+Gold Medal,1,2024-08-03,Carlos Edriel YULO,M,Artistic Gymnastics,Men's Floor Exercise,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-floor-exercise/fnl-000001--,1975874,PHI,Philippines,Philippines
+Silver Medal,2,2024-08-03,Artem DOLGOPYAT,M,Artistic Gymnastics,Men's Floor Exercise,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-floor-exercise/fnl-000001--,1908195,ISR,Israel,Israel
+Bronze Medal,3,2024-08-03,Jake JARMAN,M,Artistic Gymnastics,Men's Floor Exercise,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-floor-exercise/fnl-000001--,1904741,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-03,Rhys MC CLENAGHAN,M,Artistic Gymnastics,Men's Pommel Horse,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-pommel-horse/fnl-000001--,1539986,IRL,Ireland,Ireland
+Silver Medal,2,2024-08-03,Nariman KURBANOV,M,Artistic Gymnastics,Men's Pommel Horse,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-pommel-horse/fnl-000001--,1931577,KAZ,Kazakhstan,Kazakhstan
+Bronze Medal,3,2024-08-03,Stephen NEDOROSCIK,M,Artistic Gymnastics,Men's Pommel Horse,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-pommel-horse/fnl-000001--,1959865,USA,United States,United States of America
+Gold Medal,1,2024-08-03,Simone BILES,W,Artistic Gymnastics,Women's Vault,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-vault/fnl-000001--,1959861,USA,United States,United States of America
+Silver Medal,2,2024-08-03,Rebeca ANDRADE,W,Artistic Gymnastics,Women's Vault,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-vault/fnl-000001--,1953634,BRA,Brazil,Brazil
+Bronze Medal,3,2024-08-03,Jade CAREY,W,Artistic Gymnastics,Women's Vault,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-vault/fnl-000001--,1959819,USA,United States,United States of America
+Gold Medal,1,2024-08-03,Netherlands,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,ATHX4X400M--NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-03,United States,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,ATHX4X400M--USA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-03,Great Britain,X,Athletics,4 x 400m Relay Mixed,TEAM,/en/paris-2024/results/athletics/4-x-400m-relay-mixed/fnl-000100--,ATHX4X400M--GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-03,Markus ROOTH,M,Athletics,Men's Decathlon,ATH,/en/paris-2024/results/athletics/men-s-decathlon/1500--------,1878353,NOR,Norway,Norway
+Silver Medal,2,2024-08-03,Leo NEUGEBAUER,M,Athletics,Men's Decathlon,ATH,/en/paris-2024/results/athletics/men-s-decathlon/1500--------,1920180,GER,Germany,Germany
+Bronze Medal,3,2024-08-03,Lindon VICTOR,M,Athletics,Men's Decathlon,ATH,/en/paris-2024/results/athletics/men-s-decathlon/1500--------,1573388,GRN,Grenada,Grenada
+Gold Medal,1,2024-08-03,Ryan CROUSER,M,Athletics,Men's Shot Put,ATH,/en/paris-2024/results/athletics/men-s-shot-put/fnl-000100--,1960688,USA,United States,United States of America
+Silver Medal,2,2024-08-03,Joe KOVACS,M,Athletics,Men's Shot Put,ATH,/en/paris-2024/results/athletics/men-s-shot-put/fnl-000100--,1965246,USA,United States,United States of America
+Bronze Medal,3,2024-08-03,Rajindra CAMPBELL,M,Athletics,Men's Shot Put,ATH,/en/paris-2024/results/athletics/men-s-shot-put/fnl-000100--,1564189,JAM,Jamaica,Jamaica
+Gold Medal,1,2024-08-03,Julien ALFRED,W,Athletics,Women's 100m,ATH,/en/paris-2024/results/athletics/women-s-100m/fnl-000100--,1537325,LCA,Saint Lucia,Saint Lucia
+Silver Medal,2,2024-08-03,Sha'carri RICHARDSON,W,Athletics,Women's 100m,ATH,/en/paris-2024/results/athletics/women-s-100m/fnl-000100--,1960181,USA,United States,United States of America
+Bronze Medal,3,2024-08-03,Melissa JEFFERSON,W,Athletics,Women's 100m,ATH,/en/paris-2024/results/athletics/women-s-100m/fnl-000100--,1961011,USA,United States,United States of America
+Gold Medal,1,2024-08-03,Thea LAFOND,W,Athletics,Women's Triple Jump,ATH,/en/paris-2024/results/athletics/women-s-triple-jump/fnl-000100--,1908333,DMA,Dominica,Dominica
+Silver Medal,2,2024-08-03,Shanieka RICKETTS,W,Athletics,Women's Triple Jump,ATH,/en/paris-2024/results/athletics/women-s-triple-jump/fnl-000100--,1536885,JAM,Jamaica,Jamaica
+Bronze Medal,3,2024-08-03,Jasmine MOORE,W,Athletics,Women's Triple Jump,ATH,/en/paris-2024/results/athletics/women-s-triple-jump/fnl-000100--,1965250,USA,United States,United States of America
+Gold Medal,1,2024-08-03,CHEN/JIA,W,Badminton,Women's Doubles,HCOUP,/en/paris-2024/results/badminton/women-s-doubles/fnl-000100--,BDMWDOUBLES-CHN02,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-03,LIU/TAN,W,Badminton,Women's Doubles,HCOUP,/en/paris-2024/results/badminton/women-s-doubles/fnl-000100--,BDMWDOUBLES-CHN01,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-03,MATSUYAMA/SHIDA,W,Badminton,Women's Doubles,HCOUP,/en/paris-2024/results/badminton/women-s-doubles/fnl-000200--,BDMWDOUBLES-JPN01,JPN,Japan,Japan
+Bronze Medal,3,2024-08-03,WU Shih Yi,W,Boxing,Women's 60kg,HATH,/en/paris-2024/results/boxing/women-s-60kg/sfnl000100--,1887970,TPE,Chinese Taipei,Chinese Taipei
+Bronze Medal,3,2024-08-03,Beatriz Iasmin SOARES FERREIRA,W,Boxing,Women's 60kg,HATH,/en/paris-2024/results/boxing/women-s-60kg/sfnl000200--,1952540,BRA,Brazil,Brazil
+Gold Medal,1,2024-08-03,Remco EVENEPOEL,M,Cycling Road,Men's Road Race,ATH,/en/paris-2024/results/cycling-road/men-s-road-race/fnl-000100--,1903136,BEL,Belgium,Belgium
+Silver Medal,2,2024-08-03,Valentin MADOUAS,M,Cycling Road,Men's Road Race,ATH,/en/paris-2024/results/cycling-road/men-s-road-race/fnl-000100--,1895699,FRA,France,France
+Bronze Medal,3,2024-08-03,Christophe LAPORTE,M,Cycling Road,Men's Road Race,ATH,/en/paris-2024/results/cycling-road/men-s-road-race/fnl-000100--,1895694,FRA,France,France
+Gold Medal,1,2024-08-03,Germany,O,Equestrian,Dressage Team,TEAM,/en/paris-2024/results/equestrian/dressage-team/gpsp000100--,EQUODRESTEAMGER01,GER,Germany,Germany
+Silver Medal,2,2024-08-03,Denmark,O,Equestrian,Dressage Team,TEAM,/en/paris-2024/results/equestrian/dressage-team/gpsp000100--,EQUODRESTEAMDEN01,DEN,Denmark,Denmark
+Bronze Medal,3,2024-08-03,Great Britain,O,Equestrian,Dressage Team,TEAM,/en/paris-2024/results/equestrian/dressage-team/gpsp000100--,EQUODRESTEAMGBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-03,Ukraine,W,Fencing,Women's Sabre Team,HTEAM,/en/paris-2024/results/fencing/women-s-sabre-team/fnl-000100--,FENWTEAMSABRUKR01,UKR,Ukraine,Ukraine
+Silver Medal,2,2024-08-03,Korea,W,Fencing,Women's Sabre Team,HTEAM,/en/paris-2024/results/fencing/women-s-sabre-team/fnl-000100--,FENWTEAMSABRKOR01,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-03,Japan,W,Fencing,Women's Sabre Team,HTEAM,/en/paris-2024/results/fencing/women-s-sabre-team/fnl-000200--,FENWTEAMSABRJPN01,JPN,Japan,Japan
+Gold Medal,1,2024-08-03,France,X,Judo,Mixed Team,HTEAM,/en/paris-2024/results/judo/mixed-team/fnl-00010000,JUDXTEAM6---FRA01,FRA,France,France
+Silver Medal,2,2024-08-03,Japan,X,Judo,Mixed Team,HTEAM,/en/paris-2024/results/judo/mixed-team/fnl-00010000,JUDXTEAM6---JPN01,JPN,Japan,Japan
+Bronze Medal,3,2024-08-03,Brazil,X,Judo,Mixed Team,HTEAM,/en/paris-2024/results/judo/mixed-team/repf00010000,JUDXTEAM6---BRA01,BRA,Brazil,Brazil
+Bronze Medal,3,2024-08-03,Korea,X,Judo,Mixed Team,HTEAM,/en/paris-2024/results/judo/mixed-team/repf00020000,JUDXTEAM6---KOR01,KOR,Korea,Republic of Korea
+Gold Medal,1,2024-08-03,Great Britain,M,Rowing,Men's Eight,TEAM,/en/paris-2024/results/rowing/men-s-eight/fnl---------,ROWMCOXED8--GBR01,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-03,Netherlands,M,Rowing,Men's Eight,TEAM,/en/paris-2024/results/rowing/men-s-eight/fnl---------,ROWMCOXED8--NED01,NED,Netherlands,Netherlands
+Bronze Medal,3,2024-08-03,United States,M,Rowing,Men's Eight,TEAM,/en/paris-2024/results/rowing/men-s-eight/fnl---------,ROWMCOXED8--USA01,USA,United States,United States of America
+Gold Medal,1,2024-08-03,Oliver ZEIDLER,M,Rowing,Men's Single Sculls,ATH,/en/paris-2024/results/rowing/men-s-single-sculls/fnl---------,1906515,GER,Germany,Germany
+Silver Medal,2,2024-08-03,Yauheni ZALATY,M,Rowing,Men's Single Sculls,ATH,/en/paris-2024/results/rowing/men-s-single-sculls/fnl---------,1538160,AIN,AIN,AIN
+Bronze Medal,3,2024-08-03,Simon van DORP,M,Rowing,Men's Single Sculls,ATH,/en/paris-2024/results/rowing/men-s-single-sculls/fnl---------,1965599,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-03,Romania,W,Rowing,Women's Eight,TEAM,/en/paris-2024/results/rowing/women-s-eight/fnl---------,ROWWCOXED8--ROU01,ROU,Romania,Romania
+Silver Medal,2,2024-08-03,Canada,W,Rowing,Women's Eight,TEAM,/en/paris-2024/results/rowing/women-s-eight/fnl---------,ROWWCOXED8--CAN01,CAN,Canada,Canada
+Bronze Medal,3,2024-08-03,Great Britain,W,Rowing,Women's Eight,TEAM,/en/paris-2024/results/rowing/women-s-eight/fnl---------,ROWWCOXED8--GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-03,Karolien FLORIJN,W,Rowing,Women's Single Sculls,ATH,/en/paris-2024/results/rowing/women-s-single-sculls/fnl---------,1965558,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-03,Emma TWIGG,W,Rowing,Women's Single Sculls,ATH,/en/paris-2024/results/rowing/women-s-single-sculls/fnl---------,1927027,NZL,New Zealand,New Zealand
+Bronze Medal,3,2024-08-03,Viktorija SENKUTE,W,Rowing,Women's Single Sculls,ATH,/en/paris-2024/results/rowing/women-s-single-sculls/fnl---------,1941956,LTU,Lithuania,Lithuania
+Gold Medal,1,2024-08-03,Tom REUVENY,M,Sailing,Men's Windsurfing,ATH,/en/paris-2024/results/sailing/men-s-windsurfing/fnl-000100--,1927680,ISR,Israel,Israel
+Silver Medal,2,2024-08-03,Grae MORRIS,M,Sailing,Men's Windsurfing,ATH,/en/paris-2024/results/sailing/men-s-windsurfing/fnl-000100--,1945982,AUS,Australia,Australia
+Bronze Medal,3,2024-08-03,Luuc van OPZEELAND,M,Sailing,Men's Windsurfing,ATH,/en/paris-2024/results/sailing/men-s-windsurfing/fnl-000100--,1970505,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-03,Marta MAGGETTI,W,Sailing,Women's Windsurfing,ATH,/en/paris-2024/results/sailing/women-s-windsurfing/fnl-000100--,1899653,ITA,Italy,Italy
+Silver Medal,2,2024-08-03,Sharon KANTOR,W,Sailing,Women's Windsurfing,ATH,/en/paris-2024/results/sailing/women-s-windsurfing/fnl-000100--,1927733,ISR,Israel,Israel
+Bronze Medal,3,2024-08-03,Emma WILSON,W,Sailing,Women's Windsurfing,ATH,/en/paris-2024/results/sailing/women-s-windsurfing/fnl-000100--,1899748,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-03,YANG Jiin,W,Shooting,25m Pistol Women,ATH,/en/paris-2024/results/shooting/25m-pistol-women/fnl-000100--,1893995,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-08-03,Camille JEDRZEJEWSKI,W,Shooting,25m Pistol Women,ATH,/en/paris-2024/results/shooting/25m-pistol-women/fnl-000100--,1888429,FRA,France,France
+Bronze Medal,3,2024-08-03,Veronika MAJOR,W,Shooting,25m Pistol Women,ATH,/en/paris-2024/results/shooting/25m-pistol-women/fnl-000100--,1899493,HUN,Hungary,Hungary
+Gold Medal,1,2024-08-03,Vincent HANCOCK,M,Shooting,Skeet Men,ATH,/en/paris-2024/results/shooting/skeet-men/fnl-000100--,1944354,USA,United States,United States of America
+Silver Medal,2,2024-08-03,Conner Lynn PRINCE,M,Shooting,Skeet Men,ATH,/en/paris-2024/results/shooting/skeet-men/fnl-000100--,1944385,USA,United States,United States of America
+Bronze Medal,3,2024-08-03,LEE Meng Yuan,M,Shooting,Skeet Men,ATH,/en/paris-2024/results/shooting/skeet-men/fnl-000100--,1569852,TPE,Chinese Taipei,Chinese Taipei
+Gold Medal,1,2024-08-03,Kristof MILAK,M,Swimming,Men's 100m Butterfly,ATH,/en/paris-2024/results/swimming/men-s-100m-butterfly/fnl-000100--,1905860,HUN,Hungary,Hungary
+Silver Medal,2,2024-08-03,Josh LIENDO,M,Swimming,Men's 100m Butterfly,ATH,/en/paris-2024/results/swimming/men-s-100m-butterfly/fnl-000100--,1967069,CAN,Canada,Canada
+Bronze Medal,3,2024-08-03,Ilya KHARUN,M,Swimming,Men's 100m Butterfly,ATH,/en/paris-2024/results/swimming/men-s-100m-butterfly/fnl-000100--,1967058,CAN,Canada,Canada
+Gold Medal,1,2024-08-03,United States,X,Swimming,Mixed 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/mixed-4-x-100m-medley-relay/fnl-000100--,SWMX4X100MMDUSA01,USA,United States,United States of America
+Silver Medal,2,2024-08-03,China,X,Swimming,Mixed 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/mixed-4-x-100m-medley-relay/fnl-000100--,SWMX4X100MMDCHN01,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-03,Australia,X,Swimming,Mixed 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/mixed-4-x-100m-medley-relay/fnl-000100--,SWMX4X100MMDAUS01,AUS,Australia,Australia
+Gold Medal,1,2024-08-03,Summer McINTOSH,W,Swimming,Women's 200m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-200m-individual-medley/fnl-000100--,1967140,CAN,Canada,Canada
+Silver Medal,2,2024-08-03,Kate DOUGLASS,W,Swimming,Women's 200m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-200m-individual-medley/fnl-000100--,1935895,USA,United States,United States of America
+Bronze Medal,3,2024-08-03,Kaylee McKEOWN,W,Swimming,Women's 200m Individual Medley,ATH,/en/paris-2024/results/swimming/women-s-200m-individual-medley/fnl-000100--,1946198,AUS,Australia,Australia
+Gold Medal,1,2024-08-03,Katie LEDECKY,W,Swimming,Women's 800m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-800m-freestyle/fnl-000100--,1935938,USA,United States,United States of America
+Silver Medal,2,2024-08-03,Ariarne TITMUS,W,Swimming,Women's 800m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-800m-freestyle/fnl-000100--,1946150,AUS,Australia,Australia
+Bronze Medal,3,2024-08-03,Paige MADDEN,W,Swimming,Women's 800m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-800m-freestyle/fnl-000100--,1935943,USA,United States,United States of America
+Gold Medal,1,2024-08-03,CHEN Meng,W,Table Tennis,Women's Singles,HATH,/en/paris-2024/results/table-tennis/women-s-singles/fnl-000100--,1902307,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-03,SUN Yingsha,W,Table Tennis,Women's Singles,HATH,/en/paris-2024/results/table-tennis/women-s-singles/fnl-000100--,1902313,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-03,Hina HAYATA,W,Table Tennis,Women's Singles,HATH,/en/paris-2024/results/table-tennis/women-s-singles/fnl-000200--,1931100,JPN,Japan,Japan
+Gold Medal,1,2024-08-03,EBDEN/PEERS,M,Tennis,Men's Doubles,HCOUP,/en/paris-2024/results/tennis/men-s-doubles/fnl-000100--,TENMDOUBLES-AUS02,AUS,Australia,Australia
+Silver Medal,2,2024-08-03,KRAJICEK/RAM,M,Tennis,Men's Doubles,HCOUP,/en/paris-2024/results/tennis/men-s-doubles/fnl-000100--,TENMDOUBLES-USA02,USA,United States,United States of America
+Bronze Medal,3,2024-08-03,FRITZ/PAUL,M,Tennis,Men's Doubles,HCOUP,/en/paris-2024/results/tennis/men-s-doubles/fnl-000200--,TENMDOUBLES-USA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-03,Lorenzo MUSETTI,M,Tennis,Men's Singles,HATH,/en/paris-2024/results/tennis/men-s-singles/fnl-000200--,1562400,ITA,Italy,Italy
+Gold Medal,1,2024-08-03,ZHENG Qinwen,W,Tennis,Women's Singles,HATH,/en/paris-2024/results/tennis/women-s-singles/fnl-000100--,1927709,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-03,Donna VEKIC,W,Tennis,Women's Singles,HATH,/en/paris-2024/results/tennis/women-s-singles/fnl-000100--,1554972,CRO,Croatia,Croatia
+Gold Medal,1,2024-08-04,KIM Woojin,M,Archery,Men's Individual,HATH,/en/paris-2024/results/archery/men-s-individual/fnl-000100--,1902135,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-08-04,Brady ELLISON,M,Archery,Men's Individual,HATH,/en/paris-2024/results/archery/men-s-individual/fnl-000100--,1955595,USA,United States,United States of America
+Bronze Medal,3,2024-08-04,LEE Wooseok,M,Archery,Men's Individual,HATH,/en/paris-2024/results/archery/men-s-individual/fnl-000200--,1902144,KOR,Korea,Republic of Korea
+Gold Medal,1,2024-08-04,LIU Yang,M,Artistic Gymnastics,Men's Rings,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-rings/fnl-000001--,1918856,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-04,ZOU Jingyuan,M,Artistic Gymnastics,Men's Rings,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-rings/fnl-000001--,1918865,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-04,Eleftherios PETROUNIAS,M,Artistic Gymnastics,Men's Rings,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-rings/fnl-000001--,1961314,GRE,Greece,Greece
+Gold Medal,1,2024-08-04,Carlos Edriel YULO,M,Artistic Gymnastics,Men's Vault,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-vault/fnl-000001--,1975874,PHI,Philippines,Philippines
+Silver Medal,2,2024-08-04,Artur DAVTYAN,M,Artistic Gymnastics,Men's Vault,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-vault/fnl-000001--,1915828,ARM,Armenia,Armenia
+Bronze Medal,3,2024-08-04,Harry HEPWORTH,M,Artistic Gymnastics,Men's Vault,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-vault/fnl-000001--,1904740,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-04,Kaylia NEMOUR,W,Artistic Gymnastics,Women's Uneven Bars,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-uneven-bars/fnl-000001--,1545688,ALG,Algeria,Algeria
+Silver Medal,2,2024-08-04,QIU Qiyuan,W,Artistic Gymnastics,Women's Uneven Bars,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-uneven-bars/fnl-000001--,1918872,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-04,Sunisa LEE,W,Artistic Gymnastics,Women's Uneven Bars,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-uneven-bars/fnl-000001--,1959866,USA,United States,United States of America
+Gold Medal,1,2024-08-04,Noah LYLES,M,Athletics,Men's 100m,ATH,/en/paris-2024/results/athletics/men-s-100m/fnl-000100--,1960173,USA,United States,United States of America
+Silver Medal,2,2024-08-04,Kishane THOMPSON,M,Athletics,Men's 100m,ATH,/en/paris-2024/results/athletics/men-s-100m/fnl-000100--,1980161,JAM,Jamaica,Jamaica
+Bronze Medal,3,2024-08-04,Fred KERLEY,M,Athletics,Men's 100m,ATH,/en/paris-2024/results/athletics/men-s-100m/fnl-000100--,1960958,USA,United States,United States of America
+Gold Medal,1,2024-08-04,Ethan KATZBERG,M,Athletics,Men's Hammer Throw,ATH,/en/paris-2024/results/athletics/men-s-hammer-throw/fnl-000100--,1974151,CAN,Canada,Canada
+Silver Medal,2,2024-08-04,Bence HALASZ,M,Athletics,Men's Hammer Throw,ATH,/en/paris-2024/results/athletics/men-s-hammer-throw/fnl-000100--,1916814,HUN,Hungary,Hungary
+Bronze Medal,3,2024-08-04,Mykhaylo KOKHAN,M,Athletics,Men's Hammer Throw,ATH,/en/paris-2024/results/athletics/men-s-hammer-throw/fnl-000100--,1571563,UKR,Ukraine,Ukraine
+Gold Medal,1,2024-08-04,Yaroslava MAHUCHIKH,W,Athletics,Women's High Jump,ATH,/en/paris-2024/results/athletics/women-s-high-jump/fnl-000100--,1571559,UKR,Ukraine,Ukraine
+Silver Medal,2,2024-08-04,Nicola OLYSLAGERS,W,Athletics,Women's High Jump,ATH,/en/paris-2024/results/athletics/women-s-high-jump/fnl-000100--,1939838,AUS,Australia,Australia
+Bronze Medal,3,2024-08-04,Iryna GERASHCHENKO,W,Athletics,Women's High Jump,ATH,/en/paris-2024/results/athletics/women-s-high-jump/fnl-000100--,1571577,UKR,Ukraine,Ukraine
+Bronze Medal,3,2024-08-04,Eleanor PATTERSON,W,Athletics,Women's High Jump,ATH,/en/paris-2024/results/athletics/women-s-high-jump/fnl-000100--,1939763,AUS,Australia,Australia
+Gold Medal,1,2024-08-04,LEE/WANG,M,Badminton,Men's Doubles,HCOUP,/en/paris-2024/results/badminton/men-s-doubles/fnl-000100--,BDMMDOUBLES-TPE01,TPE,Chinese Taipei,Chinese Taipei
+Silver Medal,2,2024-08-04,LIANG/WANG,M,Badminton,Men's Doubles,HCOUP,/en/paris-2024/results/badminton/men-s-doubles/fnl-000100--,BDMMDOUBLES-CHN02,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-04,CHIA/SOH,M,Badminton,Men's Doubles,HCOUP,/en/paris-2024/results/badminton/men-s-doubles/fnl-000200--,BDMMDOUBLES-MAS01,MAS,Malaysia,Malaysia
+Bronze Medal,,2024-08-04,Gregoria Mariska TUNJUNG,W,Badminton,Women's Singles,HATH,/en/paris-2024/results/badminton/women-s-singles/sfnl000100--,1926315,INA,Indonesia,Indonesia
+Bronze Medal,3,2024-08-04,Yunior ALCANTARA REYES,M,Boxing,Men's 51kg,HATH,/en/paris-2024/results/boxing/men-s-51kg/sfnl000100--,1908817,DOM,Dominican Republic,Dominican Republic
+Bronze Medal,3,2024-08-04,David de PINA,M,Boxing,Men's 51kg,HATH,/en/paris-2024/results/boxing/men-s-51kg/sfnl000200--,1892464,CPV,Cabo Verde,Cabo Verde
+Bronze Medal,3,2024-08-04,Wyatt SANFORD,M,Boxing,Men's 63.5kg,HATH,/en/paris-2024/results/boxing/men-s-63-5kg/sfnl000100--,1972293,CAN,Canada,Canada
+Bronze Medal,3,2024-08-04,Lasha GURULI,M,Boxing,Men's 63.5kg,HATH,/en/paris-2024/results/boxing/men-s-63-5kg/sfnl000200--,1550184,GEO,Georgia,Georgia
+Bronze Medal,3,2024-08-04,Cristian Javier PINALES,M,Boxing,Men's 80kg,HATH,/en/paris-2024/results/boxing/men-s-80kg/sfnl000100--,1943368,DOM,Dominican Republic,Dominican Republic
+Bronze Medal,3,2024-08-04,Arlen LOPEZ CARDONA,M,Boxing,Men's 80kg,HATH,/en/paris-2024/results/boxing/men-s-80kg/sfnl000200--,1555548,CUB,Cuba,Cuba
+Bronze Medal,3,2024-08-04,Enmanuel REYES PLA,M,Boxing,Men's 92kg,HATH,/en/paris-2024/results/boxing/men-s-92kg/sfnl000100--,1934790,ESP,Spain,Spain
+Bronze Medal,3,2024-08-04,Davlat BOLTAEV,M,Boxing,Men's 92kg,HATH,/en/paris-2024/results/boxing/men-s-92kg/sfnl000200--,1909011,TJK,Tajikistan,Tajikistan
+Bronze Medal,3,2024-08-04,PANG Cholmi,W,Boxing,Women's 54kg,HATH,/en/paris-2024/results/boxing/women-s-54kg/sfnl000100--,1980125,PRK,DPR Korea,Democratic People's Republic of Korea
+Bronze Medal,3,2024-08-04,IM Aeji,W,Boxing,Women's 54kg,HATH,/en/paris-2024/results/boxing/women-s-54kg/sfnl000200--,1891890,KOR,Korea,Republic of Korea
+Gold Medal,1,2024-08-04,Kristen FAULKNER,W,Cycling Road,Women's Road Race,ATH,/en/paris-2024/results/cycling-road/women-s-road-race/fnl-000100--,1955081,USA,United States,United States of America
+Silver Medal,2,2024-08-04,Marianne VOS,W,Cycling Road,Women's Road Race,ATH,/en/paris-2024/results/cycling-road/women-s-road-race/fnl-000100--,1969165,NED,Netherlands,Netherlands
+Bronze Medal,3,2024-08-04,Lotte KOPECKY,W,Cycling Road,Women's Road Race,ATH,/en/paris-2024/results/cycling-road/women-s-road-race/fnl-000100--,1903120,BEL,Belgium,Belgium
+Gold Medal,1,2024-08-04,Jessica von BREDOW-WERNDL,O,Equestrian,Dressage Individual,ATH,/en/paris-2024/results/equestrian/dressage-individual/gpfr000100--,1914905,GER,Germany,Germany
+Silver Medal,2,2024-08-04,Isabell WERTH,O,Equestrian,Dressage Individual,ATH,/en/paris-2024/results/equestrian/dressage-individual/gpfr000100--,1914909,GER,Germany,Germany
+Bronze Medal,3,2024-08-04,Charlotte FRY,O,Equestrian,Dressage Individual,ATH,/en/paris-2024/results/equestrian/dressage-individual/gpfr000100--,1970905,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-04,Japan,M,Fencing,Men's Foil Team,HTEAM,/en/paris-2024/results/fencing/men-s-foil-team/fnl-000100--,FENMTEAMFOILJPN01,JPN,Japan,Japan
+Silver Medal,2,2024-08-04,Italy,M,Fencing,Men's Foil Team,HTEAM,/en/paris-2024/results/fencing/men-s-foil-team/fnl-000100--,FENMTEAMFOILITA01,ITA,Italy,Italy
+Bronze Medal,3,2024-08-04,France,M,Fencing,Men's Foil Team,HTEAM,/en/paris-2024/results/fencing/men-s-foil-team/fnl-000200--,FENMTEAMFOILFRA01,FRA,France,France
+Gold Medal,1,2024-08-04,Scottie SCHEFFLER,M,Golf,Men's Individual Stroke Play,ATH,/en/paris-2024/results/golf/men-s-individual-stroke-play/fnl---------,1951724,USA,United States,United States of America
+Silver Medal,2,2024-08-04,Tommy FLEETWOOD,M,Golf,Men's Individual Stroke Play,ATH,/en/paris-2024/results/golf/men-s-individual-stroke-play/fnl---------,1923629,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-04,MATSUYAMA Hideki,M,Golf,Men's Individual Stroke Play,ATH,/en/paris-2024/results/golf/men-s-individual-stroke-play/fnl---------,1961406,JPN,Japan,Japan
+Gold Medal,1,2024-08-04,Francisca CROVETTO CHADID,W,Shooting,Skeet Women,ATH,/en/paris-2024/results/shooting/skeet-women/fnl-000100--,1937878,CHI,Chile,Chile
+Silver Medal,2,2024-08-04,Amber Jo RUTTER,W,Shooting,Skeet Women,ATH,/en/paris-2024/results/shooting/skeet-women/fnl-000100--,1977402,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-04,Austen Jewell SMITH,W,Shooting,Skeet Women,ATH,/en/paris-2024/results/shooting/skeet-women/fnl-000100--,1944397,USA,United States,United States of America
+Gold Medal,1,2024-08-04,Bobby FINKE,M,Swimming,Men's 1500m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-1500m-freestyle/fnl-000100--,1935902,USA,United States,United States of America
+Silver Medal,2,2024-08-04,Gregorio PALTRINIERI,M,Swimming,Men's 1500m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-1500m-freestyle/fnl-000100--,1925630,ITA,Italy,Italy
+Bronze Medal,3,2024-08-04,Daniel WIFFEN,M,Swimming,Men's 1500m Freestyle,ATH,/en/paris-2024/results/swimming/men-s-1500m-freestyle/fnl-000100--,1539969,IRL,Ireland,Ireland
+Gold Medal,1,2024-08-04,China,M,Swimming,Men's 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-100m-medley-relay/fnl-000100--,SWMM4X100MMDCHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-04,United States,M,Swimming,Men's 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-100m-medley-relay/fnl-000100--,SWMM4X100MMDUSA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-04,France,M,Swimming,Men's 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/men-s-4-x-100m-medley-relay/fnl-000100--,SWMM4X100MMDFRA01,FRA,France,France
+Gold Medal,1,2024-08-04,United States,W,Swimming,Women's 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-100m-medley-relay/fnl-000100--,SWMW4X100MMDUSA01,USA,United States,United States of America
+Silver Medal,2,2024-08-04,Australia,W,Swimming,Women's 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-100m-medley-relay/fnl-000100--,SWMW4X100MMDAUS01,AUS,Australia,Australia
+Bronze Medal,3,2024-08-04,China,W,Swimming,Women's 4 x 100m Medley Relay,TEAM,/en/paris-2024/results/swimming/women-s-4-x-100m-medley-relay/fnl-000100--,SWMW4X100MMDCHN01,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-04,Sarah SJOESTROEM,W,Swimming,Women's 50m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-50m-freestyle/fnl-000100--,1572557,SWE,Sweden,Sweden
+Silver Medal,2,2024-08-04,Meg HARRIS,W,Swimming,Women's 50m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-50m-freestyle/fnl-000100--,1946212,AUS,Australia,Australia
+Bronze Medal,3,2024-08-04,ZHANG Yufei,W,Swimming,Women's 50m Freestyle,ATH,/en/paris-2024/results/swimming/women-s-50m-freestyle/fnl-000100--,1945125,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-04,FAN Zhendong,M,Table Tennis,Men's Singles,HATH,/en/paris-2024/results/table-tennis/men-s-singles/fnl-000100--,1902295,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-04,Truls MOREGARD,M,Table Tennis,Men's Singles,HATH,/en/paris-2024/results/table-tennis/men-s-singles/fnl-000100--,1563390,SWE,Sweden,Sweden
+Bronze Medal,3,2024-08-04,Felix LEBRUN,M,Table Tennis,Men's Singles,HATH,/en/paris-2024/results/table-tennis/men-s-singles/fnl-000200--,1889177,FRA,France,France
+Gold Medal,1,2024-08-04,Novak DJOKOVIC,M,Tennis,Men's Singles,HATH,/en/paris-2024/results/tennis/men-s-singles/fnl-000100--,1956398,SRB,Serbia,Serbia
+Silver Medal,2,2024-08-04,Carlos ALCARAZ,M,Tennis,Men's Singles,HATH,/en/paris-2024/results/tennis/men-s-singles/fnl-000100--,1563682,ESP,Spain,Spain
+Gold Medal,1,2024-08-04,ERRANI/PAOLINI,W,Tennis,Women's Doubles,HCOUP,/en/paris-2024/results/tennis/women-s-doubles/fnl-000100--,TENWDOUBLES-ITA01,ITA,Italy,Italy
+Silver Medal,2,2024-08-04,ANDREEVA/SHNAIDER,W,Tennis,Women's Doubles,HCOUP,/en/paris-2024/results/tennis/women-s-doubles/fnl-000100--,TENWDOUBLES-AIN02,AIN,AIN,AIN
+Bronze Medal,3,2024-08-04,BUCSA/SORRIBES TORMO,W,Tennis,Women's Doubles,HCOUP,/en/paris-2024/results/tennis/women-s-doubles/fnl-000200--,TENWDOUBLES-ESP01,ESP,Spain,Spain
+Gold Medal,1,2024-08-05,Netherlands,M,3x3 Basketball,Men,HTEAM,/en/paris-2024/results/3x3-basketball/men/fnl-000100--,BK3MTEAM3---NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-05,France,M,3x3 Basketball,Men,HTEAM,/en/paris-2024/results/3x3-basketball/men/fnl-000100--,BK3MTEAM3---FRA01,FRA,France,France
+Bronze Medal,3,2024-08-05,Lithuania,M,3x3 Basketball,Men,HTEAM,/en/paris-2024/results/3x3-basketball/men/fnl-000200--,BK3MTEAM3---LTU01,LTU,Lithuania,Lithuania
+Gold Medal,1,2024-08-05,Germany,W,3x3 Basketball,Women,HTEAM,/en/paris-2024/results/3x3-basketball/women/fnl-000100--,BK3WTEAM3---GER01,GER,Germany,Germany
+Silver Medal,2,2024-08-05,Spain,W,3x3 Basketball,Women,HTEAM,/en/paris-2024/results/3x3-basketball/women/fnl-000100--,BK3WTEAM3---ESP01,ESP,Spain,Spain
+Bronze Medal,3,2024-08-05,United States,W,3x3 Basketball,Women,HTEAM,/en/paris-2024/results/3x3-basketball/women/fnl-000200--,BK3WTEAM3---USA01,USA,United States,United States of America
+Gold Medal,1,2024-08-05,OKA Shinnosuke,M,Artistic Gymnastics,Men's Horizontal Bar,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-horizontal-bar/fnl-000001--,1919480,JPN,Japan,Japan
+Silver Medal,2,2024-08-05,Angel BARAJAS,M,Artistic Gymnastics,Men's Horizontal Bar,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-horizontal-bar/fnl-000001--,1935685,COL,Colombia,Colombia
+Bronze Medal,3,2024-08-05,ZHANG Boheng,M,Artistic Gymnastics,Men's Horizontal Bar,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-horizontal-bar/fnl-000001--,1918864,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-05,TANG Chia-Hung,M,Artistic Gymnastics,Men's Horizontal Bar,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-horizontal-bar/fnl-000001--,1878037,TPE,Chinese Taipei,Chinese Taipei
+Gold Medal,1,2024-08-05,ZOU Jingyuan,M,Artistic Gymnastics,Men's Parallel Bars,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-parallel-bars/fnl-000001--,1918865,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-05,Illia KOVTUN,M,Artistic Gymnastics,Men's Parallel Bars,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-parallel-bars/fnl-000001--,1897555,UKR,Ukraine,Ukraine
+Bronze Medal,3,2024-08-05,OKA Shinnosuke,M,Artistic Gymnastics,Men's Parallel Bars,ATH,/en/paris-2024/results/artistic-gymnastics/men-s-parallel-bars/fnl-000001--,1919480,JPN,Japan,Japan
+Gold Medal,1,2024-08-05,Alice D'AMATO,W,Artistic Gymnastics,Women's Balance Beam,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-balance-beam/fnl-000001--,1551061,ITA,Italy,Italy
+Silver Medal,2,2024-08-05,ZHOU Yaqin,W,Artistic Gymnastics,Women's Balance Beam,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-balance-beam/fnl-000001--,1918881,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-05,Manila ESPOSITO,W,Artistic Gymnastics,Women's Balance Beam,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-balance-beam/fnl-000001--,1560762,ITA,Italy,Italy
+Gold Medal,1,2024-08-05,Rebeca ANDRADE,W,Artistic Gymnastics,Women's Floor Exercise,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-floor-exercise/fnl-000001--,1953634,BRA,Brazil,Brazil
+Silver Medal,2,2024-08-05,Simone BILES,W,Artistic Gymnastics,Women's Floor Exercise,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-floor-exercise/fnl-000001--,1959861,USA,United States,United States of America
+Bronze Medal,3,2024-08-05,Ana BARBOSU,W,Artistic Gymnastics,Women's Floor Exercise,ATH,/en/paris-2024/results/artistic-gymnastics/women-s-floor-exercise/fnl-000001--,1550170,ROU,Romania,Romania
+Gold Medal,1,2024-08-05,Armand DUPLANTIS,M,Athletics,Men's Pole Vault,ATH,/en/paris-2024/results/athletics/men-s-pole-vault/fnl-000100--,1569203,SWE,Sweden,Sweden
+Silver Medal,2,2024-08-05,Sam KENDRICKS,M,Athletics,Men's Pole Vault,ATH,/en/paris-2024/results/athletics/men-s-pole-vault/fnl-000100--,1960178,USA,United States,United States of America
+Bronze Medal,3,2024-08-05,Emmanouil KARALIS,M,Athletics,Men's Pole Vault,ATH,/en/paris-2024/results/athletics/men-s-pole-vault/fnl-000100--,1961218,GRE,Greece,Greece
+Gold Medal,1,2024-08-05,Beatrice CHEBET,W,Athletics,Women's 5000m,ATH,/en/paris-2024/results/athletics/women-s-5000m/fnl-000100--,1910560,KEN,Kenya,Kenya
+Silver Medal,2,2024-08-05,Faith KIPYEGON,W,Athletics,Women's 5000m,ATH,/en/paris-2024/results/athletics/women-s-5000m/fnl-000100--,1910451,KEN,Kenya,Kenya
+Bronze Medal,3,2024-08-05,Sifan HASSAN,W,Athletics,Women's 5000m,ATH,/en/paris-2024/results/athletics/women-s-5000m/fnl-000100--,1972105,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-05,Keely HODGKINSON,W,Athletics,Women's 800m,ATH,/en/paris-2024/results/athletics/women-s-800m/fnl-000100--,1924429,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-05,Tsige DUGUMA,W,Athletics,Women's 800m,ATH,/en/paris-2024/results/athletics/women-s-800m/fnl-000100--,1536498,ETH,Ethiopia,Ethiopia
+Bronze Medal,3,2024-08-05,Mary MORAA,W,Athletics,Women's 800m,ATH,/en/paris-2024/results/athletics/women-s-800m/fnl-000100--,1928047,KEN,Kenya,Kenya
+Gold Medal,1,2024-08-05,Valarie ALLMAN,W,Athletics,Women's Discus Throw,ATH,/en/paris-2024/results/athletics/women-s-discus-throw/fnl-000100--,1960721,USA,United States,United States of America
+Silver Medal,2,2024-08-05,FENG Bin,W,Athletics,Women's Discus Throw,ATH,/en/paris-2024/results/athletics/women-s-discus-throw/fnl-000100--,1919067,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-05,Sandra ELKASEVIC,W,Athletics,Women's Discus Throw,ATH,/en/paris-2024/results/athletics/women-s-discus-throw/fnl-000100--,1922205,CRO,Croatia,Croatia
+Gold Medal,1,2024-08-05,Viktor AXELSEN,M,Badminton,Men's Singles,HATH,/en/paris-2024/results/badminton/men-s-singles/fnl-000100--,1888993,DEN,Denmark,Denmark
+Silver Medal,2,2024-08-05,Kunlavut VITIDSARN,M,Badminton,Men's Singles,HATH,/en/paris-2024/results/badminton/men-s-singles/fnl-000100--,1926294,THA,Thailand,Thailand
+Bronze Medal,3,2024-08-05,Zii Jia LEE,M,Badminton,Men's Singles,HATH,/en/paris-2024/results/badminton/men-s-singles/fnl-000200--,1566617,MAS,Malaysia,Malaysia
+Gold Medal,1,2024-08-05,AN Se Young,W,Badminton,Women's Singles,HATH,/en/paris-2024/results/badminton/women-s-singles/fnl-000100--,1891498,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-08-05,HE Bing Jiao,W,Badminton,Women's Singles,HATH,/en/paris-2024/results/badminton/women-s-singles/fnl-000100--,1913436,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-05,Finn BUTCHER,M,Canoe Slalom,Men's Kayak Cross,ATH,/en/paris-2024/results/canoe-slalom/men-s-kayak-cross/fnl---------,1945386,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-05,Joseph CLARKE,M,Canoe Slalom,Men's Kayak Cross,ATH,/en/paris-2024/results/canoe-slalom/men-s-kayak-cross/fnl---------,1896032,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-05,Noah HEGGE,M,Canoe Slalom,Men's Kayak Cross,ATH,/en/paris-2024/results/canoe-slalom/men-s-kayak-cross/fnl---------,1913780,GER,Germany,Germany
+Gold Medal,1,2024-08-05,Noemie FOX,W,Canoe Slalom,Women's Kayak Cross,ATH,/en/paris-2024/results/canoe-slalom/women-s-kayak-cross/fnl---------,1940209,AUS,Australia,Australia
+Silver Medal,2,2024-08-05,Angele HUG,W,Canoe Slalom,Women's Kayak Cross,ATH,/en/paris-2024/results/canoe-slalom/women-s-kayak-cross/fnl---------,1880483,FRA,France,France
+Bronze Medal,3,2024-08-05,Kimberley WOODS,W,Canoe Slalom,Women's Kayak Cross,ATH,/en/paris-2024/results/canoe-slalom/women-s-kayak-cross/fnl---------,1896045,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-05,Great Britain,W,Cycling Track,Women's Team Sprint,TEAM,/en/paris-2024/results/cycling-track/women-s-team-sprint/fnl---------,CTRWSPRTEAM3GBR01,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-05,New Zealand,W,Cycling Track,Women's Team Sprint,TEAM,/en/paris-2024/results/cycling-track/women-s-team-sprint/fnl---------,CTRWSPRTEAM3NZL01,NZL,New Zealand,New Zealand
+Bronze Medal,3,2024-08-05,Germany,W,Cycling Track,Women's Team Sprint,TEAM,/en/paris-2024/results/cycling-track/women-s-team-sprint/fnl---------,CTRWSPRTEAM3GER01,GER,Germany,Germany
+Gold Medal,1,2024-08-05,LI Yuehong,M,Shooting,25m Rapid Fire Pistol Men,ATH,/en/paris-2024/results/shooting/25m-rapid-fire-pistol-men/fnl-000100--,1913913,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-05,CHO Yeongjae,M,Shooting,25m Rapid Fire Pistol Men,ATH,/en/paris-2024/results/shooting/25m-rapid-fire-pistol-men/fnl-000100--,1893852,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-05,WANG Xinjie,M,Shooting,25m Rapid Fire Pistol Men,ATH,/en/paris-2024/results/shooting/25m-rapid-fire-pistol-men/fnl-000100--,1913919,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-05,Italy 1,X,Shooting,Skeet Mixed Team,HTEAM,/en/paris-2024/results/shooting/skeet-mixed-team/fnl-000100--,SHOXSKMT----ITA01,ITA,Italy,Italy
+Silver Medal,2,2024-08-05,United States 1,X,Shooting,Skeet Mixed Team,HTEAM,/en/paris-2024/results/shooting/skeet-mixed-team/fnl-000100--,SHOXSKMT----USA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-05,China,X,Shooting,Skeet Mixed Team,HTEAM,/en/paris-2024/results/shooting/skeet-mixed-team/fnl-000200--,SHOXSKMT----CHN01,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-05,Kauli VAAST,M,Surfing,Men,HATH,/en/paris-2024/results/surfing/men/fnl---------,1567361,FRA,France,France
+Silver Medal,2,2024-08-05,Jack ROBINSON,M,Surfing,Men,HATH,/en/paris-2024/results/surfing/men/fnl---------,1946129,AUS,Australia,Australia
+Bronze Medal,3,2024-08-05,Gabriel MEDINA,M,Surfing,Men,HATH,/en/paris-2024/results/surfing/men/fnl---------,1955778,BRA,Brazil,Brazil
+Gold Medal,1,2024-08-05,Caroline MARKS,W,Surfing,Women,HATH,/en/paris-2024/results/surfing/women/fnl---------,1943206,USA,United States,United States of America
+Silver Medal,2,2024-08-05,Tatiana WESTON-WEBB,W,Surfing,Women,HATH,/en/paris-2024/results/surfing/women/fnl---------,1955783,BRA,Brazil,Brazil
+Bronze Medal,3,2024-08-05,Johanne DEFAY,W,Surfing,Women,HATH,/en/paris-2024/results/surfing/women/fnl---------,1567359,FRA,France,France
+Gold Medal,1,2024-08-05,Germany,X,Triathlon,Mixed Relay,TEAM,/en/paris-2024/results/triathlon/mixed-relay/fnl-000100--,TRIXTEAM4---GER01,GER,Germany,Germany
+Silver Medal,2,2024-08-05,United States,X,Triathlon,Mixed Relay,TEAM,/en/paris-2024/results/triathlon/mixed-relay/fnl-000100--,TRIXTEAM4---USA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-05,Great Britain,X,Triathlon,Mixed Relay,TEAM,/en/paris-2024/results/triathlon/mixed-relay/fnl-000100--,TRIXTEAM4---GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-06,Cole HOCKER,M,Athletics,Men's 1500m,ATH,/en/paris-2024/results/athletics/men-s-1500m/fnl-000100--,1960933,USA,United States,United States of America
+Silver Medal,2,2024-08-06,Josh KERR,M,Athletics,Men's 1500m,ATH,/en/paris-2024/results/athletics/men-s-1500m/fnl-000100--,1924440,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-06,Yared NUGUSE,M,Athletics,Men's 1500m,ATH,/en/paris-2024/results/athletics/men-s-1500m/fnl-000100--,1965327,USA,United States,United States of America
+Gold Medal,1,2024-08-06,Miltiadis TENTOGLOU,M,Athletics,Men's Long Jump,ATH,/en/paris-2024/results/athletics/men-s-long-jump/fnl-000100--,1961246,GRE,Greece,Greece
+Silver Medal,2,2024-08-06,Wayne PINNOCK,M,Athletics,Men's Long Jump,ATH,/en/paris-2024/results/athletics/men-s-long-jump/fnl-000100--,1938899,JAM,Jamaica,Jamaica
+Bronze Medal,3,2024-08-06,Mattia FURLANI,M,Athletics,Men's Long Jump,ATH,/en/paris-2024/results/athletics/men-s-long-jump/fnl-000100--,1552378,ITA,Italy,Italy
+Gold Medal,1,2024-08-06,Gabrielle THOMAS,W,Athletics,Women's 200m,ATH,/en/paris-2024/results/athletics/women-s-200m/fnl-000100--,1965868,USA,United States,United States of America
+Silver Medal,2,2024-08-06,Julien ALFRED,W,Athletics,Women's 200m,ATH,/en/paris-2024/results/athletics/women-s-200m/fnl-000100--,1537325,LCA,Saint Lucia,Saint Lucia
+Bronze Medal,3,2024-08-06,Brittany BROWN,W,Athletics,Women's 200m,ATH,/en/paris-2024/results/athletics/women-s-200m/fnl-000100--,1960588,USA,United States,United States of America
+Gold Medal,1,2024-08-06,Winfred YAVI,W,Athletics,Women's 3000m Steeplechase,ATH,/en/paris-2024/results/athletics/women-s-3000m-steeplechase/fnl-000100--,1926102,BRN,Bahrain,Bahrain
+Silver Medal,2,2024-08-06,Peruth CHEMUTAI,W,Athletics,Women's 3000m Steeplechase,ATH,/en/paris-2024/results/athletics/women-s-3000m-steeplechase/fnl-000100--,1971686,UGA,Uganda,Uganda
+Bronze Medal,3,2024-08-06,Faith CHEROTICH,W,Athletics,Women's 3000m Steeplechase,ATH,/en/paris-2024/results/athletics/women-s-3000m-steeplechase/fnl-000100--,1910453,KEN,Kenya,Kenya
+Gold Medal,1,2024-08-06,Camryn ROGERS,W,Athletics,Women's Hammer Throw,ATH,/en/paris-2024/results/athletics/women-s-hammer-throw/fnl-000100--,1974290,CAN,Canada,Canada
+Silver Medal,2,2024-08-06,Annette Nneka ECHIKUNWOKE,W,Athletics,Women's Hammer Throw,ATH,/en/paris-2024/results/athletics/women-s-hammer-throw/fnl-000100--,1960899,USA,United States,United States of America
+Bronze Medal,3,2024-08-06,ZHAO Jie,W,Athletics,Women's Hammer Throw,ATH,/en/paris-2024/results/athletics/women-s-hammer-throw/fnl-000100--,1919077,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-06,Omari JONES,M,Boxing,Men's 71kg,HATH,/en/paris-2024/results/boxing/men-s-71kg/sfnl000100--,1955645,USA,United States,United States of America
+Bronze Medal,3,2024-08-06,Lewis RICHARDSON,M,Boxing,Men's 71kg,HATH,/en/paris-2024/results/boxing/men-s-71kg/sfnl000200--,1912009,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-06,Nazym KYZAIBAY,W,Boxing,Women's 50kg,HATH,/en/paris-2024/results/boxing/women-s-50kg/sfnl000100--,1931331,KAZ,Kazakhstan,Kazakhstan
+Bronze Medal,3,2024-08-06,Aira VILLEGAS,W,Boxing,Women's 50kg,HATH,/en/paris-2024/results/boxing/women-s-50kg/sfnl000200--,1979870,PHI,Philippines,Philippines
+Gold Medal,1,2024-08-06,Kellie HARRINGTON,W,Boxing,Women's 60kg,HATH,/en/paris-2024/results/boxing/women-s-60kg/fnl-000100--,1555098,IRL,Ireland,Ireland
+Silver Medal,2,2024-08-06,YANG Wenlu,W,Boxing,Women's 60kg,HATH,/en/paris-2024/results/boxing/women-s-60kg/fnl-000100--,1926828,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-06,Janjaem SUWANNAPHENG,W,Boxing,Women's 66kg,HATH,/en/paris-2024/results/boxing/women-s-66kg/sfnl000100--,1898283,THA,Thailand,Thailand
+Bronze Medal,3,2024-08-06,CHEN Nien Chin,W,Boxing,Women's 66kg,HATH,/en/paris-2024/results/boxing/women-s-66kg/sfnl000200--,1887975,TPE,Chinese Taipei,Chinese Taipei
+Gold Medal,1,2024-08-06,Netherlands,M,Cycling Track,Men's Team Sprint,TEAM,/en/paris-2024/results/cycling-track/men-s-team-sprint/fnl---------,CTRMSPRTEAM3NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-06,Great Britain,M,Cycling Track,Men's Team Sprint,TEAM,/en/paris-2024/results/cycling-track/men-s-team-sprint/fnl---------,CTRMSPRTEAM3GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-06,Australia,M,Cycling Track,Men's Team Sprint,TEAM,/en/paris-2024/results/cycling-track/men-s-team-sprint/fnl---------,CTRMSPRTEAM3AUS01,AUS,Australia,Australia
+Gold Medal,1,2024-08-06,QUAN Hongchan,W,Diving,Women's 10m Platform,ATH,/en/paris-2024/results/diving/women-s-10m-platform/fnl-000100--,1901545,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-06,CHEN Yuxi,W,Diving,Women's 10m Platform,ATH,/en/paris-2024/results/diving/women-s-10m-platform/fnl-000100--,1901544,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-06,KIM Mi Rae,W,Diving,Women's 10m Platform,ATH,/en/paris-2024/results/diving/women-s-10m-platform/fnl-000100--,1980115,PRK,DPR Korea,Democratic People's Republic of Korea
+Gold Medal,1,2024-08-06,Christian KUKUK,O,Equestrian,Jumping Individual,ATH,/en/paris-2024/results/equestrian/jumping-individual/fnl-0002rr--,1914912,GER,Germany,Germany
+Silver Medal,2,2024-08-06,Steve GUERDAT,O,Equestrian,Jumping Individual,ATH,/en/paris-2024/results/equestrian/jumping-individual/fnl-0002rr--,1976553,SUI,Switzerland,Switzerland
+Bronze Medal,3,2024-08-06,Maikel van der VLEUTEN,O,Equestrian,Jumping Individual,ATH,/en/paris-2024/results/equestrian/jumping-individual/fnl-0002rr--,1976879,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-06,Arisa TREW,W,Skateboarding,Women's Park,ATH,/en/paris-2024/results/skateboarding/women-s-park/fnl-000100--,1946064,AUS,Australia,Australia
+Silver Medal,2,2024-08-06,HIRAKI Cocona,W,Skateboarding,Women's Park,ATH,/en/paris-2024/results/skateboarding/women-s-park/fnl-000100--,1902075,JPN,Japan,Japan
+Bronze Medal,3,2024-08-06,Sky BROWN,W,Skateboarding,Women's Park,ATH,/en/paris-2024/results/skateboarding/women-s-park/fnl-000100--,1544123,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-06,Mijain LOPEZ NUNEZ,M,Wrestling,Men's Greco-Roman 130kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-130kg/fnl-000100--,1571506,CUB,Cuba,Cuba
+Silver Medal,2,2024-08-06,Yasmani ACOSTA FERNANDEZ,M,Wrestling,Men's Greco-Roman 130kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-130kg/fnl-000100--,1935199,CHI,Chile,Chile
+Bronze Medal,3,2024-08-06,Amin MIRZAZADEH,M,Wrestling,Men's Greco-Roman 130kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-130kg/repf000100--,1544882,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-06,MENG Lingzhe,M,Wrestling,Men's Greco-Roman 130kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-130kg/repf000200--,1919983,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-06,FUMITA Kenichiro,M,Wrestling,Men's Greco-Roman 60kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-60kg/fnl-000100--,1939713,JPN,Japan,Japan
+Silver Medal,2,2024-08-06,CAO Liguo,M,Wrestling,Men's Greco-Roman 60kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-60kg/fnl-000100--,1919973,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-06,Zholaman SHARSHENBEKOV,M,Wrestling,Men's Greco-Roman 60kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-60kg/repf000100--,1566631,KGZ,Kyrgyzstan,Kyrgyzstan
+Bronze Medal,3,2024-08-06,RI Se Ung,M,Wrestling,Men's Greco-Roman 60kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-60kg/repf000200--,1980153,PRK,DPR Korea,Democratic People's Republic of Korea
+Gold Medal,1,2024-08-06,Amit ELOR,W,Wrestling,Women's Freestyle 68kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-68kg/fnl-000100--,1955304,USA,United States,United States of America
+Silver Medal,2,2024-08-06,Meerim ZHUMANAZAROVA,W,Wrestling,Women's Freestyle 68kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-68kg/fnl-000100--,1568241,KGZ,Kyrgyzstan,Kyrgyzstan
+Bronze Medal,3,2024-08-06,Buse CAVUSOGLU TOSUN,W,Wrestling,Women's Freestyle 68kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-68kg/repf000100--,1570415,TUR,Türkiye,Türkiye
+Bronze Medal,3,2024-08-06,OZAKI Nonoka,W,Wrestling,Women's Freestyle 68kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-68kg/repf000200--,1939709,JPN,Japan,Japan
+Gold Medal,1,2024-08-07,China,O,Artistic Swimming,Team,TEAM,/en/paris-2024/results/artistic-swimming/team/fnl-000100--,SWAWTEAM8---CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-07,United States,O,Artistic Swimming,Team,TEAM,/en/paris-2024/results/artistic-swimming/team/fnl-000100--,SWAWTEAM8---USA01,USA,United States,United States of America
+Bronze Medal,3,2024-08-07,Spain,O,Artistic Swimming,Team,TEAM,/en/paris-2024/results/artistic-swimming/team/fnl-000100--,SWAWTEAM8---ESP01,ESP,Spain,Spain
+Gold Medal,1,2024-08-07,MARTIN A/PEREZ M,X,Athletics,Marathon Race Walk Relay Mixed,TEAM,/en/paris-2024/results/athletics/marathon-race-walk-relay-mixed/fnl-000100--,ATHX42KWALKTESP02,ESP,Spain,Spain
+Silver Medal,2,2024-08-07,PINTADO B/MOREJON G,X,Athletics,Marathon Race Walk Relay Mixed,TEAM,/en/paris-2024/results/athletics/marathon-race-walk-relay-mixed/fnl-000100--,ATHX42KWALKTECU01,ECU,Ecuador,Ecuador
+Bronze Medal,3,2024-08-07,COWLEY R/MONTAG J,X,Athletics,Marathon Race Walk Relay Mixed,TEAM,/en/paris-2024/results/athletics/marathon-race-walk-relay-mixed/fnl-000100--,ATHX42KWALKTAUS01,AUS,Australia,Australia
+Gold Medal,1,2024-08-07,Soufiane EL BAKKALI,M,Athletics,Men's 3000m Steeplechase,ATH,/en/paris-2024/results/athletics/men-s-3000m-steeplechase/fnl-000100--,1555372,MAR,Morocco,Morocco
+Silver Medal,2,2024-08-07,Kenneth ROOKS,M,Athletics,Men's 3000m Steeplechase,ATH,/en/paris-2024/results/athletics/men-s-3000m-steeplechase/fnl-000100--,1965896,USA,United States,United States of America
+Bronze Medal,3,2024-08-07,Abraham KIBIWOT,M,Athletics,Men's 3000m Steeplechase,ATH,/en/paris-2024/results/athletics/men-s-3000m-steeplechase/fnl-000100--,1910445,KEN,Kenya,Kenya
+Gold Medal,1,2024-08-07,Quincy HALL,M,Athletics,Men's 400m,ATH,/en/paris-2024/results/athletics/men-s-400m/fnl-000100--,1960177,USA,United States,United States of America
+Silver Medal,2,2024-08-07,Matthew HUDSON-SMITH,M,Athletics,Men's 400m,ATH,/en/paris-2024/results/athletics/men-s-400m/fnl-000100--,1924430,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-07,Muzala SAMUKONGA,M,Athletics,Men's 400m,ATH,/en/paris-2024/results/athletics/men-s-400m/fnl-000100--,1937531,ZAM,Zambia,Zambia
+Gold Medal,1,2024-08-07,Roje STONA,M,Athletics,Men's Discus Throw,ATH,/en/paris-2024/results/athletics/men-s-discus-throw/fnl-000100--,1912322,JAM,Jamaica,Jamaica
+Silver Medal,2,2024-08-07,Mykolas ALEKNA,M,Athletics,Men's Discus Throw,ATH,/en/paris-2024/results/athletics/men-s-discus-throw/fnl-000100--,1922593,LTU,Lithuania,Lithuania
+Bronze Medal,3,2024-08-07,Matthew DENNY,M,Athletics,Men's Discus Throw,ATH,/en/paris-2024/results/athletics/men-s-discus-throw/fnl-000100--,1939824,AUS,Australia,Australia
+Gold Medal,1,2024-08-07,Nina KENNEDY,W,Athletics,Women's Pole Vault,ATH,/en/paris-2024/results/athletics/women-s-pole-vault/fnl-000100--,1939839,AUS,Australia,Australia
+Silver Medal,2,2024-08-07,Katie MOON,W,Athletics,Women's Pole Vault,ATH,/en/paris-2024/results/athletics/women-s-pole-vault/fnl-000100--,1965268,USA,United States,United States of America
+Bronze Medal,3,2024-08-07,Alysha NEWMAN,W,Athletics,Women's Pole Vault,ATH,/en/paris-2024/results/athletics/women-s-pole-vault/fnl-000100--,1974216,CAN,Canada,Canada
+Bronze Medal,3,2024-08-07,Nelvie Raman TIAFACK,M,Boxing,Men's +92kg,HATH,/en/paris-2024/results/boxing/men-s--plus-92kg/sfnl000100--,1895903,GER,Germany,Germany
+Bronze Medal,3,2024-08-07,Djamili-Dini ABOUDOU MOINDZE,M,Boxing,Men's +92kg,HATH,/en/paris-2024/results/boxing/men-s--plus-92kg/sfnl000200--,1879120,FRA,France,France
+Gold Medal,1,2024-08-07,Erislandy ALVAREZ BORGES,M,Boxing,Men's 63.5kg,HATH,/en/paris-2024/results/boxing/men-s-63-5kg/fnl-000100--,1555537,CUB,Cuba,Cuba
+Silver Medal,2,2024-08-07,Sofiane OUMIHA,M,Boxing,Men's 63.5kg,HATH,/en/paris-2024/results/boxing/men-s-63-5kg/fnl-000100--,1879111,FRA,France,France
+Gold Medal,1,2024-08-07,Oleksandr KHYZHNIAK,M,Boxing,Men's 80kg,HATH,/en/paris-2024/results/boxing/men-s-80kg/fnl-000100--,1564362,UKR,Ukraine,Ukraine
+Silver Medal,2,2024-08-07,Nurbek ORALBAY,M,Boxing,Men's 80kg,HATH,/en/paris-2024/results/boxing/men-s-80kg/fnl-000100--,1932824,KAZ,Kazakhstan,Kazakhstan
+Bronze Medal,3,2024-08-07,Esra YILDIZ KAHRAMAN,W,Boxing,Women's 57kg,HATH,/en/paris-2024/results/boxing/women-s-57kg/sfnl000100--,1568204,TUR,Türkiye,Türkiye
+Bronze Medal,3,2024-08-07,Nesthy PETECIO,W,Boxing,Women's 57kg,HATH,/en/paris-2024/results/boxing/women-s-57kg/sfnl000200--,1979904,PHI,Philippines,Philippines
+Gold Medal,1,2024-08-07,Australia,M,Cycling Track,Men's Team Pursuit,TEAM,/en/paris-2024/results/cycling-track/men-s-team-pursuit/fnl---------,CTRMPURTEAM4AUS01,AUS,Australia,Australia
+Silver Medal,2,2024-08-07,Great Britain,M,Cycling Track,Men's Team Pursuit,TEAM,/en/paris-2024/results/cycling-track/men-s-team-pursuit/fnl---------,CTRMPURTEAM4GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-07,Italy,M,Cycling Track,Men's Team Pursuit,TEAM,/en/paris-2024/results/cycling-track/men-s-team-pursuit/fnl---------,CTRMPURTEAM4ITA01,ITA,Italy,Italy
+Gold Medal,1,2024-08-07,United States,W,Cycling Track,Women's Team Pursuit,TEAM,/en/paris-2024/results/cycling-track/women-s-team-pursuit/fnl---------,CTRWPURTEAM4USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-07,New Zealand,W,Cycling Track,Women's Team Pursuit,TEAM,/en/paris-2024/results/cycling-track/women-s-team-pursuit/fnl---------,CTRWPURTEAM4NZL01,NZL,New Zealand,New Zealand
+Bronze Medal,3,2024-08-07,Great Britain,W,Cycling Track,Women's Team Pursuit,TEAM,/en/paris-2024/results/cycling-track/women-s-team-pursuit/fnl---------,CTRWPURTEAM4GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-07,Matt WEARN,M,Sailing,Men's Dinghy,ATH,/en/paris-2024/results/sailing/men-s-dinghy/fnl-000100--,1945990,AUS,Australia,Australia
+Silver Medal,2,2024-08-07,Pavlos KONTIDES,M,Sailing,Men's Dinghy,ATH,/en/paris-2024/results/sailing/men-s-dinghy/fnl-000100--,1905347,CYP,Cyprus,Cyprus
+Bronze Medal,3,2024-08-07,Stefano PESCHIERA,M,Sailing,Men's Dinghy,ATH,/en/paris-2024/results/sailing/men-s-dinghy/fnl-000100--,1944316,PER,Peru,Peru
+Gold Medal,1,2024-08-07,Marit BOUWMEESTER,W,Sailing,Women's Dinghy,ATH,/en/paris-2024/results/sailing/women-s-dinghy/fnl-000100--,1970500,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-07,Anne-Marie RINDOM,W,Sailing,Women's Dinghy,ATH,/en/paris-2024/results/sailing/women-s-dinghy/fnl-000100--,1895121,DEN,Denmark,Denmark
+Bronze Medal,3,2024-08-07,Line Flem HOEST,W,Sailing,Women's Dinghy,ATH,/en/paris-2024/results/sailing/women-s-dinghy/fnl-000100--,1878602,NOR,Norway,Norway
+Gold Medal,1,2024-08-07,Keegan PALMER,M,Skateboarding,Men's Park,ATH,/en/paris-2024/results/skateboarding/men-s-park/fnl-000100--,1946074,AUS,Australia,Australia
+Silver Medal,2,2024-08-07,Tom SCHAAR,M,Skateboarding,Men's Park,ATH,/en/paris-2024/results/skateboarding/men-s-park/fnl-000100--,1944247,USA,United States,United States of America
+Bronze Medal,3,2024-08-07,Augusto AKIO,M,Skateboarding,Men's Park,ATH,/en/paris-2024/results/skateboarding/men-s-park/fnl-000100--,1955669,BRA,Brazil,Brazil
+Gold Medal,1,2024-08-07,Aleksandra MIROSLAW,W,Sport Climbing,Women's Speed,ATH,/en/paris-2024/results/sport-climbing/women-s-speed/------------,1563327,POL,Poland,Poland
+Silver Medal,2,2024-08-07,DENG Lijuan,W,Sport Climbing,Women's Speed,ATH,/en/paris-2024/results/sport-climbing/women-s-speed/------------,1913702,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-07,Aleksandra KALUCKA,W,Sport Climbing,Women's Speed,ATH,/en/paris-2024/results/sport-climbing/women-s-speed/------------,1563321,POL,Poland,Poland
+Gold Medal,1,2024-08-07,PARK Taejoon,M,Taekwondo,Men -58kg,HATH,/en/paris-2024/results/taekwondo/men--58kg/fnl-000100--,1904040,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-08-07,Gashim MAGOMEDOV,M,Taekwondo,Men -58kg,HATH,/en/paris-2024/results/taekwondo/men--58kg/fnl-000100--,1946883,AZE,Azerbaijan,Azerbaijan
+Bronze Medal,3,2024-08-07,Cyrian RAVET,M,Taekwondo,Men -58kg,HATH,/en/paris-2024/results/taekwondo/men--58kg/repf000100--,1893274,FRA,France,France
+Bronze Medal,3,2024-08-07,Mohamed Khalil JENDOUBI,M,Taekwondo,Men -58kg,HATH,/en/paris-2024/results/taekwondo/men--58kg/repf000200--,1947736,TUN,Tunisia,Tunisia
+Gold Medal,1,2024-08-07,Panipak WONGPATTANAKIT,W,Taekwondo,Women -49kg,HATH,/en/paris-2024/results/taekwondo/women--49kg/fnl-000100--,1902841,THA,Thailand,Thailand
+Silver Medal,2,2024-08-07,GUO Qing,W,Taekwondo,Women -49kg,HATH,/en/paris-2024/results/taekwondo/women--49kg/fnl-000100--,1910372,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-07,Mobina NEMATZADEH,W,Taekwondo,Women -49kg,HATH,/en/paris-2024/results/taekwondo/women--49kg/repf000100--,1536064,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-07,Lena STOJKOVIC,W,Taekwondo,Women -49kg,HATH,/en/paris-2024/results/taekwondo/women--49kg/repf000200--,1569986,CRO,Croatia,Croatia
+Gold Medal,1,2024-08-07,LI Fabin,M,Weightlifting,Men's 61kg,ATH,/en/paris-2024/results/weightlifting/men-s-61kg/fnl-000100--,1918372,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-07,Theerapong SILACHAI,M,Weightlifting,Men's 61kg,ATH,/en/paris-2024/results/weightlifting/men-s-61kg/fnl-000100--,1898059,THA,Thailand,Thailand
+Bronze Medal,3,2024-08-07,Hampton MORRIS,M,Weightlifting,Men's 61kg,ATH,/en/paris-2024/results/weightlifting/men-s-61kg/fnl-000100--,1917153,USA,United States,United States of America
+Gold Medal,1,2024-08-07,HOU Zhihui,W,Weightlifting,Women's 49kg,ATH,/en/paris-2024/results/weightlifting/women-s-49kg/fnl-000100--,1918377,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-07,Mihaela Valentina CAMBEI,W,Weightlifting,Women's 49kg,ATH,/en/paris-2024/results/weightlifting/women-s-49kg/fnl-000100--,1550148,ROU,Romania,Romania
+Bronze Medal,3,2024-08-07,Surodchana KHAMBAO,W,Weightlifting,Women's 49kg,ATH,/en/paris-2024/results/weightlifting/women-s-49kg/fnl-000100--,1898024,THA,Thailand,Thailand
+Gold Medal,1,2024-08-07,KUSAKA Nao,M,Wrestling,Men's Greco-Roman 77kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-77kg/fnl-000100--,1939692,JPN,Japan,Japan
+Silver Medal,2,2024-08-07,Demeu ZHADRAYEV,M,Wrestling,Men's Greco-Roman 77kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-77kg/fnl-000100--,1958652,KAZ,Kazakhstan,Kazakhstan
+Bronze Medal,3,2024-08-07,Malkhas AMOYAN,M,Wrestling,Men's Greco-Roman 77kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-77kg/repf000100--,1532873,ARM,Armenia,Armenia
+Bronze Medal,3,2024-08-07,Akzhol MAKHMUDOV,M,Wrestling,Men's Greco-Roman 77kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-77kg/repf000200--,1566627,KGZ,Kyrgyzstan,Kyrgyzstan
+Gold Medal,1,2024-08-07,Mohammadhadi SARAVI,M,Wrestling,Men's Greco-Roman 97kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-97kg/fnl-000100--,1544897,IRI,IR Iran,Islamic Republic of Iran
+Silver Medal,2,2024-08-07,Artur ALEKSANYAN,M,Wrestling,Men's Greco-Roman 97kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-97kg/fnl-000100--,1532872,ARM,Armenia,Armenia
+Bronze Medal,3,2024-08-07,Gabriel Alejandro ROSILLO KINDELAN,M,Wrestling,Men's Greco-Roman 97kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-97kg/repf000100--,1571504,CUB,Cuba,Cuba
+Bronze Medal,3,2024-08-07,Uzur DZHUZUPBEKOV,M,Wrestling,Men's Greco-Roman 97kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-97kg/repf000200--,1566601,KGZ,Kyrgyzstan,Kyrgyzstan
+Gold Medal,1,2024-08-07,Sarah Ann HILDEBRANDT,W,Wrestling,Women's Freestyle 50kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-50kg/fnl-000100--,1955373,USA,United States,United States of America
+Silver Medal,2,2024-08-07,Yusneylis GUZMAN LOPEZ,W,Wrestling,Women's Freestyle 50kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-50kg/fnl-000100--,1571747,CUB,Cuba,Cuba
+Bronze Medal,3,2024-08-07,SUSAKI Yui,W,Wrestling,Women's Freestyle 50kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-50kg/repf000100--,1939712,JPN,Japan,Japan
+Bronze Medal,3,2024-08-07,FENG Ziqi,W,Wrestling,Women's Freestyle 50kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-50kg/repf000200--,1920000,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-08,Grant HOLLOWAY,M,Athletics,Men's 110m Hurdles,ATH,/en/paris-2024/results/athletics/men-s-110m-hurdles/fnl-000100--,1960961,USA,United States,United States of America
+Silver Medal,2,2024-08-08,Daniel ROBERTS,M,Athletics,Men's 110m Hurdles,ATH,/en/paris-2024/results/athletics/men-s-110m-hurdles/fnl-000100--,1965223,USA,United States,United States of America
+Bronze Medal,3,2024-08-08,Rasheed BROADBELL,M,Athletics,Men's 110m Hurdles,ATH,/en/paris-2024/results/athletics/men-s-110m-hurdles/fnl-000100--,1901251,JAM,Jamaica,Jamaica
+Gold Medal,1,2024-08-08,Letsile TEBOGO,M,Athletics,Men's 200m,ATH,/en/paris-2024/results/athletics/men-s-200m/fnl-000100--,1936983,BOT,Botswana,Botswana
+Silver Medal,2,2024-08-08,Kenneth BEDNAREK,M,Athletics,Men's 200m,ATH,/en/paris-2024/results/athletics/men-s-200m/fnl-000100--,1960659,USA,United States,United States of America
+Bronze Medal,3,2024-08-08,Noah LYLES,M,Athletics,Men's 200m,ATH,/en/paris-2024/results/athletics/men-s-200m/fnl-000100--,1960173,USA,United States,United States of America
+Gold Medal,1,2024-08-08,Arshad NADEEM,M,Athletics,Men's Javelin Throw,ATH,/en/paris-2024/results/athletics/men-s-javelin-throw/fnl-000100--,1878563,PAK,Pakistan,Pakistan
+Silver Medal,2,2024-08-08,Neeraj CHOPRA,M,Athletics,Men's Javelin Throw,ATH,/en/paris-2024/results/athletics/men-s-javelin-throw/fnl-000100--,1550250,IND,India,India
+Bronze Medal,3,2024-08-08,Anderson PETERS,M,Athletics,Men's Javelin Throw,ATH,/en/paris-2024/results/athletics/men-s-javelin-throw/fnl-000100--,1573418,GRN,Grenada,Grenada
+Gold Medal,1,2024-08-08,Sydney McLAUGHLIN-LEVRONE,W,Athletics,Women's 400m Hurdles,ATH,/en/paris-2024/results/athletics/women-s-400m-hurdles/fnl-000100--,1965308,USA,United States,United States of America
+Silver Medal,2,2024-08-08,Anna COCKRELL,W,Athletics,Women's 400m Hurdles,ATH,/en/paris-2024/results/athletics/women-s-400m-hurdles/fnl-000100--,1960581,USA,United States,United States of America
+Bronze Medal,3,2024-08-08,Femke BOL,W,Athletics,Women's 400m Hurdles,ATH,/en/paris-2024/results/athletics/women-s-400m-hurdles/fnl-000100--,1972078,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-08,Tara DAVIS-WOODHALL,W,Athletics,Women's Long Jump,ATH,/en/paris-2024/results/athletics/women-s-long-jump/fnl-000100--,1960711,USA,United States,United States of America
+Silver Medal,2,2024-08-08,Malaika MIHAMBO,W,Athletics,Women's Long Jump,ATH,/en/paris-2024/results/athletics/women-s-long-jump/fnl-000100--,1920175,GER,Germany,Germany
+Bronze Medal,3,2024-08-08,Jasmine MOORE,W,Athletics,Women's Long Jump,ATH,/en/paris-2024/results/athletics/women-s-long-jump/fnl-000100--,1965250,USA,United States,United States of America
+Gold Medal,1,2024-08-08,Hasanboy DUSMATOV,M,Boxing,Men's 51kg,HATH,/en/paris-2024/results/boxing/men-s-51kg/fnl-000100--,1556045,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-08-08,Billal BENNAMA,M,Boxing,Men's 51kg,HATH,/en/paris-2024/results/boxing/men-s-51kg/fnl-000100--,1879110,FRA,France,France
+Bronze Medal,3,2024-08-08,Charlie SENIOR,M,Boxing,Men's 57kg,HATH,/en/paris-2024/results/boxing/men-s-57kg/sfnl000100--,1940136,AUS,Australia,Australia
+Bronze Medal,3,2024-08-08,Javier IBANEZ DIAZ,M,Boxing,Men's 57kg,HATH,/en/paris-2024/results/boxing/men-s-57kg/sfnl000200--,1555185,BUL,Bulgaria,Bulgaria
+Gold Medal,1,2024-08-08,CHANG Yuan,W,Boxing,Women's 54kg,HATH,/en/paris-2024/results/boxing/women-s-54kg/fnl-000100--,1926832,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-08,Hatice AKBAS,W,Boxing,Women's 54kg,HATH,/en/paris-2024/results/boxing/women-s-54kg/fnl-000100--,1568186,TUR,Türkiye,Türkiye
+Bronze Medal,3,2024-08-08,Caitlin PARKER,W,Boxing,Women's 75kg,HATH,/en/paris-2024/results/boxing/women-s-75kg/sfnl000100--,1940134,AUS,Australia,Australia
+Bronze Medal,3,2024-08-08,Cindy Winner DJANKEU NGAMBA,W,Boxing,Women's 75kg,HATH,/en/paris-2024/results/boxing/women-s-75kg/sfnl000200--,1894537,EOR,EOR,Refugee Olympic Team
+Gold Medal,1,2024-08-08,LIU/JI,M,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,CSPMC2-500M-CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-08,CASADEI/TACCHINI,M,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,CSPMC2-500M-ITA01,ITA,Italy,Italy
+Bronze Medal,3,2024-08-08,MORENO/DOMINGUEZ,M,Canoe Sprint,Men's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-canoe-double-500m/fnl---------,CSPMC2-500M-ESP01,ESP,Spain,Spain
+Gold Medal,1,2024-08-08,Germany,M,Canoe Sprint,Men's Kayak Four 500m,TEAM,/en/paris-2024/results/canoe-sprint/men-s-kayak-four-500m/fnl---------,CSPMK4-500M-GER01,GER,Germany,Germany
+Silver Medal,2,2024-08-08,Australia,M,Canoe Sprint,Men's Kayak Four 500m,TEAM,/en/paris-2024/results/canoe-sprint/men-s-kayak-four-500m/fnl---------,CSPMK4-500M-AUS01,AUS,Australia,Australia
+Bronze Medal,3,2024-08-08,Spain,M,Canoe Sprint,Men's Kayak Four 500m,TEAM,/en/paris-2024/results/canoe-sprint/men-s-kayak-four-500m/fnl---------,CSPMK4-500M-ESP01,ESP,Spain,Spain
+Gold Medal,1,2024-08-08,New Zealand,W,Canoe Sprint,Women's Kayak Four 500m,TEAM,/en/paris-2024/results/canoe-sprint/women-s-kayak-four-500m/fnl---------,CSPWK4-500M-NZL01,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-08,Germany,W,Canoe Sprint,Women's Kayak Four 500m,TEAM,/en/paris-2024/results/canoe-sprint/women-s-kayak-four-500m/fnl---------,CSPWK4-500M-GER01,GER,Germany,Germany
+Bronze Medal,3,2024-08-08,Hungary,W,Canoe Sprint,Women's Kayak Four 500m,TEAM,/en/paris-2024/results/canoe-sprint/women-s-kayak-four-500m/fnl---------,CSPWK4-500M-HUN01,HUN,Hungary,Hungary
+Gold Medal,1,2024-08-08,Benjamin THOMAS,M,Cycling Track,Men's Omnium,ATH,/en/paris-2024/results/cycling-track/men-s-omnium/pts-000100--,1895717,FRA,France,France
+Silver Medal,2,2024-08-08,Iuri LEITAO,M,Cycling Track,Men's Omnium,ATH,/en/paris-2024/results/cycling-track/men-s-omnium/pts-000100--,1933816,POR,Portugal,Portugal
+Bronze Medal,3,2024-08-08,Fabio van den BOSSCHE,M,Cycling Track,Men's Omnium,ATH,/en/paris-2024/results/cycling-track/men-s-omnium/pts-000100--,1915370,BEL,Belgium,Belgium
+Gold Medal,1,2024-08-08,Ellesse ANDREWS,W,Cycling Track,Women's Keirin,ATH,/en/paris-2024/results/cycling-track/women-s-keirin/fnl---------,1945040,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-08,Hetty van de WOUW,W,Cycling Track,Women's Keirin,ATH,/en/paris-2024/results/cycling-track/women-s-keirin/fnl---------,1969180,NED,Netherlands,Netherlands
+Bronze Medal,3,2024-08-08,Emma FINUCANE,W,Cycling Track,Women's Keirin,ATH,/en/paris-2024/results/cycling-track/women-s-keirin/fnl---------,1912522,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-08,XIE Siyi,M,Diving,Men's 3m Springboard,ATH,/en/paris-2024/results/diving/men-s-3m-springboard/fnl-000100--,1901550,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-08,WANG Zongyuan,M,Diving,Men's 3m Springboard,ATH,/en/paris-2024/results/diving/men-s-3m-springboard/fnl-000100--,1901549,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-08,Osmar OLVERA IBARRA,M,Diving,Men's 3m Springboard,ATH,/en/paris-2024/results/diving/men-s-3m-springboard/fnl-000100--,1535349,MEX,Mexico,Mexico
+Bronze Medal,3,2024-08-08,Morocco,M,Football,Men,HTEAM,/en/paris-2024/results/football/men/fnl-000200--,FBLMTEAM11--MAR01,MAR,Morocco,Morocco
+Gold Medal,1,2024-08-08,Netherlands,M,Hockey,Men,HTEAM,/en/paris-2024/results/hockey/men/fnl-000100--,HOCMTEAM11--NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-08,Germany,M,Hockey,Men,HTEAM,/en/paris-2024/results/hockey/men/fnl-000100--,HOCMTEAM11--GER01,GER,Germany,Germany
+Bronze Medal,3,2024-08-08,India,M,Hockey,Men,HTEAM,/en/paris-2024/results/hockey/men/fnl-000200--,HOCMTEAM11--IND01,IND,India,India
+Gold Medal,1,2024-08-08,Sharon van ROUWENDAAL,W,Marathon Swimming,Women's 10km,ATH,/en/paris-2024/results/marathon-swimming/women-s-10km/fnl-000100--,1972515,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-08,Moesha JOHNSON,W,Marathon Swimming,Women's 10km,ATH,/en/paris-2024/results/marathon-swimming/women-s-10km/fnl-000100--,1945588,AUS,Australia,Australia
+Bronze Medal,3,2024-08-08,Ginevra TADDEUCCI,W,Marathon Swimming,Women's 10km,ATH,/en/paris-2024/results/marathon-swimming/women-s-10km/fnl-000100--,1925804,ITA,Italy,Italy
+Gold Medal,1,2024-08-08,VADLAU/MAEHR,X,Sailing,Mixed Dinghy,TEAM,/en/paris-2024/results/sailing/mixed-dinghy/fnl-000100--,SALX470-----AUT01,AUT,Austria,Austria
+Silver Medal,2,2024-08-08,OKADA/YOSHIOKA,X,Sailing,Mixed Dinghy,TEAM,/en/paris-2024/results/sailing/mixed-dinghy/fnl-000100--,SALX470-----JPN01,JPN,Japan,Japan
+Bronze Medal,3,2024-08-08,DAHLBERG/KARLSSON,X,Sailing,Mixed Dinghy,TEAM,/en/paris-2024/results/sailing/mixed-dinghy/fnl-000100--,SALX470-----SWE01,SWE,Sweden,Sweden
+Gold Medal,1,2024-08-08,TITA/BANTI,X,Sailing,Mixed Multihull,TEAM,/en/paris-2024/results/sailing/mixed-multihull/fnl-000100--,SALXNACRA17-ITA01,ITA,Italy,Italy
+Silver Medal,2,2024-08-08,MAJDALANI/BOSCO,X,Sailing,Mixed Multihull,TEAM,/en/paris-2024/results/sailing/mixed-multihull/fnl-000100--,SALXNACRA17-ARG01,ARG,Argentina,Argentina
+Bronze Medal,3,2024-08-08,WILKINSON/DAWSON,X,Sailing,Mixed Multihull,TEAM,/en/paris-2024/results/sailing/mixed-multihull/fnl-000100--,SALXNACRA17-NZL01,NZL,New Zealand,New Zealand
+Gold Medal,1,2024-08-08,Eleanor ALDRIDGE,W,Sailing,Women's Kite,ATH,/en/paris-2024/results/sailing/women-s-kite/fnl-000200--,1899728,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-08,Lauriane NOLOT,W,Sailing,Women's Kite,ATH,/en/paris-2024/results/sailing/women-s-kite/fnl-000200--,1559512,FRA,France,France
+Bronze Medal,3,2024-08-08,Annelous LAMMERTS,W,Sailing,Women's Kite,ATH,/en/paris-2024/results/sailing/women-s-kite/fnl-000200--,1970517,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-08,Veddriq LEONARDO,M,Sport Climbing,Men's Speed,ATH,/en/paris-2024/results/sport-climbing/men-s-speed/------------,1940329,INA,Indonesia,Indonesia
+Silver Medal,2,2024-08-08,WU Peng,M,Sport Climbing,Men's Speed,ATH,/en/paris-2024/results/sport-climbing/men-s-speed/------------,1913699,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-08,Sam WATSON,M,Sport Climbing,Men's Speed,ATH,/en/paris-2024/results/sport-climbing/men-s-speed/------------,1950309,USA,United States,United States of America
+Gold Medal,1,2024-08-08,Ulugbek RASHITOV,M,Taekwondo,Men -68kg,HATH,/en/paris-2024/results/taekwondo/men--68kg/fnl-000100--,1887714,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-08-08,Zaid KAREEM,M,Taekwondo,Men -68kg,HATH,/en/paris-2024/results/taekwondo/men--68kg/fnl-000100--,1537401,JOR,Jordan,Jordan
+Bronze Medal,3,2024-08-08,LIANG Yushuai,M,Taekwondo,Men -68kg,HATH,/en/paris-2024/results/taekwondo/men--68kg/repf000100--,1910367,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-08,Edival PONTES,M,Taekwondo,Men -68kg,HATH,/en/paris-2024/results/taekwondo/men--68kg/repf000200--,1955815,BRA,Brazil,Brazil
+Gold Medal,1,2024-08-08,KIM Yujin,W,Taekwondo,Women -57kg,HATH,/en/paris-2024/results/taekwondo/women--57kg/fnl-000100--,1904038,KOR,Korea,Republic of Korea
+Silver Medal,2,2024-08-08,Nahid KIYANICHANDEH,W,Taekwondo,Women -57kg,HATH,/en/paris-2024/results/taekwondo/women--57kg/fnl-000100--,1536067,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-08,Skylar PARK,W,Taekwondo,Women -57kg,HATH,/en/paris-2024/results/taekwondo/women--57kg/repf000100--,1966505,CAN,Canada,Canada
+Bronze Medal,3,2024-08-08,Alizadeh KIMIA,W,Taekwondo,Women -57kg,HATH,/en/paris-2024/results/taekwondo/women--57kg/repf000200--,2493835,BUL,Bulgaria,Bulgaria
+Gold Medal,1,2024-08-08,Rizki JUNIANSYAH,M,Weightlifting,Men's 73kg,ATH,/en/paris-2024/results/weightlifting/men-s-73kg/fnl-000100--,1941786,INA,Indonesia,Indonesia
+Silver Medal,2,2024-08-08,Weeraphon WICHUMA,M,Weightlifting,Men's 73kg,ATH,/en/paris-2024/results/weightlifting/men-s-73kg/fnl-000100--,1898067,THA,Thailand,Thailand
+Bronze Medal,3,2024-08-08,Bozhidar Dimitrov ANDREEV,M,Weightlifting,Men's 73kg,ATH,/en/paris-2024/results/weightlifting/men-s-73kg/fnl-000100--,1902787,BUL,Bulgaria,Bulgaria
+Gold Medal,1,2024-08-08,LUO Shifang,W,Weightlifting,Women's 59kg,ATH,/en/paris-2024/results/weightlifting/women-s-59kg/fnl-000100--,1918379,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-08,Maude CHARRON,W,Weightlifting,Women's 59kg,ATH,/en/paris-2024/results/weightlifting/women-s-59kg/fnl-000100--,1965815,CAN,Canada,Canada
+Bronze Medal,3,2024-08-08,KUO Hsing-Chun,W,Weightlifting,Women's 59kg,ATH,/en/paris-2024/results/weightlifting/women-s-59kg/fnl-000100--,1569563,TPE,Chinese Taipei,Chinese Taipei
+Gold Medal,1,2024-08-08,Saeid ESMAEILI LEIVESI,M,Wrestling,Men's Greco-Roman 67kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-67kg/fnl-000100--,1544928,IRI,IR Iran,Islamic Republic of Iran
+Silver Medal,2,2024-08-08,Parviz NASIBOV,M,Wrestling,Men's Greco-Roman 67kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-67kg/fnl-000100--,1550119,UKR,Ukraine,Ukraine
+Bronze Medal,3,2024-08-08,Hasrat JAFAROV,M,Wrestling,Men's Greco-Roman 67kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-67kg/repf000100--,1981760,AZE,Azerbaijan,Azerbaijan
+Bronze Medal,3,2024-08-08,Luis Alberto ORTA SANCHEZ,M,Wrestling,Men's Greco-Roman 67kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-67kg/repf000200--,1571498,CUB,Cuba,Cuba
+Gold Medal,1,2024-08-08,Semen Sergeevich NOVIKOV,M,Wrestling,Men's Greco-Roman 87kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-87kg/fnl-000100--,1559471,BUL,Bulgaria,Bulgaria
+Silver Medal,2,2024-08-08,Alireza MOHMADIPIANI,M,Wrestling,Men's Greco-Roman 87kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-87kg/fnl-000100--,1544880,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-08,Zhan BELENIUK,M,Wrestling,Men's Greco-Roman 87kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-87kg/repf000100--,1550116,UKR,Ukraine,Ukraine
+Bronze Medal,3,2024-08-08,Turpal Ali BISULTANOV,M,Wrestling,Men's Greco-Roman 87kg,HATH,/en/paris-2024/results/wrestling/men-s-greco-roman-87kg/repf000200--,1879518,DEN,Denmark,Denmark
+Gold Medal,1,2024-08-08,FUJINAMI Akari,W,Wrestling,Women's Freestyle 53kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-53kg/fnl-000100--,1939711,JPN,Japan,Japan
+Silver Medal,2,2024-08-08,Lucia Yamileth YEPEZ GUZMAN,W,Wrestling,Women's Freestyle 53kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-53kg/fnl-000100--,1960228,ECU,Ecuador,Ecuador
+Bronze Medal,3,2024-08-08,CHOE Hyo Gyong,W,Wrestling,Women's Freestyle 53kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-53kg/repf000100--,1980149,PRK,DPR Korea,Democratic People's Republic of Korea
+Bronze Medal,3,2024-08-08,PANG Qianyu,W,Wrestling,Women's Freestyle 53kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-53kg/repf000200--,1920006,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-09,Canada,M,Athletics,Men's 4 x 100m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-100m-relay/fnl-000100--,ATHM4X100M--CAN01,CAN,Canada,Canada
+Silver Medal,2,2024-08-09,South Africa,M,Athletics,Men's 4 x 100m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-100m-relay/fnl-000100--,ATHM4X100M--RSA01,RSA,South Africa,South Africa
+Bronze Medal,3,2024-08-09,Great Britain,M,Athletics,Men's 4 x 100m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-100m-relay/fnl-000100--,ATHM4X100M--GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-09,Rai BENJAMIN,M,Athletics,Men's 400m Hurdles,ATH,/en/paris-2024/results/athletics/men-s-400m-hurdles/fnl-000100--,1960684,USA,United States,United States of America
+Silver Medal,2,2024-08-09,Karsten WARHOLM,M,Athletics,Men's 400m Hurdles,ATH,/en/paris-2024/results/athletics/men-s-400m-hurdles/fnl-000100--,1894095,NOR,Norway,Norway
+Bronze Medal,3,2024-08-09,Alison dos SANTOS,M,Athletics,Men's 400m Hurdles,ATH,/en/paris-2024/results/athletics/men-s-400m-hurdles/fnl-000100--,1951913,BRA,Brazil,Brazil
+Gold Medal,1,2024-08-09,Jordan Alejandro DIAZ FORTUN,M,Athletics,Men's Triple Jump,ATH,/en/paris-2024/results/athletics/men-s-triple-jump/fnl-000100--,1904099,ESP,Spain,Spain
+Silver Medal,2,2024-08-09,Pedro PICHARDO,M,Athletics,Men's Triple Jump,ATH,/en/paris-2024/results/athletics/men-s-triple-jump/fnl-000100--,1938792,POR,Portugal,Portugal
+Bronze Medal,3,2024-08-09,Andy DIAZ HERNANDEZ,M,Athletics,Men's Triple Jump,ATH,/en/paris-2024/results/athletics/men-s-triple-jump/fnl-000100--,1552375,ITA,Italy,Italy
+Gold Medal,1,2024-08-09,Beatrice CHEBET,W,Athletics,"Women's 10,000m",ATH,/en/paris-2024/results/athletics/women-s-10-000m/fnl-000100--,1910560,KEN,Kenya,Kenya
+Silver Medal,2,2024-08-09,Nadia BATTOCLETTI,W,Athletics,"Women's 10,000m",ATH,/en/paris-2024/results/athletics/women-s-10-000m/fnl-000100--,1552305,ITA,Italy,Italy
+Bronze Medal,3,2024-08-09,Sifan HASSAN,W,Athletics,"Women's 10,000m",ATH,/en/paris-2024/results/athletics/women-s-10-000m/fnl-000100--,1972105,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-09,United States,W,Athletics,Women's 4 x 100m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-100m-relay/fnl-000100--,ATHW4X100M--USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-09,Great Britain,W,Athletics,Women's 4 x 100m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-100m-relay/fnl-000100--,ATHW4X100M--GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-09,Germany,W,Athletics,Women's 4 x 100m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-100m-relay/fnl-000100--,ATHW4X100M--GER01,GER,Germany,Germany
+Gold Medal,1,2024-08-09,Marileidy PAULINO,W,Athletics,Women's 400m,ATH,/en/paris-2024/results/athletics/women-s-400m/fnl-000100--,1899666,DOM,Dominican Republic,Dominican Republic
+Silver Medal,2,2024-08-09,Salwa Eid NASER,W,Athletics,Women's 400m,ATH,/en/paris-2024/results/athletics/women-s-400m/fnl-000100--,1915338,BRN,Bahrain,Bahrain
+Bronze Medal,3,2024-08-09,Natalia KACZMAREK,W,Athletics,Women's 400m,ATH,/en/paris-2024/results/athletics/women-s-400m/fnl-000100--,1573098,POL,Poland,Poland
+Gold Medal,1,2024-08-09,Yemisi OGUNLEYE,W,Athletics,Women's Shot Put,ATH,/en/paris-2024/results/athletics/women-s-shot-put/fnl-000100--,1920183,GER,Germany,Germany
+Silver Medal,2,2024-08-09,Maddison-Lee WESCHE,W,Athletics,Women's Shot Put,ATH,/en/paris-2024/results/athletics/women-s-shot-put/fnl-000100--,1926695,NZL,New Zealand,New Zealand
+Bronze Medal,3,2024-08-09,SONG Jiayuan,W,Athletics,Women's Shot Put,ATH,/en/paris-2024/results/athletics/women-s-shot-put/fnl-000100--,1919065,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-09,ANA PATRICIA/DUDA,W,Beach Volleyball,Women,HTEAM,/en/paris-2024/results/beach-volleyball/women/fnl-000100--,VBVWTEAM2---BRA01,BRA,Brazil,Brazil
+Silver Medal,2,2024-08-09,MELISSA/BRANDIE,W,Beach Volleyball,Women,HTEAM,/en/paris-2024/results/beach-volleyball/women/fnl-000100--,VBVWTEAM2---CAN01,CAN,Canada,Canada
+Bronze Medal,3,2024-08-09,HUBERLI/BRUNNER,W,Beach Volleyball,Women,HTEAM,/en/paris-2024/results/beach-volleyball/women/fnl-000200--,VBVWTEAM2---SUI01,SUI,Switzerland,Switzerland
+Gold Medal,1,2024-08-09,Asadkhuja MUYDINKHUJAEV,M,Boxing,Men's 71kg,HATH,/en/paris-2024/results/boxing/men-s-71kg/fnl-000100--,1556797,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-08-09,Marco Alonso VERDE ALVAREZ,M,Boxing,Men's 71kg,HATH,/en/paris-2024/results/boxing/men-s-71kg/fnl-000100--,1535187,MEX,Mexico,Mexico
+Gold Medal,1,2024-08-09,Lazizbek MULLOJONOV,M,Boxing,Men's 92kg,HATH,/en/paris-2024/results/boxing/men-s-92kg/fnl-000100--,1556860,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-08-09,Loren Berto ALFONSO DOMINGUEZ,M,Boxing,Men's 92kg,HATH,/en/paris-2024/results/boxing/men-s-92kg/fnl-000100--,1972343,AZE,Azerbaijan,Azerbaijan
+Gold Medal,1,2024-08-09,WU Yu,W,Boxing,Women's 50kg,HATH,/en/paris-2024/results/boxing/women-s-50kg/fnl-000100--,1926833,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-09,Buse Naz CAKIROGLU,W,Boxing,Women's 50kg,HATH,/en/paris-2024/results/boxing/women-s-50kg/fnl-000100--,1568182,TUR,Türkiye,Türkiye
+Gold Medal,1,2024-08-09,Imane KHELIF,W,Boxing,Women's 66kg,HATH,/en/paris-2024/results/boxing/women-s-66kg/fnl-000100--,1540353,ALG,Algeria,Algeria
+Silver Medal,2,2024-08-09,YANG Liu,W,Boxing,Women's 66kg,HATH,/en/paris-2024/results/boxing/women-s-66kg/fnl-000100--,1926827,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-09,AMI,W,Breaking,B-Girls,HATH,/en/paris-2024/results/breaking/b-girls/fnl-000100--,1953038,JPN,Japan,Japan
+Silver Medal,2,2024-08-09,NICKA,W,Breaking,B-Girls,HATH,/en/paris-2024/results/breaking/b-girls/fnl-000100--,1924559,LTU,Lithuania,Lithuania
+Bronze Medal,3,2024-08-09,671,W,Breaking,B-Girls,HATH,/en/paris-2024/results/breaking/b-girls/fnl-000200--,1909907,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-09,Martin FUKSA,M,Canoe Sprint,Men's Canoe Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-canoe-single-1000m/fnl---------,1878716,CZE,Czechia,Czechia
+Silver Medal,2,2024-08-09,Isaquias QUEIROZ,M,Canoe Sprint,Men's Canoe Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-canoe-single-1000m/fnl---------,1952595,BRA,Brazil,Brazil
+Bronze Medal,3,2024-08-09,Serghei TARNOVSCHI,M,Canoe Sprint,Men's Canoe Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-canoe-single-1000m/fnl---------,1550295,MDA,Republic of Moldova,Republic of Moldova
+Gold Medal,1,2024-08-09,SCHOPF/LEMKE,M,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,CSPMK2-500M-GER01,GER,Germany,Germany
+Silver Medal,2,2024-08-09,NADAS/TOTKA,M,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,CSPMK2-500M-HUN01,HUN,Hungary,Hungary
+Bronze Medal,3,2024-08-09,van der WE/GREEN,M,Canoe Sprint,Men's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/men-s-kayak-double-500m/fnl---------,CSPMK2-500M-AUS01,AUS,Australia,Australia
+Gold Medal,1,2024-08-09,XU/SUN,W,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,CSPWC2-500M-CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-09,LUZAN/RYBACHOK,W,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,CSPWC2-500M-UKR01,UKR,Ukraine,Ukraine
+Bronze Medal,3,2024-08-09,MACKENZIE/VINCENT,W,Canoe Sprint,Women's Canoe Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-canoe-double-500m/fnl---------,CSPWC2-500M-CAN01,CAN,Canada,Canada
+Gold Medal,1,2024-08-09,CARRINGTON/HOSKIN,W,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,CSPWK2-500M-NZL01,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-09,CSIPES/GAZSO,W,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,CSPWK2-500M-HUN01,HUN,Hungary,Hungary
+Bronze Medal,3,2024-08-09,PASZEK/HAKE,W,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,CSPWK2-500M-GER01,GER,Germany,Germany
+Bronze Medal,3,2024-08-09,PUPP/FOJT,W,Canoe Sprint,Women's Kayak Double 500m,COUP,/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl---------,CSPWK2-500M-HUN02,HUN,Hungary,Hungary
+Gold Medal,1,2024-08-09,Harrie LAVREYSEN,M,Cycling Track,Men's Sprint,ATH,/en/paris-2024/results/cycling-track/men-s-sprint/fnl---------,1969182,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-09,Matthew RICHARDSON,M,Cycling Track,Men's Sprint,ATH,/en/paris-2024/results/cycling-track/men-s-sprint/fnl---------,1940263,AUS,Australia,Australia
+Bronze Medal,3,2024-08-09,Jack CARLIN,M,Cycling Track,Men's Sprint,ATH,/en/paris-2024/results/cycling-track/men-s-sprint/fnl---------,1912515,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-09,Italy,W,Cycling Track,Women's Madison,TEAM,/en/paris-2024/results/cycling-track/women-s-madison/fnl-000100--,CTRWMADISON-ITA01,ITA,Italy,Italy
+Silver Medal,2,2024-08-09,Great Britain,W,Cycling Track,Women's Madison,TEAM,/en/paris-2024/results/cycling-track/women-s-madison/fnl-000100--,CTRWMADISON-GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-09,Netherlands,W,Cycling Track,Women's Madison,TEAM,/en/paris-2024/results/cycling-track/women-s-madison/fnl-000100--,CTRWMADISON-NED01,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-09,CHEN Yiwen,W,Diving,Women's 3m Springboard,ATH,/en/paris-2024/results/diving/women-s-3m-springboard/fnl-000100--,1901538,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-09,Maddison KEENEY,W,Diving,Women's 3m Springboard,ATH,/en/paris-2024/results/diving/women-s-3m-springboard/fnl-000100--,1940414,AUS,Australia,Australia
+Bronze Medal,3,2024-08-09,CHANG Yani,W,Diving,Women's 3m Springboard,ATH,/en/paris-2024/results/diving/women-s-3m-springboard/fnl-000100--,1901539,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-09,Spain,M,Football,Men,HTEAM,/en/paris-2024/results/football/men/fnl-000100--,FBLMTEAM11--ESP01,ESP,Spain,Spain
+Silver Medal,2,2024-08-09,France,M,Football,Men,HTEAM,/en/paris-2024/results/football/men/fnl-000100--,FBLMTEAM11--FRA01,FRA,France,France
+Bronze Medal,3,2024-08-09,Germany,W,Football,Women,HTEAM,/en/paris-2024/results/football/women/fnl-000200--,FBLWTEAM11--GER01,GER,Germany,Germany
+Gold Medal,1,2024-08-09,Netherlands,W,Hockey,Women,HTEAM,/en/paris-2024/results/hockey/women/fnl-000100--,HOCWTEAM11--NED01,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-09,China,W,Hockey,Women,HTEAM,/en/paris-2024/results/hockey/women/fnl-000100--,HOCWTEAM11--CHN01,CHN,China,People's Republic of China
+Bronze Medal,3,2024-08-09,Argentina,W,Hockey,Women,HTEAM,/en/paris-2024/results/hockey/women/fnl-000200--,HOCWTEAM11--ARG01,ARG,Argentina,Argentina
+Gold Medal,1,2024-08-09,Kristof RASOVSZKY,M,Marathon Swimming,Men's 10km,ATH,/en/paris-2024/results/marathon-swimming/men-s-10km/fnl-000100--,1909030,HUN,Hungary,Hungary
+Silver Medal,2,2024-08-09,Oliver KLEMET,M,Marathon Swimming,Men's 10km,ATH,/en/paris-2024/results/marathon-swimming/men-s-10km/fnl-000100--,1907234,GER,Germany,Germany
+Bronze Medal,3,2024-08-09,David BETLEHEM,M,Marathon Swimming,Men's 10km,ATH,/en/paris-2024/results/marathon-swimming/men-s-10km/fnl-000100--,1902450,HUN,Hungary,Hungary
+Gold Medal,1,2024-08-09,Valentin BONTUS,M,Sailing,Men's Kite,ATH,/en/paris-2024/results/sailing/men-s-kite/fnl-000300--,1566437,AUT,Austria,Austria
+Silver Medal,2,2024-08-09,Toni VODISEK,M,Sailing,Men's Kite,ATH,/en/paris-2024/results/sailing/men-s-kite/fnl-000300--,1981549,SLO,Slovenia,Slovenia
+Bronze Medal,3,2024-08-09,Maximilian MAEDER,M,Sailing,Men's Kite,ATH,/en/paris-2024/results/sailing/men-s-kite/fnl-000300--,1535852,SGP,Singapore,Singapore
+Gold Medal,1,2024-08-09,Toby ROBERTS,M,Sport Climbing,Men's Boulder & Lead,ATH,/en/paris-2024/results/sport-climbing/men-s-boulder-and-lead/fnl-000200--,1544218,GBR,Great Britain,Great Britain
+Silver Medal,2,2024-08-09,ANRAKU Sorato,M,Sport Climbing,Men's Boulder & Lead,ATH,/en/paris-2024/results/sport-climbing/men-s-boulder-and-lead/fnl-000200--,1892022,JPN,Japan,Japan
+Bronze Medal,3,2024-08-09,Jakob SCHUBERT,M,Sport Climbing,Men's Boulder & Lead,ATH,/en/paris-2024/results/sport-climbing/men-s-boulder-and-lead/fnl-000200--,1560677,AUT,Austria,Austria
+Gold Medal,1,2024-08-09,China,M,Table Tennis,Men's Team,HTEAM,/en/paris-2024/results/table-tennis/men-s-team/fnl-00010000,TTEMTEAM----CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-09,Sweden,M,Table Tennis,Men's Team,HTEAM,/en/paris-2024/results/table-tennis/men-s-team/fnl-00010000,TTEMTEAM----SWE01,SWE,Sweden,Sweden
+Bronze Medal,3,2024-08-09,France,M,Table Tennis,Men's Team,HTEAM,/en/paris-2024/results/table-tennis/men-s-team/fnl-00020000,TTEMTEAM----FRA01,FRA,France,France
+Gold Medal,1,2024-08-09,Firas KATOUSSI,M,Taekwondo,Men -80kg,HATH,/en/paris-2024/results/taekwondo/men--80kg/fnl-000100--,1947737,TUN,Tunisia,Tunisia
+Silver Medal,2,2024-08-09,Mehran BARKHORDARI,M,Taekwondo,Men -80kg,HATH,/en/paris-2024/results/taekwondo/men--80kg/fnl-000100--,1536058,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-09,Simone ALESSIO,M,Taekwondo,Men -80kg,HATH,/en/paris-2024/results/taekwondo/men--80kg/repf000100--,1929685,ITA,Italy,Italy
+Bronze Medal,3,2024-08-09,Edi HRNIC,M,Taekwondo,Men -80kg,HATH,/en/paris-2024/results/taekwondo/men--80kg/repf000200--,1914832,DEN,Denmark,Denmark
+Gold Medal,1,2024-08-09,Viviana MARTON,W,Taekwondo,Women -67kg,HATH,/en/paris-2024/results/taekwondo/women--67kg/fnl-000100--,1572318,HUN,Hungary,Hungary
+Silver Medal,2,2024-08-09,Aleksandra PERISIC,W,Taekwondo,Women -67kg,HATH,/en/paris-2024/results/taekwondo/women--67kg/fnl-000100--,1956372,SRB,Serbia,Serbia
+Bronze Medal,3,2024-08-09,Kristina TEACHOUT,W,Taekwondo,Women -67kg,HATH,/en/paris-2024/results/taekwondo/women--67kg/repf000100--,1930773,USA,United States,United States of America
+Bronze Medal,3,2024-08-09,Sarah CHAARI,W,Taekwondo,Women -67kg,HATH,/en/paris-2024/results/taekwondo/women--67kg/repf000200--,1903284,BEL,Belgium,Belgium
+Bronze Medal,3,2024-08-09,United States,M,Volleyball,Men,HTEAM,/en/paris-2024/results/volleyball/men/fnl-000200--,VVOMTEAM6---USA01,USA,United States,United States of America
+Gold Medal,1,2024-08-09,Karlos May NASAR,M,Weightlifting,Men's 89kg,ATH,/en/paris-2024/results/weightlifting/men-s-89kg/fnl-000100--,1903011,BUL,Bulgaria,Bulgaria
+Silver Medal,2,2024-08-09,Yeison LOPEZ,M,Weightlifting,Men's 89kg,ATH,/en/paris-2024/results/weightlifting/men-s-89kg/fnl-000100--,1543506,COL,Colombia,Colombia
+Bronze Medal,3,2024-08-09,Antonino PIZZOLATO,M,Weightlifting,Men's 89kg,ATH,/en/paris-2024/results/weightlifting/men-s-89kg/fnl-000100--,1568724,ITA,Italy,Italy
+Gold Medal,1,2024-08-09,Olivia REEVES,W,Weightlifting,Women's 71kg,ATH,/en/paris-2024/results/weightlifting/women-s-71kg/fnl-000100--,1917154,USA,United States,United States of America
+Silver Medal,2,2024-08-09,Mari Leivis SANCHEZ,W,Weightlifting,Women's 71kg,ATH,/en/paris-2024/results/weightlifting/women-s-71kg/fnl-000100--,1543509,COL,Colombia,Colombia
+Bronze Medal,3,2024-08-09,Angie Paola PALACIOS DAJOMES,W,Weightlifting,Women's 71kg,ATH,/en/paris-2024/results/weightlifting/women-s-71kg/fnl-000100--,1940300,ECU,Ecuador,Ecuador
+Gold Medal,1,2024-08-09,HIGUCHI Rei,M,Wrestling,Men's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-57kg/fnl-000100--,1939714,JPN,Japan,Japan
+Silver Medal,2,2024-08-09,Spencer Richard LEE,M,Wrestling,Men's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-57kg/fnl-000100--,1955415,USA,United States,United States of America
+Bronze Medal,3,2024-08-09,Aman AMAN,M,Wrestling,Men's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-57kg/repf000100--,1931496,IND,India,India
+Bronze Medal,3,2024-08-09,Gulomjon ABDULLAEV,M,Wrestling,Men's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-57kg/repf000200--,1562157,UZB,Uzbekistan,Uzbekistan
+Gold Medal,1,2024-08-09,Magomed Eldarovitch RAMAZANOV,M,Wrestling,Men's Freestyle 86kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-86kg/fnl-000100--,1556873,BUL,Bulgaria,Bulgaria
+Silver Medal,2,2024-08-09,Hassan YAZDANICHARATI,M,Wrestling,Men's Freestyle 86kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-86kg/fnl-000100--,1544803,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-09,Aaron Marquel BROOKS,M,Wrestling,Men's Freestyle 86kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-86kg/repf000100--,1955300,USA,United States,United States of America
+Bronze Medal,3,2024-08-09,Dauren KURUGLIEV,M,Wrestling,Men's Freestyle 86kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-86kg/repf000200--,1963800,GRE,Greece,Greece
+Gold Medal,1,2024-08-09,SAKURAI Tsugumi,W,Wrestling,Women's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-57kg/fnl-000100--,1939710,JPN,Japan,Japan
+Silver Medal,2,2024-08-09,Anastasia NICHITA,W,Wrestling,Women's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-57kg/fnl-000100--,1572203,MDA,Republic of Moldova,Republic of Moldova
+Bronze Medal,3,2024-08-09,Helen Louise MAROULIS,W,Wrestling,Women's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-57kg/repf000100--,1955426,USA,United States,United States of America
+Bronze Medal,3,2024-08-09,HONG Kexin,W,Wrestling,Women's Freestyle 57kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-57kg/repf000200--,1920010,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-10,China,W,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,SWAWTEAM2---CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-10,Great Britain,W,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,SWAWTEAM2---GBR01,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-10,Netherlands,W,Artistic Swimming,Duet,COUP,/en/paris-2024/results/artistic-swimming/duet/fnl-000100--,SWAWTEAM2---NED01,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-10,United States,M,Athletics,Men's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-400m-relay/fnl-000100--,ATHM4X400M--USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-10,Botswana,M,Athletics,Men's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-400m-relay/fnl-000100--,ATHM4X400M--BOT01,BOT,Botswana,Botswana
+Bronze Medal,3,2024-08-10,Great Britain,M,Athletics,Men's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/men-s-4-x-400m-relay/fnl-000100--,ATHM4X400M--GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-10,Jakob INGEBRIGTSEN,M,Athletics,Men's 5000m,ATH,/en/paris-2024/results/athletics/men-s-5000m/fnl-000100--,1898250,NOR,Norway,Norway
+Silver Medal,2,2024-08-10,Ronald KWEMOI,M,Athletics,Men's 5000m,ATH,/en/paris-2024/results/athletics/men-s-5000m/fnl-000100--,1963077,KEN,Kenya,Kenya
+Bronze Medal,3,2024-08-10,Grant FISHER,M,Athletics,Men's 5000m,ATH,/en/paris-2024/results/athletics/men-s-5000m/fnl-000100--,1960959,USA,United States,United States of America
+Gold Medal,1,2024-08-10,Emmanuel WANYONYI,M,Athletics,Men's 800m,ATH,/en/paris-2024/results/athletics/men-s-800m/fnl-000100--,1910412,KEN,Kenya,Kenya
+Silver Medal,2,2024-08-10,Marco AROP,M,Athletics,Men's 800m,ATH,/en/paris-2024/results/athletics/men-s-800m/fnl-000100--,1974048,CAN,Canada,Canada
+Bronze Medal,3,2024-08-10,Djamel SEDJATI,M,Athletics,Men's 800m,ATH,/en/paris-2024/results/athletics/men-s-800m/fnl-000100--,1963520,ALG,Algeria,Algeria
+Gold Medal,1,2024-08-10,Hamish KERR,M,Athletics,Men's High Jump,ATH,/en/paris-2024/results/athletics/men-s-high-jump/fnl-000100--,1926713,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-10,Shelby McEWEN,M,Athletics,Men's High Jump,ATH,/en/paris-2024/results/athletics/men-s-high-jump/fnl-000100--,1965306,USA,United States,United States of America
+Bronze Medal,3,2024-08-10,Mutaz Essa BARSHIM,M,Athletics,Men's High Jump,ATH,/en/paris-2024/results/athletics/men-s-high-jump/fnl-000100--,1566681,QAT,Qatar,Qatar
+Gold Medal,1,2024-08-10,Tamirat TOLA,M,Athletics,Men's Marathon,ATH,/en/paris-2024/results/athletics/men-s-marathon/fnl-000100--,1901284,ETH,Ethiopia,Ethiopia
+Silver Medal,2,2024-08-10,Bashir ABDI,M,Athletics,Men's Marathon,ATH,/en/paris-2024/results/athletics/men-s-marathon/fnl-000100--,1942753,BEL,Belgium,Belgium
+Bronze Medal,3,2024-08-10,Benson KIPRUTO,M,Athletics,Men's Marathon,ATH,/en/paris-2024/results/athletics/men-s-marathon/fnl-000100--,1910555,KEN,Kenya,Kenya
+Gold Medal,1,2024-08-10,Masai RUSSELL,W,Athletics,Women's 100m Hurdles,ATH,/en/paris-2024/results/athletics/women-s-100m-hurdles/fnl-000100--,1960169,USA,United States,United States of America
+Silver Medal,2,2024-08-10,Cyrena SAMBA-MAYELA,W,Athletics,Women's 100m Hurdles,ATH,/en/paris-2024/results/athletics/women-s-100m-hurdles/fnl-000100--,1911932,FRA,France,France
+Bronze Medal,3,2024-08-10,Jasmine CAMACHO-QUINN,W,Athletics,Women's 100m Hurdles,ATH,/en/paris-2024/results/athletics/women-s-100m-hurdles/fnl-000100--,1537183,PUR,Puerto Rico,Puerto Rico
+Gold Medal,1,2024-08-10,Faith KIPYEGON,W,Athletics,Women's 1500m,ATH,/en/paris-2024/results/athletics/women-s-1500m/fnl-000100--,1910451,KEN,Kenya,Kenya
+Silver Medal,2,2024-08-10,Jessica HULL,W,Athletics,Women's 1500m,ATH,/en/paris-2024/results/athletics/women-s-1500m/fnl-000100--,1939795,AUS,Australia,Australia
+Bronze Medal,3,2024-08-10,Georgia BELL,W,Athletics,Women's 1500m,ATH,/en/paris-2024/results/athletics/women-s-1500m/fnl-000100--,1956840,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-10,United States,W,Athletics,Women's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-400m-relay/fnl-000100--,ATHW4X400M--USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-10,Netherlands,W,Athletics,Women's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-400m-relay/fnl-000100--,ATHW4X400M--NED01,NED,Netherlands,Netherlands
+Bronze Medal,3,2024-08-10,Great Britain,W,Athletics,Women's 4 x 400m Relay,TEAM,/en/paris-2024/results/athletics/women-s-4-x-400m-relay/fnl-000100--,ATHW4X400M--GBR01,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-10,KITAGUCHI Haruka,W,Athletics,Women's Javelin Throw,ATH,/en/paris-2024/results/athletics/women-s-javelin-throw/fnl-000100--,1919914,JPN,Japan,Japan
+Silver Medal,2,2024-08-10,Jo-Ane van DYK,W,Athletics,Women's Javelin Throw,ATH,/en/paris-2024/results/athletics/women-s-javelin-throw/fnl-000100--,1981085,RSA,South Africa,South Africa
+Bronze Medal,3,2024-08-10,Nikola OGRODNIKOVA,W,Athletics,Women's Javelin Throw,ATH,/en/paris-2024/results/athletics/women-s-javelin-throw/fnl-000100--,1892137,CZE,Czechia,Czechia
+Gold Medal,1,2024-08-10,United States,M,Basketball,Men,HTEAM,/en/paris-2024/results/basketball/men/fnl-000100--,BKBMTEAM5---USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-10,France,M,Basketball,Men,HTEAM,/en/paris-2024/results/basketball/men/fnl-000100--,BKBMTEAM5---FRA01,FRA,France,France
+Bronze Medal,3,2024-08-10,Serbia,M,Basketball,Men,HTEAM,/en/paris-2024/results/basketball/men/fnl-000200--,BKBMTEAM5---SRB01,SRB,Serbia,Serbia
+Gold Medal,1,2024-08-10,AHMAN/HELLVIG,M,Beach Volleyball,Men,HTEAM,/en/paris-2024/results/beach-volleyball/men/fnl-000100--,VBVMTEAM2---SWE01,SWE,Sweden,Sweden
+Silver Medal,2,2024-08-10,EHLERS/WICKLER,M,Beach Volleyball,Men,HTEAM,/en/paris-2024/results/beach-volleyball/men/fnl-000100--,VBVMTEAM2---GER01,GER,Germany,Germany
+Bronze Medal,3,2024-08-10,MOL/SORUM,M,Beach Volleyball,Men,HTEAM,/en/paris-2024/results/beach-volleyball/men/fnl-000200--,VBVMTEAM2---NOR01,NOR,Norway,Norway
+Gold Medal,1,2024-08-10,Bakhodir JALOLOV,M,Boxing,Men's +92kg,HATH,/en/paris-2024/results/boxing/men-s--plus-92kg/fnl-000100--,1556869,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-08-10,Ayoub GHADFA DRISSI EL AISSAOUI,M,Boxing,Men's +92kg,HATH,/en/paris-2024/results/boxing/men-s--plus-92kg/fnl-000100--,1934775,ESP,Spain,Spain
+Gold Medal,1,2024-08-10,Abdumalik KHALOKOV,M,Boxing,Men's 57kg,HATH,/en/paris-2024/results/boxing/men-s-57kg/fnl-000100--,1556049,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-08-10,Munarbek SEIITBEK UULU,M,Boxing,Men's 57kg,HATH,/en/paris-2024/results/boxing/men-s-57kg/fnl-000100--,1878687,KGZ,Kyrgyzstan,Kyrgyzstan
+Gold Medal,1,2024-08-10,LIN Yu Ting,W,Boxing,Women's 57kg,HATH,/en/paris-2024/results/boxing/women-s-57kg/fnl-000100--,1887963,TPE,Chinese Taipei,Chinese Taipei
+Silver Medal,2,2024-08-10,Julia SZEREMETA,W,Boxing,Women's 57kg,HATH,/en/paris-2024/results/boxing/women-s-57kg/fnl-000100--,1568655,POL,Poland,Poland
+Gold Medal,1,2024-08-10,LI Qian,W,Boxing,Women's 75kg,HATH,/en/paris-2024/results/boxing/women-s-75kg/fnl-000100--,1926826,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-10,Atheyna Bibeichi BYLON,W,Boxing,Women's 75kg,HATH,/en/paris-2024/results/boxing/women-s-75kg/fnl-000100--,1965679,PAN,Panama,Panama
+Gold Medal,1,2024-08-10,PHIL WIZARD,M,Breaking,B-Boys,HATH,/en/paris-2024/results/breaking/b-boys/fnl-000100--,1958888,CAN,Canada,Canada
+Silver Medal,2,2024-08-10,DANY DANN,M,Breaking,B-Boys,HATH,/en/paris-2024/results/breaking/b-boys/fnl-000100--,1880191,FRA,France,France
+Bronze Medal,3,2024-08-10,VICTOR,M,Breaking,B-Boys,HATH,/en/paris-2024/results/breaking/b-boys/fnl-000200--,1955590,USA,United States,United States of America
+Gold Medal,1,2024-08-10,Josef DOSTAL,M,Canoe Sprint,Men's Kayak Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-kayak-single-1000m/fnl---------,1878715,CZE,Czechia,Czechia
+Silver Medal,2,2024-08-10,Adam VARGA,M,Canoe Sprint,Men's Kayak Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-kayak-single-1000m/fnl---------,1570863,HUN,Hungary,Hungary
+Bronze Medal,3,2024-08-10,Balint KOPASZ,M,Canoe Sprint,Men's Kayak Single 1000m,ATH,/en/paris-2024/results/canoe-sprint/men-s-kayak-single-1000m/fnl---------,1569972,HUN,Hungary,Hungary
+Gold Medal,1,2024-08-10,Katie VINCENT,W,Canoe Sprint,Women's Canoe Single 200m,ATH,/en/paris-2024/results/canoe-sprint/women-s-canoe-single-200m/fnl---------,1964547,CAN,Canada,Canada
+Silver Medal,2,2024-08-10,Nevin HARRISON,W,Canoe Sprint,Women's Canoe Single 200m,ATH,/en/paris-2024/results/canoe-sprint/women-s-canoe-single-200m/fnl---------,1955126,USA,United States,United States of America
+Bronze Medal,3,2024-08-10,Yarisleidis CIRILO DUBOYS,W,Canoe Sprint,Women's Canoe Single 200m,ATH,/en/paris-2024/results/canoe-sprint/women-s-canoe-single-200m/fnl---------,1564506,CUB,Cuba,Cuba
+Gold Medal,1,2024-08-10,Lisa CARRINGTON,W,Canoe Sprint,Women's Kayak Single 500m,ATH,/en/paris-2024/results/canoe-sprint/women-s-kayak-single-500m/fnl---------,1945383,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-10,Tamara CSIPES,W,Canoe Sprint,Women's Kayak Single 500m,ATH,/en/paris-2024/results/canoe-sprint/women-s-kayak-single-500m/fnl---------,1568350,HUN,Hungary,Hungary
+Bronze Medal,3,2024-08-10,Emma Aastrand JORGENSEN,W,Canoe Sprint,Women's Kayak Single 500m,ATH,/en/paris-2024/results/canoe-sprint/women-s-kayak-single-500m/fnl---------,1892423,DEN,Denmark,Denmark
+Gold Medal,1,2024-08-10,Portugal,M,Cycling Track,Men's Madison,TEAM,/en/paris-2024/results/cycling-track/men-s-madison/fnl-000100--,CTRMMADISON-POR01,POR,Portugal,Portugal
+Silver Medal,2,2024-08-10,Italy,M,Cycling Track,Men's Madison,TEAM,/en/paris-2024/results/cycling-track/men-s-madison/fnl-000100--,CTRMMADISON-ITA01,ITA,Italy,Italy
+Bronze Medal,3,2024-08-10,Denmark,M,Cycling Track,Men's Madison,TEAM,/en/paris-2024/results/cycling-track/men-s-madison/fnl-000100--,CTRMMADISON-DEN01,DEN,Denmark,Denmark
+Gold Medal,1,2024-08-10,CAO Yuan,M,Diving,Men's 10m Platform,ATH,/en/paris-2024/results/diving/men-s-10m-platform/fnl-000100--,1901556,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-10,TAMAI Rikuto,M,Diving,Men's 10m Platform,ATH,/en/paris-2024/results/diving/men-s-10m-platform/fnl-000100--,1891685,JPN,Japan,Japan
+Bronze Medal,3,2024-08-10,Noah WILLIAMS,M,Diving,Men's 10m Platform,ATH,/en/paris-2024/results/diving/men-s-10m-platform/fnl-000100--,1900857,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-10,United States,W,Football,Women,HTEAM,/en/paris-2024/results/football/women/fnl-000100--,FBLWTEAM11--USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-10,Brazil,W,Football,Women,HTEAM,/en/paris-2024/results/football/women/fnl-000100--,FBLWTEAM11--BRA01,BRA,Brazil,Brazil
+Gold Medal,1,2024-08-10,Lydia KO,W,Golf,Women's Individual Stroke Play,ATH,/en/paris-2024/results/golf/women-s-individual-stroke-play/fnl---------,1939553,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-10,Esther HENSELEIT,W,Golf,Women's Individual Stroke Play,ATH,/en/paris-2024/results/golf/women-s-individual-stroke-play/fnl---------,1892506,GER,Germany,Germany
+Bronze Medal,3,2024-08-10,LIN Xiyu Janet,W,Golf,Women's Individual Stroke Play,ATH,/en/paris-2024/results/golf/women-s-individual-stroke-play/fnl---------,1913218,CHN,China,People's Republic of China
+Gold Medal,1,2024-08-10,Norway,W,Handball,Women,HTEAM,/en/paris-2024/results/handball/women/fnl-000100--,HBLWTEAM7---NOR01,NOR,Norway,Norway
+Silver Medal,2,2024-08-10,France,W,Handball,Women,HTEAM,/en/paris-2024/results/handball/women/fnl-000100--,HBLWTEAM7---FRA01,FRA,France,France
+Bronze Medal,3,2024-08-10,Denmark,W,Handball,Women,HTEAM,/en/paris-2024/results/handball/women/fnl-000200--,HBLWTEAM7---DEN01,DEN,Denmark,Denmark
+Gold Medal,1,2024-08-10,Ahmed ELGENDY,M,Modern Pentathlon,Men's Individual,ATH,/en/paris-2024/results/modern-pentathlon/men-s-individual/fnl-0001lr--,1932649,EGY,Egypt,Egypt
+Silver Medal,2,2024-08-10,SATO Taishu,M,Modern Pentathlon,Men's Individual,ATH,/en/paris-2024/results/modern-pentathlon/men-s-individual/fnl-0001lr--,1887939,JPN,Japan,Japan
+Bronze Medal,3,2024-08-10,Giorgio MALAN,M,Modern Pentathlon,Men's Individual,ATH,/en/paris-2024/results/modern-pentathlon/men-s-individual/fnl-0001lr--,1553031,ITA,Italy,Italy
+Gold Medal,1,2024-08-10,Janja GARNBRET,W,Sport Climbing,Women's Boulder & Lead,ATH,/en/paris-2024/results/sport-climbing/women-s-boulder-and-lead/fnl-000200--,1981131,SLO,Slovenia,Slovenia
+Silver Medal,2,2024-08-10,Brooke RABOUTOU,W,Sport Climbing,Women's Boulder & Lead,ATH,/en/paris-2024/results/sport-climbing/women-s-boulder-and-lead/fnl-000200--,1950307,USA,United States,United States of America
+Bronze Medal,3,2024-08-10,Jessica PILZ,W,Sport Climbing,Women's Boulder & Lead,ATH,/en/paris-2024/results/sport-climbing/women-s-boulder-and-lead/fnl-000200--,1560673,AUT,Austria,Austria
+Gold Medal,1,2024-08-10,China,W,Table Tennis,Women's Team,HTEAM,/en/paris-2024/results/table-tennis/women-s-team/fnl-00010000,TTEWTEAM----CHN01,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-10,Japan,W,Table Tennis,Women's Team,HTEAM,/en/paris-2024/results/table-tennis/women-s-team/fnl-00010000,TTEWTEAM----JPN01,JPN,Japan,Japan
+Bronze Medal,3,2024-08-10,Korea,W,Table Tennis,Women's Team,HTEAM,/en/paris-2024/results/table-tennis/women-s-team/fnl-00020000,TTEWTEAM----KOR01,KOR,Korea,Republic of Korea
+Gold Medal,1,2024-08-10,Arian SALIMI,M,Taekwondo,Men +80kg,HATH,/en/paris-2024/results/taekwondo/men--plus-80kg/fnl-000100--,1536045,IRI,IR Iran,Islamic Republic of Iran
+Silver Medal,2,2024-08-10,Caden CUNNINGHAM,M,Taekwondo,Men +80kg,HATH,/en/paris-2024/results/taekwondo/men--plus-80kg/fnl-000100--,1896149,GBR,Great Britain,Great Britain
+Bronze Medal,3,2024-08-10,Rafael ALBA,M,Taekwondo,Men +80kg,HATH,/en/paris-2024/results/taekwondo/men--plus-80kg/repf000100--,1897088,CUB,Cuba,Cuba
+Bronze Medal,3,2024-08-10,Cheick Sallah CISSE,M,Taekwondo,Men +80kg,HATH,/en/paris-2024/results/taekwondo/men--plus-80kg/repf000200--,1548401,CIV,Côte d'Ivoire,Côte d'Ivoire
+Gold Medal,1,2024-08-10,Althea LAURIN,W,Taekwondo,Women +67kg,HATH,/en/paris-2024/results/taekwondo/women--plus-67kg/fnl-000100--,1893272,FRA,France,France
+Silver Medal,2,2024-08-10,Svetlana OSIPOVA,W,Taekwondo,Women +67kg,HATH,/en/paris-2024/results/taekwondo/women--plus-67kg/fnl-000100--,1887768,UZB,Uzbekistan,Uzbekistan
+Bronze Medal,3,2024-08-10,LEE Dabin,W,Taekwondo,Women +67kg,HATH,/en/paris-2024/results/taekwondo/women--plus-67kg/repf000100--,1904039,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-10,Nafia KUS AYDIN,W,Taekwondo,Women +67kg,HATH,/en/paris-2024/results/taekwondo/women--plus-67kg/repf000200--,1566738,TUR,Türkiye,Türkiye
+Gold Medal,1,2024-08-10,France,M,Volleyball,Men,HTEAM,/en/paris-2024/results/volleyball/men/fnl-000100--,VVOMTEAM6---FRA01,FRA,France,France
+Silver Medal,2,2024-08-10,Poland,M,Volleyball,Men,HTEAM,/en/paris-2024/results/volleyball/men/fnl-000100--,VVOMTEAM6---POL01,POL,Poland,Poland
+Bronze Medal,3,2024-08-10,Brazil,W,Volleyball,Women,HTEAM,/en/paris-2024/results/volleyball/women/fnl-000200--,VVOWTEAM6---BRA01,BRA,Brazil,Brazil
+Gold Medal,1,2024-08-10,Spain,W,Water Polo,Women,HTEAM,/en/paris-2024/results/water-polo/women/fnl-000100--,WPOWTEAM7---ESP01,ESP,Spain,Spain
+Silver Medal,2,2024-08-10,Australia,W,Water Polo,Women,HTEAM,/en/paris-2024/results/water-polo/women/fnl-000100--,WPOWTEAM7---AUS01,AUS,Australia,Australia
+Bronze Medal,3,2024-08-10,Netherlands,W,Water Polo,Women,HTEAM,/en/paris-2024/results/water-polo/women/fnl-000200--,WPOWTEAM7---NED01,NED,Netherlands,Netherlands
+Gold Medal,1,2024-08-10,Lasha TALAKHADZE,M,Weightlifting,Men's +102kg,ATH,/en/paris-2024/results/weightlifting/men-s--plus-102kg/fnl-000100--,1551443,GEO,Georgia,Georgia
+Silver Medal,2,2024-08-10,Varazdat LALAYAN,M,Weightlifting,Men's +102kg,ATH,/en/paris-2024/results/weightlifting/men-s--plus-102kg/fnl-000100--,1544424,ARM,Armenia,Armenia
+Bronze Medal,3,2024-08-10,Gor MINASYAN,M,Weightlifting,Men's +102kg,ATH,/en/paris-2024/results/weightlifting/men-s--plus-102kg/fnl-000100--,1540334,BRN,Bahrain,Bahrain
+Gold Medal,1,2024-08-10,LIU Huanhua,M,Weightlifting,Men's 102kg,ATH,/en/paris-2024/results/weightlifting/men-s-102kg/fnl-000100--,1918369,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-10,Akbar DJURAEV,M,Weightlifting,Men's 102kg,ATH,/en/paris-2024/results/weightlifting/men-s-102kg/fnl-000100--,1551307,UZB,Uzbekistan,Uzbekistan
+Bronze Medal,3,2024-08-10,Yauheni TSIKHANTSOU,M,Weightlifting,Men's 102kg,ATH,/en/paris-2024/results/weightlifting/men-s-102kg/fnl-000100--,1569832,AIN,AIN,AIN
+Gold Medal,1,2024-08-10,Solfrid Eila Amena KOANDA,W,Weightlifting,Women's 81kg,ATH,/en/paris-2024/results/weightlifting/women-s-81kg/fnl-000100--,1878625,NOR,Norway,Norway
+Silver Medal,2,2024-08-10,Sara AHMED,W,Weightlifting,Women's 81kg,ATH,/en/paris-2024/results/weightlifting/women-s-81kg/fnl-000100--,1563010,EGY,Egypt,Egypt
+Bronze Medal,3,2024-08-10,Neisi Patricia DAJOMES BARRERA,W,Weightlifting,Women's 81kg,ATH,/en/paris-2024/results/weightlifting/women-s-81kg/fnl-000100--,1940308,ECU,Ecuador,Ecuador
+Gold Medal,1,2024-08-10,Geno PETRIASHVILI,M,Wrestling,Men's Freestyle 125kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-125kg/fnl-000100--,1554885,GEO,Georgia,Georgia
+Silver Medal,2,2024-08-10,Amir Hossein ZARE,M,Wrestling,Men's Freestyle 125kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-125kg/fnl-000100--,1543088,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-10,Taha AKGUL,M,Wrestling,Men's Freestyle 125kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-125kg/repf000100--,1570546,TUR,Türkiye,Türkiye
+Bronze Medal,3,2024-08-10,Giorgi MESHVILDISHVILI,M,Wrestling,Men's Freestyle 125kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-125kg/repf000200--,1947172,AZE,Azerbaijan,Azerbaijan
+Gold Medal,1,2024-08-10,Razambek Salambekovitch JAMALOV,M,Wrestling,Men's Freestyle 74kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-74kg/fnl-000100--,1562164,UZB,Uzbekistan,Uzbekistan
+Silver Medal,2,2024-08-10,TAKATANI Daichi,M,Wrestling,Men's Freestyle 74kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-74kg/fnl-000100--,1939708,JPN,Japan,Japan
+Bronze Medal,3,2024-08-10,Kyle Douglas DAKE,M,Wrestling,Men's Freestyle 74kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-74kg/repf000100--,1955345,USA,United States,United States of America
+Bronze Medal,3,2024-08-10,Chermen VALIEV,M,Wrestling,Men's Freestyle 74kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-74kg/repf000200--,3429662,ALB,Albania,Albania
+Gold Medal,1,2024-08-10,MOTOKI Sakura,W,Wrestling,Women's Freestyle 62kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-62kg/fnl-000100--,1939702,JPN,Japan,Japan
+Silver Medal,2,2024-08-10,Iryna KOLIADENKO,W,Wrestling,Women's Freestyle 62kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-62kg/fnl-000100--,1897022,UKR,Ukraine,Ukraine
+Bronze Medal,3,2024-08-10,Aisuluu TYNYBEKOVA,W,Wrestling,Women's Freestyle 62kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-62kg/repf000100--,1902786,KGZ,Kyrgyzstan,Kyrgyzstan
+Bronze Medal,3,2024-08-10,Grace Jacob BULLEN,W,Wrestling,Women's Freestyle 62kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-62kg/repf000200--,1878635,NOR,Norway,Norway
+Gold Medal,1,2024-08-11,Sifan HASSAN,W,Athletics,Women's Marathon,ATH,/en/paris-2024/results/athletics/women-s-marathon/fnl-000100--,1972105,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-11,Tigst ASSEFA,W,Athletics,Women's Marathon,ATH,/en/paris-2024/results/athletics/women-s-marathon/fnl-000100--,1901487,ETH,Ethiopia,Ethiopia
+Bronze Medal,3,2024-08-11,Hellen OBIRI,W,Athletics,Women's Marathon,ATH,/en/paris-2024/results/athletics/women-s-marathon/fnl-000100--,1932851,KEN,Kenya,Kenya
+Gold Medal,1,2024-08-11,United States,W,Basketball,Women,HTEAM,/en/paris-2024/results/basketball/women/fnl-000100--,BKBWTEAM5---USA01,USA,United States,United States of America
+Silver Medal,2,2024-08-11,France,W,Basketball,Women,HTEAM,/en/paris-2024/results/basketball/women/fnl-000100--,BKBWTEAM5---FRA01,FRA,France,France
+Bronze Medal,3,2024-08-11,Australia,W,Basketball,Women,HTEAM,/en/paris-2024/results/basketball/women/fnl-000200--,BKBWTEAM5---AUS01,AUS,Australia,Australia
+Gold Medal,1,2024-08-11,Harrie LAVREYSEN,M,Cycling Track,Men's Keirin,ATH,/en/paris-2024/results/cycling-track/men-s-keirin/fnl---------,1969182,NED,Netherlands,Netherlands
+Silver Medal,2,2024-08-11,Matthew RICHARDSON,M,Cycling Track,Men's Keirin,ATH,/en/paris-2024/results/cycling-track/men-s-keirin/fnl---------,1940263,AUS,Australia,Australia
+Bronze Medal,3,2024-08-11,Matthew GLAETZER,M,Cycling Track,Men's Keirin,ATH,/en/paris-2024/results/cycling-track/men-s-keirin/fnl---------,1940262,AUS,Australia,Australia
+Gold Medal,1,2024-08-11,Jennifer VALENTE,W,Cycling Track,Women's Omnium,ATH,/en/paris-2024/results/cycling-track/women-s-omnium/pts-000100--,1955106,USA,United States,United States of America
+Silver Medal,2,2024-08-11,Daria PIKULIK,W,Cycling Track,Women's Omnium,ATH,/en/paris-2024/results/cycling-track/women-s-omnium/pts-000100--,1572953,POL,Poland,Poland
+Bronze Medal,3,2024-08-11,Ally WOLLASTON,W,Cycling Track,Women's Omnium,ATH,/en/paris-2024/results/cycling-track/women-s-omnium/pts-000100--,1945080,NZL,New Zealand,New Zealand
+Gold Medal,1,2024-08-11,Ellesse ANDREWS,W,Cycling Track,Women's Sprint,ATH,/en/paris-2024/results/cycling-track/women-s-sprint/fnl---------,1945040,NZL,New Zealand,New Zealand
+Silver Medal,2,2024-08-11,Lea FRIEDRICH,W,Cycling Track,Women's Sprint,ATH,/en/paris-2024/results/cycling-track/women-s-sprint/fnl---------,1889704,GER,Germany,Germany
+Bronze Medal,3,2024-08-11,Emma FINUCANE,W,Cycling Track,Women's Sprint,ATH,/en/paris-2024/results/cycling-track/women-s-sprint/fnl---------,1912522,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-11,Denmark,M,Handball,Men,HTEAM,/en/paris-2024/results/handball/men/fnl-000100--,HBLMTEAM7---DEN01,DEN,Denmark,Denmark
+Silver Medal,2,2024-08-11,Germany,M,Handball,Men,HTEAM,/en/paris-2024/results/handball/men/fnl-000100--,HBLMTEAM7---GER01,GER,Germany,Germany
+Bronze Medal,3,2024-08-11,Spain,M,Handball,Men,HTEAM,/en/paris-2024/results/handball/men/fnl-000200--,HBLMTEAM7---ESP01,ESP,Spain,Spain
+Gold Medal,1,2024-08-11,Michelle GULYAS,W,Modern Pentathlon,Women's Individual,ATH,/en/paris-2024/results/modern-pentathlon/women-s-individual/fnl-0001lr--,1936619,HUN,Hungary,Hungary
+Silver Medal,2,2024-08-11,Elodie CLOUVEL,W,Modern Pentathlon,Women's Individual,ATH,/en/paris-2024/results/modern-pentathlon/women-s-individual/fnl-0001lr--,1545116,FRA,France,France
+Bronze Medal,3,2024-08-11,SEONG Seungmin,W,Modern Pentathlon,Women's Individual,ATH,/en/paris-2024/results/modern-pentathlon/women-s-individual/fnl-0001lr--,1786902,KOR,Korea,Republic of Korea
+Gold Medal,1,2024-08-11,Italy,W,Volleyball,Women,HTEAM,/en/paris-2024/results/volleyball/women/fnl-000100--,VVOWTEAM6---ITA01,ITA,Italy,Italy
+Silver Medal,2,2024-08-11,United States,W,Volleyball,Women,HTEAM,/en/paris-2024/results/volleyball/women/fnl-000100--,VVOWTEAM6---USA01,USA,United States,United States of America
+Gold Medal,1,2024-08-11,Serbia,M,Water Polo,Men,HTEAM,/en/paris-2024/results/water-polo/men/fnl-000100--,WPOMTEAM7---SRB01,SRB,Serbia,Serbia
+Silver Medal,2,2024-08-11,Croatia,M,Water Polo,Men,HTEAM,/en/paris-2024/results/water-polo/men/fnl-000100--,WPOMTEAM7---CRO01,CRO,Croatia,Croatia
+Bronze Medal,3,2024-08-11,United States,M,Water Polo,Men,HTEAM,/en/paris-2024/results/water-polo/men/fnl-000200--,WPOMTEAM7---USA01,USA,United States,United States of America
+Gold Medal,1,2024-08-11,LI Wenwen,W,Weightlifting,Women's +81kg,ATH,/en/paris-2024/results/weightlifting/women-s--plus-81kg/fnl-000100--,1918376,CHN,China,People's Republic of China
+Silver Medal,2,2024-08-11,PARK Hyejeong,W,Weightlifting,Women's +81kg,ATH,/en/paris-2024/results/weightlifting/women-s--plus-81kg/fnl-000100--,1894414,KOR,Korea,Republic of Korea
+Bronze Medal,3,2024-08-11,Emily CAMPBELL,W,Weightlifting,Women's +81kg,ATH,/en/paris-2024/results/weightlifting/women-s--plus-81kg/fnl-000100--,1544179,GBR,Great Britain,Great Britain
+Gold Medal,1,2024-08-11,KIYOOKA Kotaro,M,Wrestling,Men's Freestyle 65kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-65kg/fnl-000100--,1939700,JPN,Japan,Japan
+Silver Medal,2,2024-08-11,Rahman AMOUZADKHALILI,M,Wrestling,Men's Freestyle 65kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-65kg/fnl-000100--,1544830,IRI,IR Iran,Islamic Republic of Iran
+Bronze Medal,3,2024-08-11,Sebastian C RIVERA,M,Wrestling,Men's Freestyle 65kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-65kg/repf000100--,1537188,PUR,Puerto Rico,Puerto Rico
+Bronze Medal,3,2024-08-11,Islam DUDAEV,M,Wrestling,Men's Freestyle 65kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-65kg/repf000200--,1559387,ALB,Albania,Albania
+Gold Medal,1,2024-08-11,Akhmed TAZHUDINOV,M,Wrestling,Men's Freestyle 97kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-97kg/fnl-000100--,1540305,BRN,Bahrain,Bahrain
+Silver Medal,2,2024-08-11,Givi MATCHARASHVILI,M,Wrestling,Men's Freestyle 97kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-97kg/fnl-000100--,1552495,GEO,Georgia,Georgia
+Bronze Medal,3,2024-08-11,Magomedkhan MAGOMEDOV,M,Wrestling,Men's Freestyle 97kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-97kg/repf000100--,1981785,AZE,Azerbaijan,Azerbaijan
+Bronze Medal,3,2024-08-11,Amirali AZARPIRA,M,Wrestling,Men's Freestyle 97kg,HATH,/en/paris-2024/results/wrestling/men-s-freestyle-97kg/repf000200--,1543095,IRI,IR Iran,Islamic Republic of Iran
+Gold Medal,1,2024-08-11,KAGAMI Yuka,W,Wrestling,Women's Freestyle 76kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-76kg/fnl-000100--,1939701,JPN,Japan,Japan
+Silver Medal,2,2024-08-11,Kennedy Alexis BLADES,W,Wrestling,Women's Freestyle 76kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-76kg/fnl-000100--,1955344,USA,United States,United States of America
+Bronze Medal,3,2024-08-11,Milaimy de la Carid. MARIN POTRILLE,W,Wrestling,Women's Freestyle 76kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-76kg/repf000100--,1571936,CUB,Cuba,Cuba
+Bronze Medal,3,2024-08-11,Tatiana RENTERIA RENTERIA,W,Wrestling,Women's Freestyle 76kg,HATH,/en/paris-2024/results/wrestling/women-s-freestyle-76kg/repf000200--,1535513,COL,Colombia,Colombia
+Gold Medal,1.0,2024-08-10,People's Republic of China,W,Rhythmic Gymnastics,Group All-Around,TEAM,,GRYW5AA-----CHN01,CHN,China,People's Republic of China
+Silver Medal,2.0,2024-08-10,Israel,W,Rhythmic Gymnastics,Group All-Around,TEAM,,GRYW5AA-----ISR01,ISR,Israel,Israel
+Bronze Medal,3.0,2024-08-10,Italy,W,Rhythmic Gymnastics,Group All-Around,TEAM,,GRYW5AA-----ITA01,ITA,Italy,Italy
+Gold Medal,1.0,2024-08-09,VARFOLOMEEV Darja,W,Rhythmic Gymnastics,Individual All-Around,ATH,,1896230,GER,Germany,Germany
+Silver Medal,2.0,2024-08-09,KALEYN Boryana,W,Rhythmic Gymnastics,Individual All-Around,ATH,,1548948,BUL,Bulgaria,Bulgaria
+Bronze Medal,3.0,2024-08-09,RAFFAELI Sofia,W,Rhythmic Gymnastics,Individual All-Around,ATH,,1923694,ITA,Italy,Italy
+Gold Medal,1.0,2024-08-09,THIAM Nafissatou,W,Athletics,Women's Heptathlon,ATH,,1903112,BEL,Belgium,Belgium
+Silver Medal,2.0,2024-08-09,JOHNSON-THOMPSON Katarina,W,Athletics,Women's Heptathlon,ATH,,1977926,GBR,Great Britain,Great Britain
+Bronze Medal,3.0,2024-08-09,VIDTS Noor,W,Athletics,Women's Heptathlon,ATH,,1895596,BEL,Belgium,Belgium

@@ -1,0 +1,153 @@
+date,stage_code,event_code,event_name,event_stage,stage,gender,discipline_name,discipline_code,venue,participant_code,participant_name,participant_type,participant_country_code,participant_country,result,result_type,result_WLT,start_order
+2024-07-27T11:41:49+02:00,HOCMTEAM11------------GPA-000100--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,4,POINTS,W,1
+2024-07-27T11:41:49+02:00,HOCMTEAM11------------GPA-000100--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,0,POINTS,L,2
+2024-07-27T11:59:04+02:00,HOCMTEAM11------------GPB-000100--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,W,1
+2024-07-27T11:59:04+02:00,HOCMTEAM11------------GPB-000100--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IRL01,Ireland,Team,IRL,Ireland,0,POINTS,L,2
+2024-07-27T14:35:22+02:00,HOCMTEAM11------------GPA-000200--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,5,POINTS,W,1
+2024-07-27T14:35:22+02:00,HOCMTEAM11------------GPA-000200--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--RSA01,South Africa,Team,RSA,South Africa,3,POINTS,L,2
+2024-07-27T14:44:37+02:00,HOCMTEAM11------------GPB-000200--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--AUS01,Australia,Team,AUS,Australia,1,POINTS,W,1
+2024-07-27T14:44:37+02:00,HOCMTEAM11------------GPB-000200--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ARG01,Argentina,Team,ARG,Argentina,0,POINTS,L,2
+2024-07-27T18:39:28+02:00,HOCMTEAM11------------GPA-000300--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,8,POINTS,W,1
+2024-07-27T18:39:28+02:00,HOCMTEAM11------------GPA-000300--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--FRA01,France,Team,FRA,France,2,POINTS,L,2
+2024-07-27T19:14:03+02:00,HOCMTEAM11------------GPB-000300--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,3,POINTS,W,1
+2024-07-27T19:14:03+02:00,HOCMTEAM11------------GPB-000300--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NZL01,New Zealand,Team,NZL,New Zealand,2,POINTS,L,2
+2024-07-28T18:33:32+02:00,HOCMTEAM11------------GPA-000400--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,0,POINTS,L,1
+2024-07-28T18:33:32+02:00,HOCMTEAM11------------GPA-000400--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,2,POINTS,W,2
+2024-07-28T19:02:32+02:00,HOCMTEAM11------------GPB-000400--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,W,1
+2024-07-28T19:02:32+02:00,HOCMTEAM11------------GPB-000400--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NZL01,New Zealand,Team,NZL,New Zealand,1,POINTS,L,2
+2024-07-28T21:32:24+02:00,HOCMTEAM11------------GPA-000500--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,4,POINTS,W,1
+2024-07-28T21:32:24+02:00,HOCMTEAM11------------GPA-000500--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--FRA01,France,Team,FRA,France,0,POINTS,L,2
+2024-07-28T21:55:52+02:00,HOCMTEAM11------------GPA-000600--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--RSA01,South Africa,Team,RSA,South Africa,2,POINTS,T,1
+2024-07-28T21:55:52+02:00,HOCMTEAM11------------GPA-000600--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,2,POINTS,T,2
+2024-07-29T11:38:47+02:00,HOCMTEAM11------------GPB-000500--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IRL01,Ireland,Team,IRL,Ireland,1,POINTS,L,1
+2024-07-29T11:38:47+02:00,HOCMTEAM11------------GPB-000500--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--AUS01,Australia,Team,AUS,Australia,2,POINTS,W,2
+2024-07-29T14:32:52+02:00,HOCMTEAM11------------GPB-000600--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,1,POINTS,T,1
+2024-07-29T14:32:52+02:00,HOCMTEAM11------------GPB-000600--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ARG01,Argentina,Team,ARG,Argentina,1,POINTS,T,2
+2024-07-30T12:19:12+02:00,HOCMTEAM11------------GPA-000700--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,3,POINTS,T,1
+2024-07-30T12:19:12+02:00,HOCMTEAM11------------GPA-000700--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--FRA01,France,Team,FRA,France,3,POINTS,T,2
+2024-07-30T12:22:32+02:00,HOCMTEAM11------------GPA-000800--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--RSA01,South Africa,Team,RSA,South Africa,1,POINTS,L,1
+2024-07-30T12:22:32+02:00,HOCMTEAM11------------GPA-000800--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,5,POINTS,W,2
+2024-07-30T14:35:17+02:00,HOCMTEAM11------------GPA-000900--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,2,POINTS,T,1
+2024-07-30T14:35:17+02:00,HOCMTEAM11------------GPA-000900--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,2,POINTS,T,2
+2024-07-30T15:03:46+02:00,HOCMTEAM11------------GPB-000700--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IRL01,Ireland,Team,IRL,Ireland,0,POINTS,L,1
+2024-07-30T15:03:46+02:00,HOCMTEAM11------------GPB-000700--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,2,POINTS,W,2
+2024-07-30T18:36:51+02:00,HOCMTEAM11------------GPB-000800--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ARG01,Argentina,Team,ARG,Argentina,2,POINTS,W,1
+2024-07-30T18:36:51+02:00,HOCMTEAM11------------GPB-000800--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NZL01,New Zealand,Team,NZL,New Zealand,0,POINTS,L,2
+2024-07-30T21:37:29+02:00,HOCMTEAM11------------GPB-000900--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--AUS01,Australia,Team,AUS,Australia,2,POINTS,L,1
+2024-07-30T21:37:29+02:00,HOCMTEAM11------------GPB-000900--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--BEL01,Belgium,Team,BEL,Belgium,6,POINTS,W,2
+2024-07-31T18:59:01+02:00,HOCMTEAM11------------GPA-001000--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,1,POINTS,W,1
+2024-07-31T18:59:01+02:00,HOCMTEAM11------------GPA-001000--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,0,POINTS,L,2
+2024-07-31T21:22:17+02:00,HOCMTEAM11------------GPA-001100--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,3,POINTS,W,1
+2024-07-31T21:22:17+02:00,HOCMTEAM11------------GPA-001100--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--RSA01,South Africa,Team,RSA,South Africa,0,POINTS,L,2
+2024-08-01T11:40:39+02:00,HOCMTEAM11------------GPB-001000--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,1,POINTS,L,1
+2024-08-01T11:40:39+02:00,HOCMTEAM11------------GPB-001000--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,W,2
+2024-08-01T12:16:40+02:00,HOCMTEAM11------------GPB-001100--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NZL01,New Zealand,Team,NZL,New Zealand,0,POINTS,L,1
+2024-08-01T12:16:40+02:00,HOCMTEAM11------------GPB-001100--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--AUS01,Australia,Team,AUS,Australia,5,POINTS,W,2
+2024-08-01T14:44:56+02:00,HOCMTEAM11------------GPA-001200--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--FRA01,France,Team,FRA,France,1,POINTS,L,1
+2024-08-01T14:44:56+02:00,HOCMTEAM11------------GPA-001200--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,2,POINTS,W,2
+2024-08-01T15:00:20+02:00,HOCMTEAM11------------GPB-001200--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ARG01,Argentina,Team,ARG,Argentina,2,POINTS,W,1
+2024-08-01T15:00:20+02:00,HOCMTEAM11------------GPB-001200--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IRL01,Ireland,Team,IRL,Ireland,1,POINTS,L,2
+2024-08-02T12:30:04+02:00,HOCMTEAM11------------GPA-001300--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,5,POINTS,W,1
+2024-08-02T12:30:04+02:00,HOCMTEAM11------------GPA-001300--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,3,POINTS,L,2
+2024-08-02T14:56:40+02:00,HOCMTEAM11------------GPB-001300--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--AUS01,Australia,Team,AUS,Australia,2,POINTS,L,1
+2024-08-02T14:56:40+02:00,HOCMTEAM11------------GPB-001300--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,3,POINTS,W,2
+2024-08-02T18:37:05+02:00,HOCMTEAM11------------GPB-001400--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NZL01,New Zealand,Team,NZL,New Zealand,1,POINTS,L,1
+2024-08-02T18:37:05+02:00,HOCMTEAM11------------GPB-001400--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IRL01,Ireland,Team,IRL,Ireland,2,POINTS,W,2
+2024-08-02T19:10:02+02:00,HOCMTEAM11------------GPB-001500--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--BEL01,Belgium,Team,BEL,Belgium,3,POINTS,T,1
+2024-08-02T19:10:02+02:00,HOCMTEAM11------------GPB-001500--,HOCMTEAM11,Men,Men's Pool B,Pool B,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ARG01,Argentina,Team,ARG,Argentina,3,POINTS,T,2
+2024-08-02T21:26:44+02:00,HOCMTEAM11------------GPA-001400--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--FRA01,France,Team,FRA,France,2,POINTS,L,1
+2024-08-02T21:26:44+02:00,HOCMTEAM11------------GPA-001400--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--RSA01,South Africa,Team,RSA,South Africa,5,POINTS,W,2
+2024-08-02T21:51:40+02:00,HOCMTEAM11------------GPA-001500--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,1,POINTS,L,1
+2024-08-02T21:51:40+02:00,HOCMTEAM11------------GPA-001500--,HOCMTEAM11,Men,Men's Pool A,Pool A,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,2,POINTS,W,2
+2024-08-04T12:02:05+02:00,HOCMTEAM11------------QFNL000200--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,1,POINTS,W,1
+2024-08-04T12:02:05+02:00,HOCMTEAM11------------QFNL000200--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,1,POINTS,L,2
+2024-08-04T14:12:54+02:00,HOCMTEAM11------------QFNL000400--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,L,1
+2024-08-04T14:12:54+02:00,HOCMTEAM11------------QFNL000400--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,3,POINTS,W,2
+2024-08-04T19:11:16+02:00,HOCMTEAM11------------QFNL000300--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,2,POINTS,W,1
+2024-08-04T19:11:16+02:00,HOCMTEAM11------------QFNL000300--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--AUS01,Australia,Team,AUS,Australia,0,POINTS,L,2
+2024-08-04T21:42:51+02:00,HOCMTEAM11------------QFNL000100--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,3,POINTS,W,1
+2024-08-04T21:42:51+02:00,HOCMTEAM11------------QFNL000100--,HOCMTEAM11,Men,Men's Quarter-final,Quarter-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ARG01,Argentina,Team,ARG,Argentina,2,POINTS,L,2
+2024-08-06T15:40:23+02:00,HOCMTEAM11------------SFNL000200--,HOCMTEAM11,Men,Men's Semi-final,Semi-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,4,POINTS,W,1
+2024-08-06T15:40:23+02:00,HOCMTEAM11------------SFNL000200--,HOCMTEAM11,Men,Men's Semi-final,Semi-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,0,POINTS,L,2
+2024-08-06T20:46:50+02:00,HOCMTEAM11------------SFNL000100--,HOCMTEAM11,Men,Men's Semi-final,Semi-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,3,POINTS,W,1
+2024-08-06T20:46:50+02:00,HOCMTEAM11------------SFNL000100--,HOCMTEAM11,Men,Men's Semi-final,Semi-final,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,2,POINTS,L,2
+2024-08-08T16:00:40+02:00,HOCMTEAM11------------FNL-000200--,HOCMTEAM11,Men,Men's Bronze Medal Match,Bronze Medal Match,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--IND01,India,Team,IND,India,2,POINTS,W,1
+2024-08-08T16:00:40+02:00,HOCMTEAM11------------FNL-000200--,HOCMTEAM11,Men,Men's Bronze Medal Match,Bronze Medal Match,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--ESP01,Spain,Team,ESP,Spain,1,POINTS,L,2
+2024-08-08T20:48:29+02:00,HOCMTEAM11------------FNL-000100--,HOCMTEAM11,Men,Men's Gold Medal Match,Gold Medal Match,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--GER01,Germany,Team,GER,Germany,1,POINTS,L,1
+2024-08-08T20:48:29+02:00,HOCMTEAM11------------FNL-000100--,HOCMTEAM11,Men,Men's Gold Medal Match,Gold Medal Match,M,Hockey,HOC,Yves-du-Manoir Stadium,HOCMTEAM11--NED01,Netherlands,Team,NED,Netherlands,1,POINTS,W,2
+2024-07-27T21:44:01+02:00,HOCWTEAM11------------GPB-000100--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,4,POINTS,W,1
+2024-07-27T21:44:01+02:00,HOCWTEAM11------------GPB-000100--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--USA01,United States of America,Team,USA,United States,1,POINTS,L,2
+2024-07-27T22:01:54+02:00,HOCWTEAM11------------GPA-000100--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,6,POINTS,W,1
+2024-07-27T22:01:54+02:00,HOCWTEAM11------------GPA-000100--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--FRA01,France,Team,FRA,France,2,POINTS,L,2
+2024-07-28T11:36:52+02:00,HOCWTEAM11------------GPA-000200--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,W,1
+2024-07-28T11:36:52+02:00,HOCWTEAM11------------GPA-000200--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,1,POINTS,L,2
+2024-07-28T12:00:52+02:00,HOCWTEAM11------------GPA-000300--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GER01,Germany,Team,GER,Germany,2,POINTS,W,1
+2024-07-28T12:00:52+02:00,HOCWTEAM11------------GPA-000300--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--JPN01,Japan,Team,JPN,Japan,0,POINTS,L,2
+2024-07-28T14:28:24+02:00,HOCWTEAM11------------GPB-000200--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--AUS01,Australia,Team,AUS,Australia,2,POINTS,W,1
+2024-07-28T14:28:24+02:00,HOCWTEAM11------------GPB-000200--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--RSA01,South Africa,Team,RSA,South Africa,1,POINTS,L,2
+2024-07-28T14:57:25+02:00,HOCWTEAM11------------GPB-000300--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,1,POINTS,L,1
+2024-07-28T14:57:25+02:00,HOCWTEAM11------------GPB-000300--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ESP01,Spain,Team,ESP,Spain,2,POINTS,W,2
+2024-07-29T12:04:39+02:00,HOCWTEAM11------------GPA-000400--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--JPN01,Japan,Team,JPN,Japan,0,POINTS,L,1
+2024-07-29T12:04:39+02:00,HOCWTEAM11------------GPA-000400--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,5,POINTS,W,2
+2024-07-29T14:52:07+02:00,HOCWTEAM11------------GPB-000400--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ESP01,Spain,Team,ESP,Spain,1,POINTS,T,1
+2024-07-29T14:52:07+02:00,HOCWTEAM11------------GPB-000400--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--USA01,United States of America,Team,USA,United States,1,POINTS,T,2
+2024-07-29T18:42:21+02:00,HOCWTEAM11------------GPB-000500--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,0,POINTS,L,1
+2024-07-29T18:42:21+02:00,HOCWTEAM11------------GPB-000500--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--AUS01,Australia,Team,AUS,Australia,4,POINTS,W,2
+2024-07-29T19:13:16+02:00,HOCWTEAM11------------GPB-000600--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--RSA01,South Africa,Team,RSA,South Africa,2,POINTS,L,1
+2024-07-29T19:13:16+02:00,HOCWTEAM11------------GPB-000600--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,4,POINTS,W,2
+2024-07-29T21:21:40+02:00,HOCWTEAM11------------GPA-000500--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GER01,Germany,Team,GER,Germany,1,POINTS,L,1
+2024-07-29T21:21:40+02:00,HOCWTEAM11------------GPA-000500--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,2,POINTS,W,2
+2024-07-29T21:52:19+02:00,HOCWTEAM11------------GPA-000600--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--FRA01,France,Team,FRA,France,0,POINTS,L,1
+2024-07-29T21:52:19+02:00,HOCWTEAM11------------GPA-000600--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,5,POINTS,W,2
+2024-07-31T11:44:34+02:00,HOCWTEAM11------------GPB-000700--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,2,POINTS,W,1
+2024-07-31T11:44:34+02:00,HOCWTEAM11------------GPB-000700--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ESP01,Spain,Team,ESP,Spain,1,POINTS,L,2
+2024-07-31T12:09:44+02:00,HOCWTEAM11------------GPB-000800--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--RSA01,South Africa,Team,RSA,South Africa,1,POINTS,L,1
+2024-07-31T12:09:44+02:00,HOCWTEAM11------------GPB-000800--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,2,POINTS,W,2
+2024-07-31T14:32:26+02:00,HOCWTEAM11------------GPA-000700--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--FRA01,France,Team,FRA,France,1,POINTS,L,1
+2024-07-31T14:32:26+02:00,HOCWTEAM11------------GPA-000700--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GER01,Germany,Team,GER,Germany,5,POINTS,W,2
+2024-07-31T14:47:52+02:00,HOCWTEAM11------------GPB-000900--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--AUS01,Australia,Team,AUS,Australia,3,POINTS,W,1
+2024-07-31T14:47:52+02:00,HOCWTEAM11------------GPB-000900--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--USA01,United States of America,Team,USA,United States,0,POINTS,L,2
+2024-07-31T18:36:15+02:00,HOCWTEAM11------------GPA-000800--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,3,POINTS,W,1
+2024-07-31T18:36:15+02:00,HOCWTEAM11------------GPA-000800--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--JPN01,Japan,Team,JPN,Japan,0,POINTS,L,2
+2024-07-31T21:46:24+02:00,HOCWTEAM11------------GPA-000900--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,3,POINTS,W,1
+2024-07-31T21:46:24+02:00,HOCWTEAM11------------GPA-000900--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,0,POINTS,L,2
+2024-08-01T18:41:17+02:00,HOCWTEAM11------------GPB-001000--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--USA01,United States of America,Team,USA,United States,2,POINTS,L,1
+2024-08-01T18:41:17+02:00,HOCWTEAM11------------GPB-001000--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,5,POINTS,W,2
+2024-08-01T19:12:12+02:00,HOCWTEAM11------------GPB-001100--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ESP01,Spain,Team,ESP,Spain,1,POINTS,W,1
+2024-08-01T19:12:12+02:00,HOCWTEAM11------------GPB-001100--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--RSA01,South Africa,Team,RSA,South Africa,0,POINTS,L,2
+2024-08-01T21:25:44+02:00,HOCWTEAM11------------GPA-001000--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--JPN01,Japan,Team,JPN,Japan,1,POINTS,W,1
+2024-08-01T21:25:44+02:00,HOCWTEAM11------------GPA-001000--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--FRA01,France,Team,FRA,France,0,POINTS,L,2
+2024-08-01T22:02:59+02:00,HOCWTEAM11------------GPB-001200--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,3,POINTS,T,1
+2024-08-01T22:02:59+02:00,HOCWTEAM11------------GPB-001200--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--AUS01,Australia,Team,AUS,Australia,3,POINTS,T,2
+2024-08-02T11:43:06+02:00,HOCWTEAM11------------GPA-001100--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,2,POINTS,L,1
+2024-08-02T11:43:06+02:00,HOCWTEAM11------------GPA-001100--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GER01,Germany,Team,GER,Germany,4,POINTS,W,2
+2024-08-02T14:24:39+02:00,HOCWTEAM11------------GPA-001200--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,1,POINTS,L,1
+2024-08-02T14:24:39+02:00,HOCWTEAM11------------GPA-001200--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,3,POINTS,W,2
+2024-08-03T11:37:45+02:00,HOCWTEAM11------------GPB-001300--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,0,POINTS,L,1
+2024-08-03T11:37:45+02:00,HOCWTEAM11------------GPB-001300--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,3,POINTS,W,2
+2024-08-03T12:05:49+02:00,HOCWTEAM11------------GPA-001300--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,5,POINTS,W,1
+2024-08-03T12:05:49+02:00,HOCWTEAM11------------GPA-001300--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--JPN01,Japan,Team,JPN,Japan,1,POINTS,L,2
+2024-08-03T14:23:02+02:00,HOCWTEAM11------------GPB-001400--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--AUS01,Australia,Team,AUS,Australia,3,POINTS,W,1
+2024-08-03T14:23:02+02:00,HOCWTEAM11------------GPB-001400--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ESP01,Spain,Team,ESP,Spain,1,POINTS,L,2
+2024-08-03T14:46:09+02:00,HOCWTEAM11------------GPB-001500--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--USA01,United States of America,Team,USA,United States,1,POINTS,W,1
+2024-08-03T14:46:09+02:00,HOCWTEAM11------------GPB-001500--,HOCWTEAM11,Women,Women's Pool B,Pool B,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--RSA01,South Africa,Team,RSA,South Africa,0,POINTS,L,2
+2024-08-03T18:49:58+02:00,HOCWTEAM11------------GPA-001400--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,7,POINTS,W,1
+2024-08-03T18:49:58+02:00,HOCWTEAM11------------GPA-001400--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--FRA01,France,Team,FRA,France,1,POINTS,L,2
+2024-08-03T21:23:13+02:00,HOCWTEAM11------------GPA-001500--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GER01,Germany,Team,GER,Germany,0,POINTS,L,1
+2024-08-03T21:23:13+02:00,HOCWTEAM11------------GPA-001500--,HOCWTEAM11,Women,Women's Pool A,Pool A,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,W,2
+2024-08-05T11:42:37+02:00,HOCWTEAM11------------QFNL000400--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--AUS01,Australia,Team,AUS,Australia,2,POINTS,L,1
+2024-08-05T11:42:37+02:00,HOCWTEAM11------------QFNL000400--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,3,POINTS,W,2
+2024-08-05T15:06:17+02:00,HOCWTEAM11------------QFNL000200--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,1,POINTS,W,1
+2024-08-05T15:06:17+02:00,HOCWTEAM11------------QFNL000200--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GER01,Germany,Team,GER,Germany,1,POINTS,L,2
+2024-08-05T19:03:10+02:00,HOCWTEAM11------------QFNL000100--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,3,POINTS,W,1
+2024-08-05T19:03:10+02:00,HOCWTEAM11------------QFNL000100--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--GBR01,Great Britain,Team,GBR,Great Britain,1,POINTS,L,2
+2024-08-05T21:34:53+02:00,HOCWTEAM11------------QFNL000300--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,W,1
+2024-08-05T21:34:53+02:00,HOCWTEAM11------------QFNL000300--,HOCWTEAM11,Women,Women's Quarter-final,Quarter-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ESP01,Spain,Team,ESP,Spain,0,POINTS,L,2
+2024-08-07T15:44:27+02:00,HOCWTEAM11------------SFNL000100--,HOCWTEAM11,Women,Women's Semi-final,Semi-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,3,POINTS,W,1
+2024-08-07T15:44:27+02:00,HOCWTEAM11------------SFNL000100--,HOCWTEAM11,Women,Women's Semi-final,Semi-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,0,POINTS,L,2
+2024-08-07T20:58:33+02:00,HOCWTEAM11------------SFNL000200--,HOCWTEAM11,Women,Women's Semi-final,Semi-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,1,POINTS,L,1
+2024-08-07T20:58:33+02:00,HOCWTEAM11------------SFNL000200--,HOCWTEAM11,Women,Women's Semi-final,Semi-final,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,1,POINTS,W,2
+2024-08-09T16:03:49+02:00,HOCWTEAM11------------FNL-000200--,HOCWTEAM11,Women,Women's Bronze Medal Match,Bronze Medal Match,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--ARG01,Argentina,Team,ARG,Argentina,2,POINTS,W,1
+2024-08-09T16:03:49+02:00,HOCWTEAM11------------FNL-000200--,HOCWTEAM11,Women,Women's Bronze Medal Match,Bronze Medal Match,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--BEL01,Belgium,Team,BEL,Belgium,2,POINTS,L,2
+2024-08-09T21:56:06+02:00,HOCWTEAM11------------FNL-000100--,HOCWTEAM11,Women,Women's Gold Medal Match,Gold Medal Match,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--NED01,Netherlands,Team,NED,Netherlands,1,POINTS,W,1
+2024-08-09T21:56:06+02:00,HOCWTEAM11------------FNL-000100--,HOCWTEAM11,Women,Women's Gold Medal Match,Gold Medal Match,W,Hockey,HOC,Yves-du-Manoir Stadium,HOCWTEAM11--CHN01,People's Republic of China,Team,CHN,China,1,POINTS,L,2

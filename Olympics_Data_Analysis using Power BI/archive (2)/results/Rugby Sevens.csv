@@ -1,0 +1,137 @@
+date,stage_code,event_code,event_name,event_stage,stage,gender,discipline_name,discipline_code,venue,participant_code,participant_name,participant_type,participant_country_code,participant_country,result,result_type,result_WLT,start_order
+2024-07-24T22:34:32+02:00,RU7MTEAM7-------------GPB-000100--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---AUS01,Australia,Team,AUS,Australia,21,POINTS,W,1
+2024-07-24T22:34:32+02:00,RU7MTEAM7-------------GPB-000100--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---SAM01,Samoa,Team,SAM,Samoa,14,POINTS,L,2
+2024-07-24T23:21:21+02:00,RU7MTEAM7-------------GPB-000200--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---ARG01,Argentina,Team,ARG,Argentina,31,POINTS,W,1
+2024-07-24T23:21:21+02:00,RU7MTEAM7-------------GPB-000200--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---KEN01,Kenya,Team,KEN,Kenya,12,POINTS,L,2
+2024-07-24T23:21:21+02:00,RU7MTEAM7-------------GPC-000100--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FRA01,France,Team,FRA,France,12,POINTS,T,1
+2024-07-24T23:21:21+02:00,RU7MTEAM7-------------GPC-000100--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---USA01,United States of America,Team,USA,United States,12,POINTS,T,2
+2024-07-24T23:21:22+02:00,RU7MTEAM7-------------GPA-000100--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---IRL01,Ireland,Team,IRL,Ireland,10,POINTS,W,1
+2024-07-24T23:21:22+02:00,RU7MTEAM7-------------GPA-000100--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---RSA01,South Africa,Team,RSA,South Africa,5,POINTS,L,2
+2024-07-24T23:21:22+02:00,RU7MTEAM7-------------GPC-000200--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,40,POINTS,W,1
+2024-07-24T23:21:22+02:00,RU7MTEAM7-------------GPC-000200--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---URU01,Uruguay,Team,URU,Uruguay,12,POINTS,L,2
+2024-07-24T23:21:23+02:00,RU7MTEAM7-------------GPA-000200--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,40,POINTS,W,1
+2024-07-24T23:21:23+02:00,RU7MTEAM7-------------GPA-000200--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---JPN01,Japan,Team,JPN,Japan,12,POINTS,L,2
+2024-07-24T23:51:07+02:00,RU7MTEAM7-------------GPC-000400--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,38,POINTS,W,1
+2024-07-24T23:51:07+02:00,RU7MTEAM7-------------GPC-000400--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---USA01,United States of America,Team,USA,United States,12,POINTS,L,2
+2024-07-24T23:51:08+02:00,RU7MTEAM7-------------GPA-000300--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---IRL01,Ireland,Team,IRL,Ireland,40,POINTS,W,1
+2024-07-24T23:51:08+02:00,RU7MTEAM7-------------GPA-000300--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---JPN01,Japan,Team,JPN,Japan,5,POINTS,L,2
+2024-07-24T23:51:08+02:00,RU7MTEAM7-------------GPA-000400--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,17,POINTS,W,1
+2024-07-24T23:51:08+02:00,RU7MTEAM7-------------GPA-000400--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---RSA01,South Africa,Team,RSA,South Africa,5,POINTS,L,2
+2024-07-24T23:51:09+02:00,RU7MTEAM7-------------GPC-000300--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FRA01,France,Team,FRA,France,19,POINTS,W,1
+2024-07-24T23:51:09+02:00,RU7MTEAM7-------------GPC-000300--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---URU01,Uruguay,Team,URU,Uruguay,12,POINTS,L,2
+2024-07-24T23:51:10+02:00,RU7MTEAM7-------------GPB-000300--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---AUS01,Australia,Team,AUS,Australia,21,POINTS,W,1
+2024-07-24T23:51:10+02:00,RU7MTEAM7-------------GPB-000300--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---KEN01,Kenya,Team,KEN,Kenya,7,POINTS,L,2
+2024-07-24T23:51:10+02:00,RU7MTEAM7-------------GPB-000400--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---ARG01,Argentina,Team,ARG,Argentina,28,POINTS,W,1
+2024-07-24T23:51:10+02:00,RU7MTEAM7-------------GPB-000400--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---SAM01,Samoa,Team,SAM,Samoa,12,POINTS,L,2
+2024-07-25T16:21:22+02:00,RU7MTEAM7-------------GPA-000500--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---RSA01,South Africa,Team,RSA,South Africa,49,POINTS,W,1
+2024-07-25T16:21:22+02:00,RU7MTEAM7-------------GPA-000500--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---JPN01,Japan,Team,JPN,Japan,5,POINTS,L,2
+2024-07-25T17:03:40+02:00,RU7MTEAM7-------------GPB-000500--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---SAM01,Samoa,Team,SAM,Samoa,26,POINTS,W,1
+2024-07-25T17:03:40+02:00,RU7MTEAM7-------------GPB-000500--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---KEN01,Kenya,Team,KEN,Kenya,0,POINTS,L,2
+2024-07-25T17:04:36+02:00,RU7MTEAM7-------------GPB-000600--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---ARG01,Argentina,Team,ARG,Argentina,14,POINTS,L,1
+2024-07-25T17:04:36+02:00,RU7MTEAM7-------------GPB-000600--,RU7MTEAM7,Men,Men's Pool B,Pool B,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---AUS01,Australia,Team,AUS,Australia,22,POINTS,W,2
+2024-07-25T17:05:50+02:00,RU7MTEAM7-------------GPC-000600--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,19,POINTS,W,1
+2024-07-25T17:05:50+02:00,RU7MTEAM7-------------GPC-000600--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FRA01,France,Team,FRA,France,12,POINTS,L,2
+2024-07-25T17:20:34+02:00,RU7MTEAM7-------------GPC-000500--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---USA01,United States of America,Team,USA,United States,33,POINTS,W,1
+2024-07-25T17:20:34+02:00,RU7MTEAM7-------------GPC-000500--,RU7MTEAM7,Men,Men's Pool C,Pool C,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---URU01,Uruguay,Team,URU,Uruguay,17,POINTS,L,2
+2024-07-25T20:26:16+02:00,RU7MTEAM7-------------SF9-000100--,RU7MTEAM7,Men,Men's Placing 9-12,Placing 9-12,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---SAM01,Samoa,Team,SAM,Samoa,42,POINTS,W,1
+2024-07-25T20:26:16+02:00,RU7MTEAM7-------------SF9-000100--,RU7MTEAM7,Men,Men's Placing 9-12,Placing 9-12,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---JPN01,Japan,Team,JPN,Japan,7,POINTS,L,2
+2024-07-25T21:02:12+02:00,RU7MTEAM7-------------SF9-000200--,RU7MTEAM7,Men,Men's Placing 9-12,Placing 9-12,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---URU01,Uruguay,Team,URU,Uruguay,14,POINTS,L,1
+2024-07-25T21:02:12+02:00,RU7MTEAM7-------------SF9-000200--,RU7MTEAM7,Men,Men's Placing 9-12,Placing 9-12,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---KEN01,Kenya,Team,KEN,Kenya,19,POINTS,W,2
+2024-07-25T21:27:41+02:00,RU7MTEAM7-------------QFNL000100--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,7,POINTS,L,1
+2024-07-25T21:27:41+02:00,RU7MTEAM7-------------QFNL000100--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---RSA01,South Africa,Team,RSA,South Africa,14,POINTS,W,2
+2024-07-25T22:17:26+02:00,RU7MTEAM7-------------QFNL000200--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---ARG01,Argentina,Team,ARG,Argentina,14,POINTS,L,1
+2024-07-25T22:17:26+02:00,RU7MTEAM7-------------QFNL000200--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FRA01,France,Team,FRA,France,26,POINTS,W,2
+2024-07-25T22:53:40+02:00,RU7MTEAM7-------------QFNL000300--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,19,POINTS,W,1
+2024-07-25T22:53:40+02:00,RU7MTEAM7-------------QFNL000300--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---IRL01,Ireland,Team,IRL,Ireland,15,POINTS,L,2
+2024-07-25T22:55:05+02:00,RU7MTEAM7-------------QFNL000400--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---AUS01,Australia,Team,AUS,Australia,18,POINTS,W,1
+2024-07-25T22:55:05+02:00,RU7MTEAM7-------------QFNL000400--,RU7MTEAM7,Men,Men's Quarter-final,Quarter-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---USA01,United States of America,Team,USA,United States,0,POINTS,L,2
+2024-07-25T23:22:12+02:00,RU7MTEAM7-------------GPA-000600--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,14,POINTS,W,1
+2024-07-25T23:22:12+02:00,RU7MTEAM7-------------GPA-000600--,RU7MTEAM7,Men,Men's Pool A,Pool A,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---IRL01,Ireland,Team,IRL,Ireland,12,POINTS,L,2
+2024-07-27T15:00:29+02:00,RU7MTEAM7-------------SF5-000100--,RU7MTEAM7,Men,Men's Placing 5-8,Placing 5-8,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,17,POINTS,W,1
+2024-07-27T15:00:29+02:00,RU7MTEAM7-------------SF5-000100--,RU7MTEAM7,Men,Men's Placing 5-8,Placing 5-8,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---ARG01,Argentina,Team,ARG,Argentina,12,POINTS,L,2
+2024-07-27T15:26:29+02:00,RU7MTEAM7-------------SF5-000200--,RU7MTEAM7,Men,Men's Placing 5-8,Placing 5-8,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---IRL01,Ireland,Team,IRL,Ireland,17,POINTS,W,1
+2024-07-27T15:26:29+02:00,RU7MTEAM7-------------SF5-000200--,RU7MTEAM7,Men,Men's Placing 5-8,Placing 5-8,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---USA01,United States of America,Team,USA,United States,14,POINTS,L,2
+2024-07-27T15:51:48+02:00,RU7MTEAM7-------------SFNL000100--,RU7MTEAM7,Men,Men's Semi-final,Semi-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---RSA01,South Africa,Team,RSA,South Africa,5,POINTS,L,1
+2024-07-27T15:51:48+02:00,RU7MTEAM7-------------SFNL000100--,RU7MTEAM7,Men,Men's Semi-final,Semi-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FRA01,France,Team,FRA,France,19,POINTS,W,2
+2024-07-27T16:22:02+02:00,RU7MTEAM7-------------SFNL000200--,RU7MTEAM7,Men,Men's Semi-final,Semi-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,31,POINTS,W,1
+2024-07-27T16:22:02+02:00,RU7MTEAM7-------------SFNL000200--,RU7MTEAM7,Men,Men's Semi-final,Semi-final,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---AUS01,Australia,Team,AUS,Australia,7,POINTS,L,2
+2024-07-27T17:20:40+02:00,RU7MTEAM7-------------FNL-000500--,RU7MTEAM7,Men,Men's Placing 9-10,Placing 9-10,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---SAM01,Samoa,Team,SAM,Samoa,5,POINTS,L,1
+2024-07-27T17:20:40+02:00,RU7MTEAM7-------------FNL-000500--,RU7MTEAM7,Men,Men's Placing 9-10,Placing 9-10,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---KEN01,Kenya,Team,KEN,Kenya,10,POINTS,W,2
+2024-07-27T17:28:47+02:00,RU7MTEAM7-------------FNL-000600--,RU7MTEAM7,Men,Men's Placing 11-12,Placing 11-12,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---JPN01,Japan,Team,JPN,Japan,10,POINTS,L,1
+2024-07-27T17:28:47+02:00,RU7MTEAM7-------------FNL-000600--,RU7MTEAM7,Men,Men's Placing 11-12,Placing 11-12,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---URU01,Uruguay,Team,URU,Uruguay,21,POINTS,W,2
+2024-07-27T18:36:55+02:00,RU7MTEAM7-------------FNL-000400--,RU7MTEAM7,Men,Men's Placing 7-8,Placing 7-8,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---ARG01,Argentina,Team,ARG,Argentina,19,POINTS,W,1
+2024-07-27T18:36:55+02:00,RU7MTEAM7-------------FNL-000400--,RU7MTEAM7,Men,Men's Placing 7-8,Placing 7-8,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---USA01,United States of America,Team,USA,United States,0,POINTS,L,2
+2024-07-27T18:52:10+02:00,RU7MTEAM7-------------FNL-000300--,RU7MTEAM7,Men,Men's Placing 5-6,Placing 5-6,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,17,POINTS,W,1
+2024-07-27T18:52:10+02:00,RU7MTEAM7-------------FNL-000300--,RU7MTEAM7,Men,Men's Placing 5-6,Placing 5-6,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---IRL01,Ireland,Team,IRL,Ireland,7,POINTS,L,2
+2024-07-27T19:22:45+02:00,RU7MTEAM7-------------FNL-000200--,RU7MTEAM7,Men,Men's Bronze Medal Match,Bronze Medal Match,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---RSA01,South Africa,Team,RSA,South Africa,26,POINTS,W,1
+2024-07-27T19:22:45+02:00,RU7MTEAM7-------------FNL-000200--,RU7MTEAM7,Men,Men's Bronze Medal Match,Bronze Medal Match,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---AUS01,Australia,Team,AUS,Australia,19,POINTS,L,2
+2024-07-27T20:08:40+02:00,RU7MTEAM7-------------FNL-000100--,RU7MTEAM7,Men,Men's Gold Medal Match,Gold Medal Match,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FRA01,France,Team,FRA,France,28,POINTS,W,1
+2024-07-27T20:08:40+02:00,RU7MTEAM7-------------FNL-000100--,RU7MTEAM7,Men,Men's Gold Medal Match,Gold Medal Match,M,Rugby Sevens,RU7,Stade de France,RU7MTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,7,POINTS,L,2
+2024-07-28T15:58:17+02:00,RU7WTEAM7-------------GPB-000100--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---IRL01,Ireland,Team,IRL,Ireland,12,POINTS,L,1
+2024-07-28T15:58:17+02:00,RU7WTEAM7-------------GPB-000100--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---GBR01,Great Britain,Team,GBR,Great Britain,21,POINTS,W,2
+2024-07-28T16:53:51+02:00,RU7WTEAM7-------------GPC-000100--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---USA01,United States of America,Team,USA,United States,36,POINTS,W,1
+2024-07-28T16:53:51+02:00,RU7WTEAM7-------------GPC-000100--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---JPN01,Japan,Team,JPN,Japan,7,POINTS,L,2
+2024-07-28T17:20:32+02:00,RU7WTEAM7-------------GPC-000200--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FRA01,France,Team,FRA,France,26,POINTS,W,1
+2024-07-28T17:20:32+02:00,RU7WTEAM7-------------GPC-000200--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---BRA01,Brazil,Team,BRA,Brazil,0,POINTS,L,2
+2024-07-28T17:53:33+02:00,RU7WTEAM7-------------GPA-000100--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,14,POINTS,L,1
+2024-07-28T17:53:33+02:00,RU7WTEAM7-------------GPA-000100--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CAN01,Canada,Team,CAN,Canada,17,POINTS,W,2
+2024-07-28T18:22:24+02:00,RU7WTEAM7-------------GPA-000200--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,43,POINTS,W,1
+2024-07-28T18:22:24+02:00,RU7WTEAM7-------------GPA-000200--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CHN01,People's Republic of China,Team,CHN,China,5,POINTS,L,2
+2024-07-28T19:29:09+02:00,RU7WTEAM7-------------GPB-000300--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---IRL01,Ireland,Team,IRL,Ireland,38,POINTS,W,1
+2024-07-28T19:29:09+02:00,RU7WTEAM7-------------GPB-000300--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---RSA01,South Africa,Team,RSA,South Africa,0,POINTS,L,2
+2024-07-28T19:55:04+02:00,RU7WTEAM7-------------GPB-000400--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---AUS01,Australia,Team,AUS,Australia,36,POINTS,W,1
+2024-07-28T19:55:04+02:00,RU7WTEAM7-------------GPB-000400--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---GBR01,Great Britain,Team,GBR,Great Britain,5,POINTS,L,2
+2024-07-28T20:28:29+02:00,RU7WTEAM7-------------GPC-000300--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---USA01,United States of America,Team,USA,United States,24,POINTS,W,1
+2024-07-28T20:28:29+02:00,RU7WTEAM7-------------GPC-000300--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---BRA01,Brazil,Team,BRA,Brazil,5,POINTS,L,2
+2024-07-28T20:55:20+02:00,RU7WTEAM7-------------GPC-000400--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FRA01,France,Team,FRA,France,49,POINTS,W,1
+2024-07-28T20:55:20+02:00,RU7WTEAM7-------------GPC-000400--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---JPN01,Japan,Team,JPN,Japan,0,POINTS,L,2
+2024-07-28T21:21:04+02:00,RU7WTEAM7-------------GPA-000300--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,12,POINTS,L,1
+2024-07-28T21:21:04+02:00,RU7WTEAM7-------------GPA-000300--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CHN01,People's Republic of China,Team,CHN,China,40,POINTS,W,2
+2024-07-28T21:51:36+02:00,RU7WTEAM7-------------GPA-000400--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,33,POINTS,W,1
+2024-07-28T21:51:36+02:00,RU7WTEAM7-------------GPA-000400--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CAN01,Canada,Team,CAN,Canada,7,POINTS,L,2
+2024-07-29T15:28:14+02:00,RU7WTEAM7-------------GPC-000500--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---JPN01,Japan,Team,JPN,Japan,39,POINTS,W,1
+2024-07-29T15:28:14+02:00,RU7WTEAM7-------------GPC-000500--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---BRA01,Brazil,Team,BRA,Brazil,12,POINTS,L,2
+2024-07-29T16:26:24+02:00,RU7WTEAM7-------------GPC-000600--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FRA01,France,Team,FRA,France,31,POINTS,W,1
+2024-07-29T16:26:24+02:00,RU7WTEAM7-------------GPC-000600--,RU7WTEAM7,Women,Women's Pool C,Pool C,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---USA01,United States of America,Team,USA,United States,14,POINTS,L,2
+2024-07-29T16:27:09+02:00,RU7WTEAM7-------------GPA-000500--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CAN01,Canada,Team,CAN,Canada,26,POINTS,W,1
+2024-07-29T16:27:09+02:00,RU7WTEAM7-------------GPA-000500--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CHN01,People's Republic of China,Team,CHN,China,17,POINTS,L,2
+2024-07-29T17:04:02+02:00,RU7WTEAM7-------------GPA-000600--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,38,POINTS,W,1
+2024-07-29T17:04:02+02:00,RU7WTEAM7-------------GPA-000600--,RU7WTEAM7,Women,Women's Pool A,Pool A,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,7,POINTS,L,2
+2024-07-29T18:08:56+02:00,RU7WTEAM7-------------GPB-000500--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---GBR01,Great Britain,Team,GBR,Great Britain,26,POINTS,W,1
+2024-07-29T18:08:56+02:00,RU7WTEAM7-------------GPB-000500--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---RSA01,South Africa,Team,RSA,South Africa,17,POINTS,L,2
+2024-07-29T18:09:01+02:00,RU7WTEAM7-------------GPB-000600--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---AUS01,Australia,Team,AUS,Australia,19,POINTS,W,1
+2024-07-29T18:09:01+02:00,RU7WTEAM7-------------GPB-000600--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---IRL01,Ireland,Team,IRL,Ireland,14,POINTS,L,2
+2024-07-29T20:22:55+02:00,RU7WTEAM7-------------SF9-000100--,RU7WTEAM7,Women,Women's Placing 9-12,Placing 9-12,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---JPN01,Japan,Team,JPN,Japan,15,POINTS,W,1
+2024-07-29T20:22:55+02:00,RU7WTEAM7-------------SF9-000100--,RU7WTEAM7,Women,Women's Placing 9-12,Placing 9-12,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---RSA01,South Africa,Team,RSA,South Africa,12,POINTS,L,2
+2024-07-29T20:51:13+02:00,RU7WTEAM7-------------SF9-000200--,RU7WTEAM7,Women,Women's Placing 9-12,Placing 9-12,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,22,POINTS,L,1
+2024-07-29T20:51:13+02:00,RU7WTEAM7-------------SF9-000200--,RU7WTEAM7,Women,Women's Placing 9-12,Placing 9-12,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---BRA01,Brazil,Team,BRA,Brazil,28,POINTS,W,2
+2024-07-29T21:22:55+02:00,RU7WTEAM7-------------QFNL000100--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,55,POINTS,W,1
+2024-07-29T21:22:55+02:00,RU7WTEAM7-------------QFNL000100--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CHN01,People's Republic of China,Team,CHN,China,5,POINTS,L,2
+2024-07-29T22:22:49+02:00,RU7WTEAM7-------------QFNL000300--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FRA01,France,Team,FRA,France,14,POINTS,L,1
+2024-07-29T22:22:49+02:00,RU7WTEAM7-------------QFNL000300--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CAN01,Canada,Team,CAN,Canada,19,POINTS,W,2
+2024-07-29T22:52:15+02:00,RU7WTEAM7-------------QFNL000400--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---AUS01,Australia,Team,AUS,Australia,40,POINTS,W,1
+2024-07-29T22:52:15+02:00,RU7WTEAM7-------------QFNL000400--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---IRL01,Ireland,Team,IRL,Ireland,7,POINTS,L,2
+2024-07-29T23:23:34+02:00,RU7WTEAM7-------------QFNL000200--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---GBR01,Great Britain,Team,GBR,Great Britain,7,POINTS,L,1
+2024-07-29T23:23:34+02:00,RU7WTEAM7-------------QFNL000200--,RU7WTEAM7,Women,Women's Quarter-final,Quarter-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---USA01,United States of America,Team,USA,United States,17,POINTS,W,2
+2024-07-30T14:53:28+02:00,RU7WTEAM7-------------SF5-000100--,RU7WTEAM7,Women,Women's Placing 5-8,Placing 5-8,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CHN01,People's Republic of China,Team,CHN,China,19,POINTS,W,1
+2024-07-30T14:53:28+02:00,RU7WTEAM7-------------SF5-000100--,RU7WTEAM7,Women,Women's Placing 5-8,Placing 5-8,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---GBR01,Great Britain,Team,GBR,Great Britain,15,POINTS,L,2
+2024-07-30T15:20:14+02:00,RU7WTEAM7-------------SF5-000200--,RU7WTEAM7,Women,Women's Placing 5-8,Placing 5-8,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FRA01,France,Team,FRA,France,19,POINTS,W,1
+2024-07-30T15:20:14+02:00,RU7WTEAM7-------------SF5-000200--,RU7WTEAM7,Women,Women's Placing 5-8,Placing 5-8,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---IRL01,Ireland,Team,IRL,Ireland,7,POINTS,L,2
+2024-07-30T15:51:13+02:00,RU7WTEAM7-------------SFNL000100--,RU7WTEAM7,Women,Women's Semi-final,Semi-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,24,POINTS,W,1
+2024-07-30T15:51:13+02:00,RU7WTEAM7-------------SFNL000100--,RU7WTEAM7,Women,Women's Semi-final,Semi-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---USA01,United States of America,Team,USA,United States,12,POINTS,L,2
+2024-07-30T16:59:36+02:00,RU7WTEAM7-------------FNL-000600--,RU7WTEAM7,Women,Women's Placing 11-12,Placing 11-12,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---RSA01,South Africa,Team,RSA,South Africa,21,POINTS,W,1
+2024-07-30T16:59:36+02:00,RU7WTEAM7-------------FNL-000600--,RU7WTEAM7,Women,Women's Placing 11-12,Placing 11-12,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FIJ01,Fiji,Team,FIJ,Fiji,15,POINTS,L,2
+2024-07-30T17:24:15+02:00,RU7WTEAM7-------------FNL-000500--,RU7WTEAM7,Women,Women's Placing 9-10,Placing 9-10,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---JPN01,Japan,Team,JPN,Japan,38,POINTS,W,1
+2024-07-30T17:24:15+02:00,RU7WTEAM7-------------FNL-000500--,RU7WTEAM7,Women,Women's Placing 9-10,Placing 9-10,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---BRA01,Brazil,Team,BRA,Brazil,7,POINTS,L,2
+2024-07-30T17:24:35+02:00,RU7WTEAM7-------------SFNL000200--,RU7WTEAM7,Women,Women's Semi-final,Semi-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CAN01,Canada,Team,CAN,Canada,21,POINTS,W,1
+2024-07-30T17:24:35+02:00,RU7WTEAM7-------------SFNL000200--,RU7WTEAM7,Women,Women's Semi-final,Semi-final,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---AUS01,Australia,Team,AUS,Australia,12,POINTS,L,2
+2024-07-30T18:39:34+02:00,RU7WTEAM7-------------FNL-000400--,RU7WTEAM7,Women,Women's Placing 7-8,Placing 7-8,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---GBR01,Great Britain,Team,GBR,Great Britain,28,POINTS,W,1
+2024-07-30T18:39:34+02:00,RU7WTEAM7-------------FNL-000400--,RU7WTEAM7,Women,Women's Placing 7-8,Placing 7-8,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---IRL01,Ireland,Team,IRL,Ireland,12,POINTS,L,2
+2024-07-30T18:50:09+02:00,RU7WTEAM7-------------GPB-000200--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---AUS01,Australia,Team,AUS,Australia,34,POINTS,W,1
+2024-07-30T18:50:09+02:00,RU7WTEAM7-------------GPB-000200--,RU7WTEAM7,Women,Women's Pool B,Pool B,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---RSA01,South Africa,Team,RSA,South Africa,5,POINTS,L,2
+2024-07-30T18:50:55+02:00,RU7WTEAM7-------------FNL-000300--,RU7WTEAM7,Women,Women's Placing 5-6,Placing 5-6,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CHN01,People's Republic of China,Team,CHN,China,7,POINTS,L,1
+2024-07-30T18:50:55+02:00,RU7WTEAM7-------------FNL-000300--,RU7WTEAM7,Women,Women's Placing 5-6,Placing 5-6,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---FRA01,France,Team,FRA,France,21,POINTS,W,2
+2024-07-30T19:26:47+02:00,RU7WTEAM7-------------FNL-000200--,RU7WTEAM7,Women,Women's Bronze Medal Match,Bronze Medal Match,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---USA01,United States of America,Team,USA,United States,14,POINTS,W,1
+2024-07-30T19:26:47+02:00,RU7WTEAM7-------------FNL-000200--,RU7WTEAM7,Women,Women's Bronze Medal Match,Bronze Medal Match,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---AUS01,Australia,Team,AUS,Australia,12,POINTS,L,2
+2024-07-30T20:07:17+02:00,RU7WTEAM7-------------FNL-000100--,RU7WTEAM7,Women,Women's Gold Medal Match,Gold Medal Match,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---NZL01,New Zealand,Team,NZL,New Zealand,19,POINTS,W,1
+2024-07-30T20:07:17+02:00,RU7WTEAM7-------------FNL-000100--,RU7WTEAM7,Women,Women's Gold Medal Match,Gold Medal Match,W,Rugby Sevens,RU7,Stade de France,RU7WTEAM7---CAN01,Canada,Team,CAN,Canada,12,POINTS,L,2
