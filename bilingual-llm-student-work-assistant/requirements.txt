@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+accelerate
+tokenizers
+sentencepiece
+pandas
+numpy
+tqdm
+regex
+beautifulsoup4
+lxml
+streamlit
+scikit-learn
+matplotlib
+langdetect
