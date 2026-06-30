@@ -1,0 +1,15 @@
+version: 1
+tokenizer:
+  algorithm: sentencepiece_unigram
+  vocab_sizes: [32000, 40000, 50000]
+  character_coverage: 0.9995
+  lowercase: false
+  sample_languages: [de, en, mixed]
+benchmark:
+  path: data/eval/tokenizer_benchmark.jsonl
+  metrics:
+    - chars_per_token
+    - key_term_fragmentation
+    - citation_fragmentation
+    - language_efficiency
+

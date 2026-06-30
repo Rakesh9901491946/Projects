@@ -1,0 +1,18 @@
+version: 1
+model:
+  architecture: decoder_only_transformer
+  parameter_budget: 150M
+  context_length: 2048
+  norm: rmsnorm
+  position_encoding: rope
+data:
+  language_mix:
+    de: 0.45
+    en: 0.45
+    mixed: 0.10
+training:
+  objective: causal_lm
+  precision: bf16
+  save_every_steps: 1000
+  eval_every_steps: 500
+

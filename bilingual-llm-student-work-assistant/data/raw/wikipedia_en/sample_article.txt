@@ -1,0 +1,5 @@
+# Meeting Documentation
+
+Meeting documentation captures decisions, action items, and open questions in a structured way.
+
+Well-formed records improve team continuity and accountability.

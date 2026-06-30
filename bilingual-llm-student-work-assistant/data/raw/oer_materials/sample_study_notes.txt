@@ -1,0 +1,5 @@
+# Transformer Basics
+
+Transformers rely on attention mechanisms to relate tokens to one another.
+
+Tokenization quality affects efficiency in both English and German learning materials.

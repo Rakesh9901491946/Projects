@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "metrics": [
+    "factual_consistency",
+    "schema_compliance",
+    "citation_consistency",
+    "bilingual_quality",
+    "coverage"
+  ],
+  "thresholds": {
+    "schema_compliance_min": 1.0,
+    "citation_consistency_min": 0.9,
+    "factual_consistency_min": 0.9
+  }
+}

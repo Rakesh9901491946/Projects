@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "wikipedia_de",
+      "language": "de",
+      "domain": "encyclopedic",
+      "license": "CC-BY-SA",
+      "enabled": true,
+      "raw_dir": "data/raw/wikipedia_de",
+      "file_extensions": ["txt", "md"],
+      "notes": "German Wikipedia dump placeholder"
+    },
+    {
+      "id": "wikipedia_en",
+      "language": "en",
+      "domain": "encyclopedic",
+      "license": "CC-BY-SA",
+      "enabled": true,
+      "raw_dir": "data/raw/wikipedia_en",
+      "file_extensions": ["txt", "md"],
+      "notes": "English Wikipedia dump placeholder"
+    },
+    {
+      "id": "eu_documents_multilingual",
+      "language": "mixed",
+      "domain": "government",
+      "license": "verify-per-document",
+      "enabled": true,
+      "raw_dir": "data/raw/eu_documents_multilingual",
+      "file_extensions": ["txt", "md"],
+      "notes": "EU publications and summaries with reusable metadata"
+    },
+    {
+      "id": "oer_materials",
+      "language": "mixed",
+      "domain": "education",
+      "license": "verify-per-document",
+      "enabled": true,
+      "raw_dir": "data/raw/oer_materials",
+      "file_extensions": ["txt", "md"],
+      "notes": "Open educational resources"
+    }
+  ]
+}

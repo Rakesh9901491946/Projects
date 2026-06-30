@@ -1,0 +1,13 @@
+version: 1
+tasks:
+  - meeting_minutes
+  - project_report
+  - study_notes
+  - professional_summary
+defaults:
+  citation_style: apa-like
+  strict_schema_validation: true
+data:
+  include_synthetic: true
+  include_curated_gold: true
+
