@@ -4,7 +4,11 @@ from html import escape
 from pathlib import Path
 
 import streamlit as st
-from pypdf import PdfReader
+
+try:
+    from pypdf import PdfReader
+except ImportError:
+    PdfReader = None
 
 from bilingual_productivity_llm.common.schemas import GenerationRequest, NoteToStructureExample
 from bilingual_productivity_llm.common.tasks import TASK_SCHEMAS
@@ -207,10 +211,12 @@ def _render_hero() -> None:
         unsafe_allow_html=True,
     )
 
-
 def _extract_text_from_upload(uploaded: st.runtime.uploaded_file_manager.UploadedFile) -> str:
     suffix = Path(uploaded.name).suffix.lower()
+
     if suffix == ".pdf":
+        if PdfReader is None:
+            return ""
         try:
             reader = PdfReader(uploaded)
             text = "\n".join((page.extract_text() or "").strip() for page in reader.pages)
@@ -219,6 +225,7 @@ def _extract_text_from_upload(uploaded: st.runtime.uploaded_file_manager.Uploade
         except Exception:
             uploaded.seek(0)
             return ""
+
     try:
         return uploaded.getvalue().decode("utf-8").strip()
     except UnicodeDecodeError:
@@ -228,15 +235,19 @@ def _extract_text_from_upload(uploaded: st.runtime.uploaded_file_manager.Uploade
             return ""
 
 
-def _read_uploaded_notes(uploaded_files: list[st.runtime.uploaded_file_manager.UploadedFile]) -> tuple[str, list[str]]:
+def _read_uploaded_notes(
+    uploaded_files: list[st.runtime.uploaded_file_manager.UploadedFile],
+) -> tuple[str, list[str]]:
     chunks: list[str] = []
     unreadable: list[str] = []
+
     for uploaded in uploaded_files:
         content = _extract_text_from_upload(uploaded)
         if content.strip():
             chunks.append(f"# File: {uploaded.name}\n{content.strip()}")
         else:
             unreadable.append(uploaded.name)
+
     return "\n\n".join(chunks), unreadable
 
 
